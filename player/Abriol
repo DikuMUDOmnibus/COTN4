@@ -1,0 +1,898 @@
+#PLAYERS
+Name         Abriol~
+Switchname   Abriol~
+PlayerID     2590
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        35
+Morph        Abriol the #GAn#gti#0-#7Pal#gad#Gin#n~
+Createtime   Sun Jul  4 10:58:44 2010~
+Lasttime     ~
+Lasthost     ~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       65536
+Sex          1
+Timetick     59
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   2
+PlayerRace   0
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   322
+Bladeexp	  0
+Pc_build 4
+Pc_eyes 2
+Pc_hair 2
+Pc_looks 1
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   4
+Genexp       35834780
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   128
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       1696
+Room         3005
+PkPdMkMd     0 0 1259 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      87 0 0 264 0 0 0 0 0 0 0 0 0
+Spells       203 0 9 0 36
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0
+Stance2      0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   25841 25841 8614 8614 11871 11871
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          136039434
+Act          100681706
+Act2         4607
+Special      0
+Bones        52196
+Newbits      1073741824
+Newbits2     0
+Sohbits      0
+Extra        4
+AffectedBy   3145736
+AffectedBy2   0
+Position     9
+Practice     515
+SavingThrow  0
+Alignment    -1000
+Hitroll      1271
+Damroll      1247
+Armor        670
+Wimpy        0
+Deaf         0
+WpnResist     103 0 0 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Ab9NubhWdZ9l6~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     16 16 11 11 12
+AttrMod      3 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        12553856 73586 61282 332 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 116471 0 0 0 0 
+Stats        1 0 0 0 0 0 0 0 64420 239420 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1278255524
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 147 17
+AffectData   -1 190 14
+AffectData   -1 170 12
+AffectData   -1 142 13
+AffectData   -1 58 19
+AffectData   -1 56 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 128 17
+AffectData   -1 126 14
+AffectData   -1 164 12
+AffectData   -1 198 13
+AffectData   -1 95 19
+AffectData   -1 89 18
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Abriol~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Abriol~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Abriol~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud blacken sword weapon~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n glimmering from the shadows.~
+Questmaker   Abriol~
+Vnum         30340
+ExtraFlags   16386
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 10 17 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud blacken sword weapon~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n glimmering from the shadows.~
+Questmaker   Abriol~
+Vnum         30340
+ExtraFlags   16386
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 7 11 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud leg leggings~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n~
+Description  A set of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n lay here in the shadows.~
+Questmaker   Abriol~
+Vnum         30336
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 6
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud plate body~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n lays here.~
+Questmaker   Abriol~
+Vnum         30333
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Gauntlets#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Gauntlets#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 50 17
+AffectData   -1 184 14
+AffectData   -1 114 12
+AffectData   -1 139 13
+AffectData   -1 96 19
+AffectData   -1 59 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 51 17
+AffectData   -1 178 14
+AffectData   -1 156 12
+AffectData   -1 189 13
+AffectData   -1 75 19
+AffectData   -1 71 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -35 17
+AffectData   -1 124 14
+AffectData   -1 200 12
+AffectData   -1 195 13
+AffectData   -1 92 19
+AffectData   -1 94 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Helmet#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Helmet#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 95 17
+AffectData   -1 122 14
+AffectData   -1 180 12
+AffectData   -1 174 13
+AffectData   -1 62 19
+AffectData   -1 94 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Mask#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Mask#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 106 17
+AffectData   -1 113 14
+AffectData   -1 174 12
+AffectData   -1 107 13
+AffectData   -1 90 19
+AffectData   -1 97 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Sleeves#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Sleeves#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -35 17
+AffectData   -1 116 14
+AffectData   -1 153 12
+AffectData   -1 102 13
+AffectData   -1 74 19
+AffectData   -1 72 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Shield#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Shield#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 6 17
+AffectData   -1 103 14
+AffectData   -1 150 12
+AffectData   -1 195 13
+AffectData   -1 62 19
+AffectData   -1 84 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Necklace#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Necklace#n lies on the ground.~
+Questowner   Abriol~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 147 17
+AffectData   -1 141 14
+AffectData   -1 130 12
+AffectData   -1 141 13
+AffectData   -1 73 19
+AffectData   -1 85 18
+End
+
+#END

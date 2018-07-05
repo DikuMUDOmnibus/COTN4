@@ -1,0 +1,931 @@
+#PLAYERS
+Name         Beren~
+Switchname   Beren~
+PlayerID     2262
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        29
+Morph        ~
+Createtime   Sat Aug 29 00:15:45 2009~
+Lasttime     Mon Sep 21 11:25:08 2009~
+Lasthost     ip-198-252-245-195.vbgov.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       69504
+Sex          1
+Timetick     2
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   13
+PlayerRace   18
+PlayerRaceLevel 21
+PcPractice   111
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   896
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       13380
+Room         3005
+PkPdMkMd     0 0 15328 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      720 720 0 720 720 640 0 0 720 0 0 720 0
+Spells       216 200 207 200 216
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 15 15 15 15 20815
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   106414 106414 56100 56100 56607 56607
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          1968415648
+Act          18208
+Act2         4607
+Special      0
+Bones        -2413460
+Newbits      1073741824
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   1573000
+AffectedBy2   0
+Position     9
+Practice     4
+SavingThrow  0
+Alignment    0
+Hitroll      3101
+Damroll      3294
+Armor        -1698
+Wimpy        0
+Deaf         0
+WpnResist     501 0 0 0 0 0 4 0 0 501 84 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Bez1Ix5vj.q9A~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        227183954 162561 1255047 486 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 5 5 10 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1251519345
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Rapier #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Rapier lies on the ground.#n~
+Questmaker   Beren~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65632
+Quest2        4
+Points       8352
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 506 582 11
+AffectData   -1 485 18
+AffectData   -1 600 19
+AffectData   -1 1678 13
+AffectData   -1 1992 12
+AffectData   -1 2139 14
+AffectData   -1 -266 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Helmet#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Helmet#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 8
+AffectData   -1 186 18
+AffectData   -1 193 19
+AffectData   -1 311 13
+AffectData   -1 314 12
+AffectData   -1 410 14
+AffectData   -1 -250 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n lies on the ground.~
+Questmaker   Beren~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        66560
+Quest2        4
+Points       -16036
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 92 18
+AffectData   -1 51 19
+AffectData   -1 161 13
+AffectData   -1 149 12
+AffectData   -1 122 14
+AffectData   -1 0 17
+AffectData   -1 -50 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 97 18
+AffectData   -1 81 19
+AffectData   -1 163 13
+AffectData   -1 108 12
+AffectData   -1 107 14
+AffectData   -1 2 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 96 18
+AffectData   -1 86 19
+AffectData   -1 175 13
+AffectData   -1 171 12
+AffectData   -1 127 14
+AffectData   -1 45 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 55 19
+AffectData   -1 175 13
+AffectData   -1 132 12
+AffectData   -1 144 14
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Cloak#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Cloak#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 56 18
+AffectData   -1 66 19
+AffectData   -1 157 13
+AffectData   -1 165 12
+AffectData   -1 166 14
+AffectData   -1 12 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 58 18
+AffectData   -1 54 19
+AffectData   -1 183 13
+AffectData   -1 182 12
+AffectData   -1 101 14
+AffectData   -1 -33 17
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Beren~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Beren~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud bracer wrist~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n is here shimmering with power.~
+Questmaker   Beren~
+Vnum         30339
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       3
+Spectype     16777216
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud leg leggings~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n~
+Description  A set of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n lay here in the shadows.~
+Questmaker   Beren~
+Vnum         30336
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 6
+End
+
+#OBJECT
+Nest         0
+Name         mindcloud newbie sleeves arms~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #DSl#we#Wev#0e#ws#n~
+Description  Some #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #DSl#we#Wev#0e#ws#n let off a faint glimmer in the shadows.~
+Questmaker   Beren~
+Vnum         30335
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Armor#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Armor#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 191 18
+AffectData   -1 189 19
+AffectData   -1 353 13
+AffectData   -1 336 12
+AffectData   -1 407 14
+AffectData   -1 -233 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Ring#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Ring#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -229 17
+AffectData   -1 443 14
+AffectData   -1 468 12
+AffectData   -1 371 13
+AffectData   -1 183 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Gauntlets#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Gauntlets#n lies on the ground.~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -252 17
+AffectData   -1 415 14
+AffectData   -1 333 12
+AffectData   -1 312 13
+AffectData   -1 186 19
+AffectData   -1 194 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Dagger #n~
+Description  #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Dagger lies on the ground.#n~
+Questmaker   Beren~
+Questowner   Beren~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65632
+Quest2        4
+Points       8352
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 479 522 2
+AffectData   -1 -459 17
+AffectData   -1 2026 14
+AffectData   -1 1750 12
+AffectData   -1 2375 13
+AffectData   -1 600 19
+AffectData   -1 432 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#END

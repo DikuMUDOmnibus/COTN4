@@ -1,0 +1,1731 @@
+#PLAYERS
+Name         Dazar~
+Switchname   Dazar~
+PlayerID     2570
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        31
+Morph        ~
+Createtime   Mon May 31 23:44:55 2010~
+Lasttime     Thu Jun  3 22:08:20 2010~
+Lasthost     pool-70-21-8-30.res.east.verizon.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       65536
+Sex          1
+Timetick     23
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       38306783
+Polyaff      0
+PlayerRank   3
+PlayerRace   15
+PlayerRaceLevel 8
+PcPractice   32
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 3
+Pc_eyes 9
+Pc_hair 7
+Pc_looks 4
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   1
+Symbiotetype   2
+Symbiotemkills 335
+Itemaffect   768
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       8326
+Room         50931
+PkPdMkMd     0 0 5328 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      99 273 0 576 0 0 0 0 276 0 0 0 0
+Spells       33 0 21 0 75
+Combat       0 0 0 0 0 0 0 0
+Stance       5 200 200 200 200 200 0 0 0 0 0 0
+Stance2      5 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   106484 106484 16759 16759 16961 16961
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          8635853832
+Act          18208
+Act2         7135
+Special      0
+Bones        56749
+Newbits      0
+Newbits2     262144
+Sohbits      0
+Extra        12
+AffectedBy   1048576
+AffectedBy2   0
+Position     9
+Practice     60
+SavingThrow  0
+Alignment    0
+Hitroll      2395
+Damroll      2570
+Armor        -225
+Wimpy        0
+Deaf         0
+WpnResist     125 0 0 0 0 0 2 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     DadHZO/MVQzDY~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     44 43 43 64 45
+AttrMod      3 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        90017941 81274 456535 186 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 21 20 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1275363895
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'cure blindness'
+Skill        100 'cure poison'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'locate object'
+Skill        100 'pass door'
+Skill        100 'protection'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'stone skin'
+Skill        100 'gas breath'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'spellproof'
+Skill        100 'resistance'
+Skill        100 'improve'
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Helmet#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Helmet#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 100 18
+AffectData   -1 85 19
+AffectData   -1 153 13
+AffectData   -1 158 12
+AffectData   -1 172 14
+AffectData   -1 130 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Necklace#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Necklace#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 94 19
+AffectData   -1 129 13
+AffectData   -1 200 12
+AffectData   -1 118 14
+AffectData   -1 122 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Necklace#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Necklace#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 99 18
+AffectData   -1 71 19
+AffectData   -1 153 13
+AffectData   -1 143 12
+AffectData   -1 121 14
+AffectData   -1 73 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Ring#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Ring#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 9 17
+AffectData   -1 135 14
+AffectData   -1 172 12
+AffectData   -1 171 13
+AffectData   -1 93 19
+AffectData   -1 65 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 46 17
+AffectData   -1 132 14
+AffectData   -1 149 12
+AffectData   -1 179 13
+AffectData   -1 60 19
+AffectData   -1 65 18
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud leg leggings~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n~
+Description  A set of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n lay here in the shadows.~
+Questmaker   Dazar~
+Vnum         30336
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 6
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud plate body~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n lays here.~
+Questmaker   Dazar~
+Vnum         30333
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Ring#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Ring#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 53 18
+AffectData   -1 63 19
+AffectData   -1 166 13
+AffectData   -1 135 12
+AffectData   -1 148 14
+AffectData   -1 17 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Katana #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Katana lies on the ground.#n~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 95 112 1
+AffectData   -1 460 18
+AffectData   -1 553 19
+AffectData   -1 1766 13
+AffectData   -1 1167 12
+AffectData   -1 1078 14
+AffectData   -1 -119 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Shield#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Shield#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -38 17
+AffectData   -1 170 14
+AffectData   -1 126 12
+AffectData   -1 187 13
+AffectData   -1 73 19
+AffectData   -1 83 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -27 17
+AffectData   -1 192 14
+AffectData   -1 191 12
+AffectData   -1 103 13
+AffectData   -1 96 19
+AffectData   -1 54 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Gauntlets#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -254 17
+AffectData   -1 432 14
+AffectData   -1 342 12
+AffectData   -1 403 13
+AffectData   -1 195 19
+AffectData   -1 185 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Mask#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Mask#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 143 17
+AffectData   -1 109 14
+AffectData   -1 122 12
+AffectData   -1 141 13
+AffectData   -1 57 19
+AffectData   -1 84 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Boots#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Boots#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -5 17
+AffectData   -1 177 14
+AffectData   -1 178 12
+AffectData   -1 171 13
+AffectData   -1 55 19
+AffectData   -1 66 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 30 17
+AffectData   -1 176 14
+AffectData   -1 145 12
+AffectData   -1 199 13
+AffectData   -1 75 19
+AffectData   -1 85 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Belt#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Belt#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 31 17
+AffectData   -1 157 14
+AffectData   -1 136 12
+AffectData   -1 157 13
+AffectData   -1 97 19
+AffectData   -1 85 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Gauntlets#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -30 17
+AffectData   -1 166 14
+AffectData   -1 113 12
+AffectData   -1 104 13
+AffectData   -1 54 19
+AffectData   -1 83 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Boots#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Boots#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 54 17
+AffectData   -1 199 14
+AffectData   -1 169 12
+AffectData   -1 144 13
+AffectData   -1 90 19
+AffectData   -1 77 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #GO#gr#ng#7a#nn#gi#Gc #7Flail #n~
+Description  #GO#gr#ng#7a#nn#gi#Gc #7Flail lies on the ground.#n~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 76 115 8
+AffectData   -1 -202 17
+AffectData   -1 1585 14
+AffectData   -1 1743 12
+AffectData   -1 1566 13
+AffectData   -1 465 19
+AffectData   -1 411 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Bracelet#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Bracelet#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -281 17
+AffectData   -1 405 14
+AffectData   -1 304 12
+AffectData   -1 321 13
+AffectData   -1 186 19
+AffectData   -1 182 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 150 17
+AffectData   -1 186 14
+AffectData   -1 103 12
+AffectData   -1 106 13
+AffectData   -1 81 19
+AffectData   -1 100 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Cloak#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Cloak#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 135 17
+AffectData   -1 176 14
+AffectData   -1 114 12
+AffectData   -1 107 13
+AffectData   -1 64 19
+AffectData   -1 78 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 58 17
+AffectData   -1 192 14
+AffectData   -1 170 12
+AffectData   -1 177 13
+AffectData   -1 78 19
+AffectData   -1 58 18
+End
+
+#OBJECT
+Nest         0
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Longsword #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Longsword lies on the ground.#n~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 89 118 3
+AffectData   -1 -43 17
+AffectData   -1 1895 14
+AffectData   -1 2842 12
+AffectData   -1 2045 13
+AffectData   -1 519 19
+AffectData   -1 537 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Shield#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Shield#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -213 17
+AffectData   -1 385 14
+AffectData   -1 405 12
+AffectData   -1 311 13
+AffectData   -1 195 19
+AffectData   -1 183 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Sleeves#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Sleeves#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -2 17
+AffectData   -1 156 14
+AffectData   -1 111 12
+AffectData   -1 178 13
+AffectData   -1 71 19
+AffectData   -1 86 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Shield#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Shield#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 51 17
+AffectData   -1 117 14
+AffectData   -1 177 12
+AffectData   -1 176 13
+AffectData   -1 83 19
+AffectData   -1 87 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 139 17
+AffectData   -1 110 14
+AffectData   -1 197 12
+AffectData   -1 175 13
+AffectData   -1 55 19
+AffectData   -1 74 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Belt#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Belt#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 97 17
+AffectData   -1 189 14
+AffectData   -1 175 12
+AffectData   -1 111 13
+AffectData   -1 75 19
+AffectData   -1 83 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Belt#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Belt#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 50 18
+AffectData   -1 95 19
+AffectData   -1 179 13
+AffectData   -1 128 12
+AffectData   -1 109 14
+AffectData   -1 17 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Cloak#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Cloak#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 90 17
+AffectData   -1 175 14
+AffectData   -1 104 12
+AffectData   -1 196 13
+AffectData   -1 68 19
+AffectData   -1 56 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Gauntlets#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -44 17
+AffectData   -1 181 14
+AffectData   -1 198 12
+AffectData   -1 100 13
+AffectData   -1 75 19
+AffectData   -1 77 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Belt#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Belt#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 2 17
+AffectData   -1 119 14
+AffectData   -1 105 12
+AffectData   -1 143 13
+AffectData   -1 98 19
+AffectData   -1 61 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 145 17
+AffectData   -1 197 14
+AffectData   -1 102 12
+AffectData   -1 138 13
+AffectData   -1 57 19
+AffectData   -1 75 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Boots#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Boots#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 65 17
+AffectData   -1 192 14
+AffectData   -1 102 12
+AffectData   -1 143 13
+AffectData   -1 93 19
+AffectData   -1 83 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Helmet#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Helmet#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 61 17
+AffectData   -1 121 14
+AffectData   -1 108 12
+AffectData   -1 200 13
+AffectData   -1 96 19
+AffectData   -1 54 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 150 17
+AffectData   -1 141 14
+AffectData   -1 168 12
+AffectData   -1 197 13
+AffectData   -1 77 19
+AffectData   -1 88 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Bracelet#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Bracelet#n lies on the ground.~
+Questowner   Dazar~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 138 17
+AffectData   -1 138 14
+AffectData   -1 159 12
+AffectData   -1 131 13
+AffectData   -1 71 19
+AffectData   -1 91 18
+End
+
+#END

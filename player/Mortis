@@ -1,0 +1,2665 @@
+#PLAYERS
+Name         Mortis~
+Switchname   Mortis~
+PlayerID     2302
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        33
+Morph        ~
+Createtime   Sat Sep 19 19:00:53 2009~
+Lasttime     Wed Dec 30 09:03:01 2009~
+Lasthost     140.6.46.187.isp.timbrasil.com.br~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       73728
+Sex          1
+Timetick     5
+Race         1
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    -6
+Revision     1
+Pagelen      0
+DamRed 54 7
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   1
+PlayerRaceLevel 177
+PcPractice   952
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 3
+Pc_eyes 3
+Pc_hair 9
+Pc_looks 3
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   2000
+Symbiotedr   460
+Symbiotehr   210
+Symbiotelvl  0
+Symbiotepoints   34
+Symbiotetype   2
+Symbiotemkills 700
+Itemaffect   271
+Chakra       6030
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       115992
+Room         50918
+PkPdMkMd     3 6 388862 2
+Alos         1
+Awin         1
+Bank         0
+Weapons      960 349 228 491 204 207 262 399 960 258 205 204 210
+Spells       216 204 204 204 216
+Combat       0 0 0 0 0 0 0 0
+Stance       9 200 200 200 200 200 200 200 200 200 200 0
+Stance2      9 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   104023 104023 54922 54922 51062 51062
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          12435415288
+Act          100681722
+Act2         4607
+Special      0
+Bones        11811602
+Newbits      33554432
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   1613962
+AffectedBy2   0
+Position     9
+Practice     178
+SavingThrow  0
+Alignment    1000
+Hitroll      3924
+Damroll      3889
+Armor        -3999
+Wimpy        0
+Deaf         0
+WpnResist     132 177 501 501 0 177 0 0 0 1 2 501 32 
+MagResist     0 0 0 0 0 0 0 0 
+Password     MoNHipSyCKJ9g~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Sejik~
+Lastdecap2      Sejik~
+Retaliation     Sargonnas~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    64
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     80 87 80 80 80
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        -497236873 544969 38567550 1027 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        4 0 3 1 3 1 6 0 2 1 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1253401253
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+Alias      sau~ jutsu sautchen~
+Alias      short~ sau jutsu sautchen~
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Katana #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Katana lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      22
+ItemType     5
+Weight       1
+Spectype     524296
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 77 125 1
+AffectData   -1 -228 17
+AffectData   -1 1508 14
+AffectData   -1 1737 12
+AffectData   -1 1143 13
+AffectData   -1 420 19
+AffectData   -1 492 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Dagger #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Dagger lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 83 119 2
+AffectData   -1 -196 17
+AffectData   -1 1149 14
+AffectData   -1 1575 12
+AffectData   -1 2148 13
+AffectData   -1 409 19
+AffectData   -1 466 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Katana #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Katana lies on the ground.#n~
+Questmaker   Mortis~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        3
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17001 182 204 1
+AffectData   -1 -69 17
+AffectData   -1 1223 14
+AffectData   -1 2880 12
+AffectData   -1 2362 13
+AffectData   -1 581 19
+AffectData   -1 570 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Whip ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Whip #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Whip lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 95 105 4
+AffectData   -1 -409 17
+AffectData   -1 1020 14
+AffectData   -1 1937 12
+AffectData   -1 2171 13
+AffectData   -1 475 19
+AffectData   -1 443 18
+End
+
+#OBJECT
+Nest         0
+Name         shinobi katana~
+OwnerID      2302
+ShortDescr   #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Description  #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Questmaker   Mortis~
+Questowner   Mortis~
+Vnum         406
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     524288
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        96
+Quest2        3
+Points       30000
+Level        50
+Timer        0
+Cost         150000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17037 740 1121 3
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 5 18
+AffectData   -1 5 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Ring#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Ring#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 7
+AffectData   -1 -268 17
+AffectData   -1 354 14
+AffectData   -1 446 12
+AffectData   -1 439 13
+AffectData   -1 180 19
+AffectData   -1 183 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Gauntlets#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Gauntlets#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 10
+AffectData   -1 -274 17
+AffectData   -1 362 14
+AffectData   -1 499 12
+AffectData   -1 482 13
+AffectData   -1 194 19
+AffectData   -1 181 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Leggings#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 13
+AffectData   -1 193 18
+AffectData   -1 185 19
+AffectData   -1 360 13
+AffectData   -1 302 12
+AffectData   -1 302 14
+AffectData   -1 -219 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Mortis~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 200 181 0 189 0 221 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Helmet#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Helmet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 11
+AffectData   -1 -300 17
+AffectData   -1 357 14
+AffectData   -1 399 12
+AffectData   -1 398 13
+AffectData   -1 200 19
+AffectData   -1 197 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Belt#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Belt#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -212 17
+AffectData   -1 346 14
+AffectData   -1 414 12
+AffectData   -1 498 13
+AffectData   -1 193 19
+AffectData   -1 193 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Ring#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Ring#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 8
+AffectData   -1 -263 17
+AffectData   -1 353 14
+AffectData   -1 463 12
+AffectData   -1 477 13
+AffectData   -1 181 19
+AffectData   -1 192 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Necklace#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Necklace#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 9
+AffectData   -1 -256 17
+AffectData   -1 407 14
+AffectData   -1 343 12
+AffectData   -1 447 13
+AffectData   -1 187 19
+AffectData   -1 181 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Armor#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Armor#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 12
+AffectData   -1 -291 17
+AffectData   -1 334 14
+AffectData   -1 376 12
+AffectData   -1 329 13
+AffectData   -1 188 19
+AffectData   -1 196 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Necklace#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Necklace#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 6
+AffectData   -1 -257 17
+AffectData   -1 353 14
+AffectData   -1 388 12
+AffectData   -1 414 13
+AffectData   -1 198 19
+AffectData   -1 197 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Bracelet#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Bracelet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -259 17
+AffectData   -1 443 14
+AffectData   -1 307 12
+AffectData   -1 452 13
+AffectData   -1 194 19
+AffectData   -1 200 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Mask#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Mask#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -271 17
+AffectData   -1 489 14
+AffectData   -1 357 12
+AffectData   -1 451 13
+AffectData   -1 190 19
+AffectData   -1 196 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Sleeves#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Sleeves#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 2
+AffectData   -1 -204 17
+AffectData   -1 418 14
+AffectData   -1 425 12
+AffectData   -1 360 13
+AffectData   -1 194 19
+AffectData   -1 198 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 5
+AffectData   -1 -283 17
+AffectData   -1 381 14
+AffectData   -1 475 12
+AffectData   -1 332 13
+AffectData   -1 195 19
+AffectData   -1 200 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 198 18
+AffectData   -1 180 19
+AffectData   -1 479 13
+AffectData   -1 305 12
+AffectData   -1 408 14
+AffectData   -1 -202 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Cloak#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Cloak#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 182 18
+AffectData   -1 183 19
+AffectData   -1 311 13
+AffectData   -1 433 12
+AffectData   -1 433 14
+AffectData   -1 -224 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Shield#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Shield#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     17301505
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 3
+AffectData   -1 190 18
+AffectData   -1 189 19
+AffectData   -1 492 13
+AffectData   -1 450 12
+AffectData   -1 454 14
+AffectData   -1 -247 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Shield#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Shield#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 185 18
+AffectData   -1 200 19
+AffectData   -1 464 13
+AffectData   -1 344 12
+AffectData   -1 314 14
+AffectData   -1 -253 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Flail #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Flail lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 97 125 8
+AffectData   -1 575 18
+AffectData   -1 434 19
+AffectData   -1 1266 13
+AffectData   -1 1940 12
+AffectData   -1 1957 14
+AffectData   -1 -459 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Scythe ~
+OwnerID      0
+ShortDescr   #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Scythe #n~
+Description  #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Scythe lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 80 105 1
+AffectData   -1 482 18
+AffectData   -1 473 19
+AffectData   -1 1153 13
+AffectData   -1 1626 12
+AffectData   -1 1366 14
+AffectData   -1 -367 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Boots#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Boots#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 184 18
+AffectData   -1 189 19
+AffectData   -1 484 13
+AffectData   -1 402 12
+AffectData   -1 363 14
+AffectData   -1 -253 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Leggings#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 181 18
+AffectData   -1 197 19
+AffectData   -1 400 13
+AffectData   -1 332 12
+AffectData   -1 381 14
+AffectData   -1 -237 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Cloak#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Cloak#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 184 18
+AffectData   -1 185 19
+AffectData   -1 456 13
+AffectData   -1 438 12
+AffectData   -1 458 14
+AffectData   -1 -220 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Leggings#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 180 18
+AffectData   -1 197 19
+AffectData   -1 369 13
+AffectData   -1 452 12
+AffectData   -1 434 14
+AffectData   -1 -225 17
+End
+
+#OBJECT
+Nest         0
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Kama #n~
+Description  #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Kama lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 84 118 3
+AffectData   -1 -309 17
+AffectData   -1 1578 14
+AffectData   -1 2659 12
+AffectData   -1 2913 13
+AffectData   -1 478 19
+AffectData   -1 519 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 199 18
+AffectData   -1 194 19
+AffectData   -1 334 13
+AffectData   -1 433 12
+AffectData   -1 368 14
+AffectData   -1 -268 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Leggings#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 192 18
+AffectData   -1 189 19
+AffectData   -1 410 13
+AffectData   -1 363 12
+AffectData   -1 475 14
+AffectData   -1 -282 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Whip ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Whip #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Whip lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 93 123 4
+AffectData   -1 427 18
+AffectData   -1 455 19
+AffectData   -1 2109 13
+AffectData   -1 2094 12
+AffectData   -1 1910 14
+AffectData   -1 -495 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Cloak#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Cloak#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 63 18
+AffectData   -1 81 19
+AffectData   -1 163 13
+AffectData   -1 190 12
+AffectData   -1 140 14
+AffectData   -1 149 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 96 18
+AffectData   -1 86 19
+AffectData   -1 100 13
+AffectData   -1 142 12
+AffectData   -1 189 14
+AffectData   -1 -22 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Claw ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Claw #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Claw lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 79 109 5
+AffectData   -1 526 18
+AffectData   -1 521 19
+AffectData   -1 1599 13
+AffectData   -1 1241 12
+AffectData   -1 1344 14
+AffectData   -1 -75 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Rapier #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Rapier lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 90 107 11
+AffectData   -1 549 18
+AffectData   -1 404 19
+AffectData   -1 2004 13
+AffectData   -1 1094 12
+AffectData   -1 2439 14
+AffectData   -1 -207 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Gauntlets#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Gauntlets#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 185 18
+AffectData   -1 196 19
+AffectData   -1 404 13
+AffectData   -1 432 12
+AffectData   -1 382 14
+AffectData   -1 -271 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Armor ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Armor#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Armor#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 58 18
+AffectData   -1 51 19
+AffectData   -1 157 13
+AffectData   -1 112 12
+AffectData   -1 131 14
+AffectData   -1 71 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Sleeves#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Sleeves#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 92 18
+AffectData   -1 54 19
+AffectData   -1 113 13
+AffectData   -1 189 12
+AffectData   -1 147 14
+AffectData   -1 -45 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Sleeves#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Sleeves#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 93 19
+AffectData   -1 182 13
+AffectData   -1 161 12
+AffectData   -1 188 14
+AffectData   -1 124 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 66 18
+AffectData   -1 71 19
+AffectData   -1 111 13
+AffectData   -1 194 12
+AffectData   -1 126 14
+AffectData   -1 129 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Boots#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Boots#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 62 18
+AffectData   -1 87 19
+AffectData   -1 150 13
+AffectData   -1 137 12
+AffectData   -1 111 14
+AffectData   -1 111 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Shield#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Shield#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 55 18
+AffectData   -1 69 19
+AffectData   -1 183 13
+AffectData   -1 106 12
+AffectData   -1 117 14
+AffectData   -1 131 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 91 18
+AffectData   -1 75 19
+AffectData   -1 119 13
+AffectData   -1 138 12
+AffectData   -1 107 14
+AffectData   -1 7 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Helmet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Helmet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 93 18
+AffectData   -1 74 19
+AffectData   -1 169 13
+AffectData   -1 108 12
+AffectData   -1 140 14
+AffectData   -1 27 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 58 18
+AffectData   -1 96 19
+AffectData   -1 154 13
+AffectData   -1 125 12
+AffectData   -1 159 14
+AffectData   -1 78 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 52 18
+AffectData   -1 98 19
+AffectData   -1 145 13
+AffectData   -1 123 12
+AffectData   -1 173 14
+AffectData   -1 118 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Bracelet#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Bracelet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 76 18
+AffectData   -1 77 19
+AffectData   -1 185 13
+AffectData   -1 179 12
+AffectData   -1 170 14
+AffectData   -1 35 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 68 18
+AffectData   -1 88 19
+AffectData   -1 180 13
+AffectData   -1 125 12
+AffectData   -1 119 14
+AffectData   -1 130 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Necklace#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Necklace#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 85 18
+AffectData   -1 73 19
+AffectData   -1 111 13
+AffectData   -1 114 12
+AffectData   -1 147 14
+AffectData   -1 10 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Cloak#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Cloak#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 61 18
+AffectData   -1 95 19
+AffectData   -1 186 13
+AffectData   -1 123 12
+AffectData   -1 127 14
+AffectData   -1 33 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Ring#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Ring#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 86 18
+AffectData   -1 57 19
+AffectData   -1 179 13
+AffectData   -1 107 12
+AffectData   -1 106 14
+AffectData   -1 64 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Bracelet#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Bracelet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 180 18
+AffectData   -1 198 19
+AffectData   -1 339 13
+AffectData   -1 355 12
+AffectData   -1 488 14
+AffectData   -1 -206 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Helmet#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Helmet#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 56 18
+AffectData   -1 83 19
+AffectData   -1 156 13
+AffectData   -1 144 12
+AffectData   -1 181 14
+AffectData   -1 18 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Armor#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Armor#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 182 18
+AffectData   -1 200 19
+AffectData   -1 367 13
+AffectData   -1 352 12
+AffectData   -1 355 14
+AffectData   -1 -256 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier lies on the ground.#n~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 100 101 11
+AffectData   -1 588 18
+AffectData   -1 541 19
+AffectData   -1 1008 13
+AffectData   -1 2045 12
+AffectData   -1 1938 14
+AffectData   -1 -89 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n lies on the ground.~
+Questowner   Mortis~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 83 18
+AffectData   -1 54 19
+AffectData   -1 101 13
+AffectData   -1 141 12
+AffectData   -1 110 14
+AffectData   -1 8 17
+End
+
+#END

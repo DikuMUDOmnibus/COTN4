@@ -1,0 +1,1094 @@
+#PLAYERS
+Name         Jynn~
+Switchname   Jynn~
+PlayerID     3104
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 10 0 7 3 0 6 8 0 5 10 0 0 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     20
+DiscPoin     40
+Class        3
+Morph        ~
+Createtime   Wed Mar  7 11:06:16 2012~
+Lasttime     ~
+Lasthost     ~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       73728
+Sex          1
+Timetick     141
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   2
+PlayerRace   7
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 1
+Pc_eyes 4
+Pc_hair 10
+Pc_looks 2
+Gnosis       20
+Clan         (null)~
+Rage         70
+Generation   3
+Genexp       253243332
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      74
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Ability   1 1 1 1 1
+Abilityexp   0 0 0 0 0
+Abilitycur -1 -1 -1 -1 -1 -1
+Itemaffect   6912
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       4240
+Room         3016
+PkPdMkMd     0 0 3680 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      324 0 0 75 0 0 0 450 123 0 132 186 0
+Spells       202 200 200 194 24
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0
+Stance2      0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   32295 40837 25774 25774 30229 30229
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        1
+Explevel     0
+Expgained    0
+Exp          266431
+Act          17952
+Act2         4607
+Special      0
+Bones        8127
+Newbits      794
+Newbits2     0
+Sohbits      0
+Extra        4
+AffectedBy   4194432
+AffectedBy2   0
+Position     9
+Practice     7
+SavingThrow  0
+Alignment    0
+Hitroll      1974
+Damroll      1940
+Armor        -803
+Wimpy        0
+Deaf         0
+WpnResist     501 0 0 0 0 0 0 0 0 194 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Jywfsgit5IIck~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     59 14 19 40 50
+AttrMod      0 0 0 0 0
+Quest        -5000
+Wolf         70
+Rank         0
+Stage        0 0 0
+Score        55070676 382356 291291 1995 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1331136376
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n lies on the ground.~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 79 17
+AffectData   -1 187 14
+AffectData   -1 141 12
+AffectData   -1 115 13
+AffectData   -1 94 19
+AffectData   -1 69 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Ring#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Ring#n lies on the ground.~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -20 17
+AffectData   -1 165 14
+AffectData   -1 141 12
+AffectData   -1 123 13
+AffectData   -1 61 19
+AffectData   -1 99 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Mace ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Mace #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Mace lies on the ground.#n~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     66157
+WeaponLvL     25
+WeaponTotalxp     0
+Values       18000 136 172 7
+AffectData   -1 -200 17
+AffectData   -1 2460 14
+AffectData   -1 1338 12
+AffectData   -1 2634 13
+AffectData   -1 577 19
+AffectData   -1 400 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n lies on the ground.~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -9 17
+AffectData   -1 125 14
+AffectData   -1 161 12
+AffectData   -1 132 13
+AffectData   -1 58 19
+AffectData   -1 92 18
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf ring~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cR#Ci#7n#cg#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33100
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf cape~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cC#Ca#7p#ce#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33110
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 8
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf sleeves~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cS#Cl#7e#Ce#cv#Ce#cs#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33109
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf gloves~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cG#Cl#7ov#Ce#cs#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33108
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf boots~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cB#Co#7o#Ct#cs#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33107
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf bracer~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cB#Cr#7ac#Ce#cr#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33101
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf bracer~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cB#Cr#7ac#Ce#cr#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33101
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf collar~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cC#Co#7ll#Ca#cr#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33102
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf collar~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cC#Co#7ll#Ca#cr#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33102
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf plate~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cP#Cl#7a#Ct#ce#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33103
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf belt~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cB#Ce#7l#ct#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33104
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 17
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf helmet~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cH#Ce#7lm#Ce#ct#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33105
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         moon werewolf leggings~
+OwnerID      0
+ShortDescr   #7A #cL#Cu#7n#Ca#cr #cL#Ce#7g#Cg#ci#7n#Cg#cs#n~
+Description  A piece of moon eq lies here.~
+Questowner   Jynn~
+Vnum         33106
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Klaive Werewolf Greater~
+OwnerID      3104
+ShortDescr   a Greater Klaive~
+Description  A greater Klaive lies here~
+Questowner   Jynn~
+Vnum         29697
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     41975808
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        0
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     99544
+WeaponLvL     20
+WeaponTotalxp     0
+Values       1 70 100 11
+AffectData   -1 12 19
+AffectData   -1 12 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Flail #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Flail lies on the ground.#n~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3398
+WeaponLvL     15
+WeaponTotalxp     0
+Values       18000 116 132 8
+AffectData   -1 -22 17
+AffectData   -1 2504 14
+AffectData   -1 1387 12
+AffectData   -1 1833 13
+AffectData   -1 401 19
+AffectData   -1 548 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Leggings#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Leggings#n lies on the ground.~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     35
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -213 17
+AffectData   -1 442 14
+AffectData   -1 450 12
+AffectData   -1 448 13
+AffectData   -1 199 19
+AffectData   -1 185 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Necklace#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Necklace#n lies on the ground.~
+Questowner   Jynn~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 132 17
+AffectData   -1 119 14
+AffectData   -1 195 12
+AffectData   -1 111 13
+AffectData   -1 55 19
+AffectData   -1 86 18
+End
+
+#END

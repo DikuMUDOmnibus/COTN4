@@ -1,0 +1,178 @@
+#PLAYERS
+Name         Misaki~
+Switchname   Misaki~
+PlayerID     2996
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        31
+Morph        ~
+Createtime   Mon Feb 14 11:22:51 2011~
+Lasttime     Thu Feb 17 18:27:23 2011~
+Lasthost     209~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       0
+Sex          2
+Timetick     9
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     0
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       33554432
+Polyaff      0
+PlayerRank   1
+PlayerRace   0
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  8788
+Pc_build 4
+Pc_eyes 2
+Pc_hair 11
+Pc_looks 3
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   6
+Genexp       134668
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Ability   1 1 1 1 1
+Abilityexp   0 0 0 0 0
+Abilitycur -1 -1 -1 -1 -1 -1
+Itemaffect   0
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       766
+Room         3006
+PkPdMkMd     0 0 2 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      99 0 0 0 0 0 0 0 0 0 0 0 0
+Spells       0 0 0 0 0
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0
+Stance2      0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   5000 5000 5000 5000 5000 5000
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          529440
+Act          1568
+Act2         0
+Special      0
+Bones        0
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        6156
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     0
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+WpnResist     2 0 0 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Mi9Dk286dse0c~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   Tue Feb 15 10:28:43 2011~
+Parents      ~
+Cparents     Touma~
+Marriage     ~
+AttrPerm     18 18 18 18 18
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 250 180
+Score        7773 4581 50 30 0 0
+Genes        5000 5000 5000 0 2 0 0 0 63 1
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1297700571
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'berserk'
+End
+
+#END

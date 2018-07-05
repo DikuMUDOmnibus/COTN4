@@ -1,0 +1,1667 @@
+#PLAYERS
+Name         Akraine~
+Switchname   Akraine~
+PlayerID     2830
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     3
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        31
+Morph        ~
+Createtime   Tue Sep 28 13:36:14 2010~
+Lasttime     Sun Dec 19 09:46:44 2010~
+Lasthost     75-135-249-79.dhcp.krny.ne.charter.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     57
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 97 9
+BankMem 1
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   10
+PlayerRaceLevel 200
+PcPractice   1000
+Pcwpnprof    4101
+Pcmaxwpnprof 3
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 1
+Pc_eyes 6
+Pc_hair 4
+Pc_looks 3
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   390
+Symbiotedr   25
+Symbiotehr   20
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   2
+Symbiotemkills 252
+Ability   1 11 14 8 1
+Abilityexp   0 206872759 88367065 40029693 0
+Abilitycur -1 -1 -1 -1 -1 1
+Itemaffect   536887695
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       50384
+Room         40005
+PkPdMkMd     0 0 83874 0
+Alos         1
+Awin         0
+Bank         130984
+Weapons      1180 1180 1080 1180 1080 1080 1080 1080 1080 1080 1080 1080 1080
+Spells       220 202 202 202 219
+Combat       0 0 0 0 0 0 0 0
+Stance       17 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 15 15 2095 2127 20815
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   141557 141557 54960 54960 54814 54814
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          887146602
+Act          100683770
+Act2         4605
+Special      2
+Bones        20407
+Newbits      33554432
+Newbits2     1074233344
+Sohbits      0
+Extra        12
+AffectedBy   1607354
+AffectedBy2   0
+Position     9
+Practice     189
+SavingThrow  1
+Alignment    -1000
+Hitroll      7749
+Damroll      7155
+Armor        -4845
+Wimpy        0
+Deaf         0
+WpnResist     501 19 0 501 469 38 378 0 0 11 0 8 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Ak7AoUbRgr9XM~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        -1649854484 892227 11319266 2120 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 21 20 20 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1285698974
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1291630470 Ideas 1286099667 Announce 1284909504 Bugs 1285853023 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+AffectData   'detect magic'  79   0   0         16
+AffectData   'detect hidden'  79   0   0         32
+AffectData   'detect invis'  79   0   0          8
+AffectData   'curse' 5929   1  24       1024
+AffectData   'curse' 5929  -1  18       1024
+End
+
+#OBJECT
+Nest         0
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Leggings#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Leggings#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 28 17
+AffectData   -1 191 14
+AffectData   -1 116 12
+AffectData   -1 127 13
+AffectData   -1 79 19
+AffectData   -1 58 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Bracelet#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Bracelet#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 40 17
+AffectData   -1 135 14
+AffectData   -1 106 12
+AffectData   -1 176 13
+AffectData   -1 76 19
+AffectData   -1 84 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Bracelet#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Bracelet#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -268 17
+AffectData   -1 450 14
+AffectData   -1 461 12
+AffectData   -1 438 13
+AffectData   -1 181 19
+AffectData   -1 196 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 50 17
+AffectData   -1 156 14
+AffectData   -1 115 12
+AffectData   -1 115 13
+AffectData   -1 86 19
+AffectData   -1 77 18
+End
+
+#OBJECT
+Nest         0
+Name         torch~
+OwnerID      0
+ShortDescr   a torch~
+Description  A large torch.~
+Questowner   Akraine~
+Vnum         3030
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      0
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         10
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 24 0
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Akraine~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 31 60 0 91 27877866 116 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Ring#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Ring#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     797
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 194 18
+AffectData   -1 186 19
+AffectData   -1 418 13
+AffectData   -1 500 12
+AffectData   -1 380 14
+AffectData   -1 -245 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3242
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 12
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 186 18
+AffectData   -1 193 19
+AffectData   -1 416 13
+AffectData   -1 318 12
+AffectData   -1 301 14
+AffectData   -1 -288 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Sleeves#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Sleeves#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3040
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 1
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -242 17
+AffectData   -1 315 14
+AffectData   -1 459 12
+AffectData   -1 391 13
+AffectData   -1 196 19
+AffectData   -1 183 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Belt#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Belt#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     475
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -228 17
+AffectData   -1 313 14
+AffectData   -1 468 12
+AffectData   -1 388 13
+AffectData   -1 191 19
+AffectData   -1 189 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Leggings#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Leggings#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     271
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 5
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -251 17
+AffectData   -1 350 14
+AffectData   -1 311 12
+AffectData   -1 361 13
+AffectData   -1 196 19
+AffectData   -1 188 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     431
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 6
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -294 17
+AffectData   -1 368 14
+AffectData   -1 458 12
+AffectData   -1 500 13
+AffectData   -1 186 19
+AffectData   -1 183 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Boots#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Boots#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1807
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 9
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 181 18
+AffectData   -1 198 19
+AffectData   -1 475 13
+AffectData   -1 346 12
+AffectData   -1 443 14
+AffectData   -1 -288 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Cloak#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Cloak#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1244
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 10
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 196 18
+AffectData   -1 185 19
+AffectData   -1 338 13
+AffectData   -1 358 12
+AffectData   -1 432 14
+AffectData   -1 -261 17
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2830
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Akraine~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      25
+ItemType     36
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Quest2        4
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       3 20 20 0
+AffectData   -1 200 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2830
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Akraine~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      23
+ItemType     36
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Quest2        4
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       3 20 20 0
+AffectData   -1 200 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2830
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Akraine~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 20 20 16
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Akraine~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       150 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         blademaster mastery~
+OwnerID      2830
+ShortDescr   #0|#c[#0-#c=#gB#0lad#geM#0aste#gr M#0aster#gy#c=#0-#c]#0|#n~
+Description  #0|#c[#0-#c=#gB#0lad#geM#0aste#gr #gM#0aster#gy#c=#0-#c]#0|#n is here.~
+Questowner   Akraine~
+Vnum         401
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268435456
+Quest2        5
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       60 20 20 21
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Mask#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Mask#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2034
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 3
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 199 18
+AffectData   -1 192 19
+AffectData   -1 385 13
+AffectData   -1 317 12
+AffectData   -1 486 14
+AffectData   -1 -243 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Gauntlets#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Gauntlets#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     120
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 11
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -295 17
+AffectData   -1 492 14
+AffectData   -1 344 12
+AffectData   -1 354 13
+AffectData   -1 180 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Bracelet#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Bracelet#n lies on the ground.~
+Questmaker   Akraine~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268500992
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2467
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 13
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -286 17
+AffectData   -1 342 14
+AffectData   -1 343 12
+AffectData   -1 424 13
+AffectData   -1 200 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2830
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questowner   Akraine~
+Vnum         40033
+ExtraFlags   512
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134289408
+Quest2        7
+Level        50
+Timer        -1
+Cost         1000000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     2296
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 445 470 1
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 5 19
+AffectData   -1 10 18
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2830
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questowner   Akraine~
+Vnum         40033
+ExtraFlags   512
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134289408
+Quest2        7
+Level        50
+Timer        -1
+Cost         1000000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     1497
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 445 470 1
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 5 19
+AffectData   -1 10 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Necklace#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Necklace#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2499
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 0 0 0
+AffectData   -1 189 18
+AffectData   -1 187 19
+AffectData   -1 320 13
+AffectData   -1 495 12
+AffectData   -1 490 14
+AffectData   -1 -215 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Ring#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Ring#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     552
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 0 0 0
+AffectData   -1 192 18
+AffectData   -1 199 19
+AffectData   -1 317 13
+AffectData   -1 445 12
+AffectData   -1 443 14
+AffectData   -1 -253 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Helmet#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Helmet#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1944
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 0 0 0
+AffectData   -1 183 18
+AffectData   -1 180 19
+AffectData   -1 323 13
+AffectData   -1 419 12
+AffectData   -1 435 14
+AffectData   -1 -236 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Sleeves#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Sleeves#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -11 17
+AffectData   -1 136 14
+AffectData   -1 152 12
+AffectData   -1 184 13
+AffectData   -1 70 19
+AffectData   -1 59 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 50 17
+AffectData   -1 174 14
+AffectData   -1 161 12
+AffectData   -1 133 13
+AffectData   -1 78 19
+AffectData   -1 73 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n lies on the ground.~
+Questowner   Akraine~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 8 17
+AffectData   -1 130 14
+AffectData   -1 146 12
+AffectData   -1 108 13
+AffectData   -1 50 19
+AffectData   -1 97 18
+End
+
+#END

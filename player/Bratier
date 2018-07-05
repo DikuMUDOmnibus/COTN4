@@ -1,0 +1,3917 @@
+#PLAYERS
+Name         Bratier~
+Switchname   Bratier~
+PlayerID     2713
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        33
+Morph        ~
+Createtime   Wed Sep  1 18:51:20 2010~
+Lasttime     Tue Sep 14 01:04:04 2010~
+Lasthost     ip68-226-235-15.lf.br.cox.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     2
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   12
+PlayerRace   19
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 1
+Pc_eyes 4
+Pc_hair 10
+Pc_looks 2
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   384
+Chakra       10000
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       26204
+Room         3001
+PkPdMkMd     0 0 14226 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      960 537 0 492 0 0 0 0 0 0 0 237 0
+Spells       205 173 158 172 131
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 9232 10256 10400 20772 21039
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   107793 107793 56786 56786 58634 58634
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          1723767945
+Act          100681450
+Act2         5119
+Special      0
+Bones        10436
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   524288
+AffectedBy2   0
+Position     9
+Practice     150
+SavingThrow  0
+Alignment    0
+Hitroll      3043
+Damroll      3014
+Armor        -1534
+Wimpy        0
+Deaf         64
+WpnResist     501 10 0 0 0 0 0 0 0 98 190 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     BrFAhVmeRSflI~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        379670850 824866 1705392 2915 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        4 0 3 1 3 1 6 0 2 1 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1283385080
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Bratier~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      2713
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 71 18
+AffectData   -1 57 19
+AffectData   -1 131 13
+AffectData   -1 154 12
+AffectData   -1 138 14
+AffectData   -1 59 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      2713
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Ring#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Ring#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     969
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -208 17
+AffectData   -1 357 14
+AffectData   -1 401 12
+AffectData   -1 375 13
+AffectData   -1 196 19
+AffectData   -1 195 18
+End
+
+#OBJECT
+Nest         0
+Name         flashlight~
+OwnerID      2713
+ShortDescr   #GF#wl#ga#Ws#Gh#wl#gi#Wg#Gh#wt~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Roark~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      0
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16908288
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Mask#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 30 17
+AffectData   -1 114 14
+AffectData   -1 192 12
+AffectData   -1 183 13
+AffectData   -1 54 19
+AffectData   -1 60 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -19 17
+AffectData   -1 152 14
+AffectData   -1 149 12
+AffectData   -1 139 13
+AffectData   -1 83 19
+AffectData   -1 59 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Belt#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Belt#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 59 18
+AffectData   -1 100 19
+AffectData   -1 183 13
+AffectData   -1 165 12
+AffectData   -1 133 14
+AffectData   -1 46 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Gauntlets#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Gauntlets#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 62 18
+AffectData   -1 93 19
+AffectData   -1 185 13
+AffectData   -1 166 12
+AffectData   -1 191 14
+AffectData   -1 120 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Katana #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Katana lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     313280
+WeaponLvL     69
+WeaponTotalxp     0
+Values       17000 224 263 1
+AffectData   -1 -66 17
+AffectData   -1 2359 14
+AffectData   -1 1225 12
+AffectData   -1 2224 13
+AffectData   -1 507 19
+AffectData   -1 552 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Helmet#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Helmet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1078
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 187 18
+AffectData   -1 184 19
+AffectData   -1 457 13
+AffectData   -1 495 12
+AffectData   -1 420 14
+AffectData   -1 -218 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Sleeves#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Sleeves#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1282
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -257 17
+AffectData   -1 446 14
+AffectData   -1 441 12
+AffectData   -1 457 13
+AffectData   -1 185 19
+AffectData   -1 193 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Cloak#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Cloak#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 68 18
+AffectData   -1 87 19
+AffectData   -1 186 13
+AffectData   -1 132 12
+AffectData   -1 130 14
+AffectData   -1 104 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Scythe ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Scythe #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Scythe lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     186995
+WeaponLvL     56
+WeaponTotalxp     0
+Values       18000 205 225 1
+AffectData   -1 436 18
+AffectData   -1 553 19
+AffectData   -1 2035 13
+AffectData   -1 1834 12
+AffectData   -1 2092 14
+AffectData   -1 -195 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Kama #n~
+Description  #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Kama lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      22
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 77 120 3
+AffectData   -1 565 18
+AffectData   -1 513 19
+AffectData   -1 1282 13
+AffectData   -1 2807 12
+AffectData   -1 2016 14
+AffectData   -1 -477 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Katana #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Katana lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     36359
+WeaponLvL     69
+WeaponTotalxp     0
+Values       17000 236 248 1
+AffectData   -1 -71 17
+AffectData   -1 1750 14
+AffectData   -1 1150 12
+AffectData   -1 1091 13
+AffectData   -1 423 19
+AffectData   -1 502 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      2713
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Ring#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Ring#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3138
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -265 17
+AffectData   -1 465 14
+AffectData   -1 429 12
+AffectData   -1 368 13
+AffectData   -1 183 19
+AffectData   -1 192 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Bracelet#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2591
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 193 18
+AffectData   -1 194 19
+AffectData   -1 328 13
+AffectData   -1 356 12
+AffectData   -1 479 14
+AffectData   -1 -221 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Armor#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Armor#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     143
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 194 18
+AffectData   -1 198 19
+AffectData   -1 439 13
+AffectData   -1 357 12
+AffectData   -1 449 14
+AffectData   -1 -242 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 62 18
+AffectData   -1 79 19
+AffectData   -1 184 13
+AffectData   -1 110 12
+AffectData   -1 162 14
+AffectData   -1 112 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Boots#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1375
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 3
+AffectData   -1 194 18
+AffectData   -1 199 19
+AffectData   -1 393 13
+AffectData   -1 394 12
+AffectData   -1 492 14
+AffectData   -1 -270 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Leggings#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     11
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 190 18
+AffectData   -1 182 19
+AffectData   -1 470 13
+AffectData   -1 470 12
+AffectData   -1 397 14
+AffectData   -1 -253 17
+End
+
+#OBJECT
+Nest         0
+Name         bob~
+OwnerID      2713
+ShortDescr   bob~
+Description  Bob lies here.~
+Questmaker   Bratier~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        50466816
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         packet of weed~
+OwnerID      0
+ShortDescr   #0A #cP#Cack#ce#Ct #yo#Yf #GW#gee#Gd#n~
+Description  Its a packet #0A #cP#Cack#ce#Ct #yo#Yf #GW#gee#Gd#n.. ~
+Questowner   Bratier~
+Vnum         50501
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       251 17 17 17
+Spell 3      'create food'
+End
+
+#OBJECT
+Nest         1
+Name         newbie snakeskin belt~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#We#wl#0t#n~
+Description  #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#We#wl#0t#n is here, humming with power.~
+Questmaker   Bratier~
+Vnum         2204
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       25
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         cloak~
+OwnerID      0
+ShortDescr   a standard issue cloak~
+Description  You see a standard issue cloak here.~
+Vnum         3355
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Leggings#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 84 18
+AffectData   -1 90 19
+AffectData   -1 141 13
+AffectData   -1 104 12
+AffectData   -1 168 14
+AffectData   -1 52 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Boots#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 65 18
+AffectData   -1 75 19
+AffectData   -1 102 13
+AffectData   -1 125 12
+AffectData   -1 184 14
+AffectData   -1 -29 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Belt#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Belt#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 85 18
+AffectData   -1 95 19
+AffectData   -1 146 13
+AffectData   -1 136 12
+AffectData   -1 120 14
+AffectData   -1 33 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Boots#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 79 18
+AffectData   -1 82 19
+AffectData   -1 192 13
+AffectData   -1 101 12
+AffectData   -1 109 14
+AffectData   -1 -40 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Shield#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 5 17
+AffectData   -1 142 14
+AffectData   -1 159 12
+AffectData   -1 133 13
+AffectData   -1 71 19
+AffectData   -1 79 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 97 18
+AffectData   -1 87 19
+AffectData   -1 108 13
+AffectData   -1 103 12
+AffectData   -1 124 14
+AffectData   -1 79 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Shield#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 87 17
+AffectData   -1 108 14
+AffectData   -1 159 12
+AffectData   -1 198 13
+AffectData   -1 52 19
+AffectData   -1 93 18
+End
+
+#OBJECT
+Nest         1
+Name         gloves~
+OwnerID      0
+ShortDescr   a pair of standard issue gloves~
+Description  You see a pair of standard issue gloves here.~
+Vnum         3359
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 56 18
+AffectData   -1 58 19
+AffectData   -1 131 13
+AffectData   -1 180 12
+AffectData   -1 188 14
+AffectData   -1 79 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Gauntlets#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 90 18
+AffectData   -1 71 19
+AffectData   -1 158 13
+AffectData   -1 181 12
+AffectData   -1 167 14
+AffectData   -1 75 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 74 18
+AffectData   -1 60 19
+AffectData   -1 194 13
+AffectData   -1 148 12
+AffectData   -1 130 14
+AffectData   -1 138 17
+End
+
+#OBJECT
+Nest         1
+Name         leggings~
+OwnerID      0
+ShortDescr   a pair of standard issue leggings~
+Description  You see a pair of standard issue leggings here.~
+Vnum         3357
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Leggings#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 120 17
+AffectData   -1 117 14
+AffectData   -1 134 12
+AffectData   -1 129 13
+AffectData   -1 88 19
+AffectData   -1 93 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 109 17
+AffectData   -1 111 14
+AffectData   -1 181 12
+AffectData   -1 199 13
+AffectData   -1 100 19
+AffectData   -1 97 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Armor ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Armor#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Armor#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -36 17
+AffectData   -1 131 14
+AffectData   -1 178 12
+AffectData   -1 167 13
+AffectData   -1 55 19
+AffectData   -1 81 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Rapier #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Rapier lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 98 119 11
+AffectData   -1 -250 17
+AffectData   -1 2725 14
+AffectData   -1 1330 12
+AffectData   -1 1588 13
+AffectData   -1 441 19
+AffectData   -1 431 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 98 124 11
+AffectData   -1 -400 17
+AffectData   -1 1718 14
+AffectData   -1 1707 12
+AffectData   -1 1101 13
+AffectData   -1 483 19
+AffectData   -1 539 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Leggings#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 77 18
+AffectData   -1 70 19
+AffectData   -1 178 13
+AffectData   -1 107 12
+AffectData   -1 106 14
+AffectData   -1 67 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Helmet#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Helmet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 93 18
+AffectData   -1 87 19
+AffectData   -1 196 13
+AffectData   -1 112 12
+AffectData   -1 142 14
+AffectData   -1 123 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Helmet#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Helmet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 189 18
+AffectData   -1 187 19
+AffectData   -1 441 13
+AffectData   -1 320 12
+AffectData   -1 465 14
+AffectData   -1 -204 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Helmet ~
+OwnerID      2713
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 80 18
+AffectData   -1 67 19
+AffectData   -1 169 13
+AffectData   -1 150 12
+AffectData   -1 191 14
+AffectData   -1 6 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Armor ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Armor#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Armor#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 81 18
+AffectData   -1 99 19
+AffectData   -1 171 13
+AffectData   -1 191 12
+AffectData   -1 134 14
+AffectData   -1 -22 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Shield#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -297 17
+AffectData   -1 423 14
+AffectData   -1 399 12
+AffectData   -1 311 13
+AffectData   -1 183 19
+AffectData   -1 189 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 90 17
+AffectData   -1 172 14
+AffectData   -1 153 12
+AffectData   -1 177 13
+AffectData   -1 63 19
+AffectData   -1 82 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 86 18
+AffectData   -1 87 19
+AffectData   -1 112 13
+AffectData   -1 161 12
+AffectData   -1 195 14
+AffectData   -1 68 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 93 18
+AffectData   -1 73 19
+AffectData   -1 102 13
+AffectData   -1 154 12
+AffectData   -1 146 14
+AffectData   -1 6 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 147 17
+AffectData   -1 100 14
+AffectData   -1 161 12
+AffectData   -1 116 13
+AffectData   -1 95 19
+AffectData   -1 97 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 17 17
+AffectData   -1 165 14
+AffectData   -1 150 12
+AffectData   -1 144 13
+AffectData   -1 58 19
+AffectData   -1 84 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 74 18
+AffectData   -1 70 19
+AffectData   -1 122 13
+AffectData   -1 188 12
+AffectData   -1 114 14
+AffectData   -1 -29 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      2713
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Bracelet#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 79 17
+AffectData   -1 107 14
+AffectData   -1 128 12
+AffectData   -1 100 13
+AffectData   -1 81 19
+AffectData   -1 86 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 97 18
+AffectData   -1 95 19
+AffectData   -1 163 13
+AffectData   -1 107 12
+AffectData   -1 182 14
+AffectData   -1 110 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Belt#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Belt#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 57 18
+AffectData   -1 52 19
+AffectData   -1 125 13
+AffectData   -1 146 12
+AffectData   -1 140 14
+AffectData   -1 23 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Mask#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Mask#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 99 18
+AffectData   -1 96 19
+AffectData   -1 130 13
+AffectData   -1 189 12
+AffectData   -1 156 14
+AffectData   -1 33 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 72 18
+AffectData   -1 55 19
+AffectData   -1 169 13
+AffectData   -1 193 12
+AffectData   -1 138 14
+AffectData   -1 126 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Shield#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     968
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -211 17
+AffectData   -1 352 14
+AffectData   -1 423 12
+AffectData   -1 373 13
+AffectData   -1 196 19
+AffectData   -1 194 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Rapier #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Rapier lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     230051
+WeaponLvL     78
+WeaponTotalxp     0
+Values       18000 248 260 11
+AffectData   -1 -285 17
+AffectData   -1 2854 14
+AffectData   -1 1010 12
+AffectData   -1 1747 13
+AffectData   -1 451 19
+AffectData   -1 585 18
+End
+
+#OBJECT
+Nest         1
+Name         Basic Armor ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Armor#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Armor#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 85 18
+AffectData   -1 93 19
+AffectData   -1 175 13
+AffectData   -1 106 12
+AffectData   -1 155 14
+AffectData   -1 89 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 50 18
+AffectData   -1 51 19
+AffectData   -1 137 13
+AffectData   -1 143 12
+AffectData   -1 118 14
+AffectData   -1 -16 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Ring#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Ring#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 57 18
+AffectData   -1 63 19
+AffectData   -1 197 13
+AffectData   -1 125 12
+AffectData   -1 167 14
+AffectData   -1 128 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Rapier lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 85 104 11
+AffectData   -1 422 18
+AffectData   -1 451 19
+AffectData   -1 1976 13
+AffectData   -1 2420 12
+AffectData   -1 1188 14
+AffectData   -1 -145 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Sleeves#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Sleeves#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 50 18
+AffectData   -1 76 19
+AffectData   -1 119 13
+AffectData   -1 124 12
+AffectData   -1 174 14
+AffectData   -1 55 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Mask#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Mask#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 90 18
+AffectData   -1 50 19
+AffectData   -1 187 13
+AffectData   -1 125 12
+AffectData   -1 135 14
+AffectData   -1 77 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 56 18
+AffectData   -1 61 19
+AffectData   -1 153 13
+AffectData   -1 174 12
+AffectData   -1 114 14
+AffectData   -1 10 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Boots#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Boots#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 88 18
+AffectData   -1 96 19
+AffectData   -1 148 13
+AffectData   -1 139 12
+AffectData   -1 127 14
+AffectData   -1 60 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 80 19
+AffectData   -1 186 13
+AffectData   -1 159 12
+AffectData   -1 140 14
+AffectData   -1 135 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Necklace#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Necklace#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 56 18
+AffectData   -1 99 19
+AffectData   -1 144 13
+AffectData   -1 186 12
+AffectData   -1 170 14
+AffectData   -1 31 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Shield#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Shield#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 189 18
+AffectData   -1 185 19
+AffectData   -1 467 13
+AffectData   -1 340 12
+AffectData   -1 343 14
+AffectData   -1 -232 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Talon #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Talon lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 78 109 5
+AffectData   -1 557 18
+AffectData   -1 526 19
+AffectData   -1 1660 13
+AffectData   -1 1270 12
+AffectData   -1 1489 14
+AffectData   -1 -321 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 76 18
+AffectData   -1 77 19
+AffectData   -1 169 13
+AffectData   -1 150 12
+AffectData   -1 117 14
+AffectData   -1 59 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 53 18
+AffectData   -1 62 19
+AffectData   -1 109 13
+AffectData   -1 193 12
+AffectData   -1 121 14
+AffectData   -1 -45 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Bracelet#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Bracelet#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 90 18
+AffectData   -1 80 19
+AffectData   -1 109 13
+AffectData   -1 136 12
+AffectData   -1 129 14
+AffectData   -1 18 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Belt#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Belt#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 72 18
+AffectData   -1 69 19
+AffectData   -1 112 13
+AffectData   -1 163 12
+AffectData   -1 175 14
+AffectData   -1 14 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 89 18
+AffectData   -1 55 19
+AffectData   -1 143 13
+AffectData   -1 114 12
+AffectData   -1 124 14
+AffectData   -1 64 17
+End
+
+#OBJECT
+Nest         1
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 96 18
+AffectData   -1 50 19
+AffectData   -1 134 13
+AffectData   -1 183 12
+AffectData   -1 159 14
+AffectData   -1 101 17
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Belt#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Belt#n lies on the ground.~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 72 18
+AffectData   -1 77 19
+AffectData   -1 189 13
+AffectData   -1 173 12
+AffectData   -1 151 14
+AffectData   -1 145 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Revolver ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Revolver #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Revolver lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 78 103 6
+AffectData   -1 442 18
+AffectData   -1 455 19
+AffectData   -1 2768 13
+AffectData   -1 2636 12
+AffectData   -1 2516 14
+AffectData   -1 -436 17
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Talon #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Talon lies on the ground.#n~
+Questowner   Bratier~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 90 101 5
+AffectData   -1 407 18
+AffectData   -1 414 19
+AffectData   -1 1630 13
+AffectData   -1 2039 12
+AffectData   -1 2472 14
+AffectData   -1 -411 17
+End
+
+#END

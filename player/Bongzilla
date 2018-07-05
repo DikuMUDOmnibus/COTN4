@@ -1,0 +1,3220 @@
+#PLAYERS
+Name         Bongzilla~
+Switchname   Bongzilla~
+PlayerID     2766
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     4
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        32
+Morph        ~
+Createtime   Sat Sep 18 18:33:23 2010~
+Lasttime     Fri Oct  1 16:38:19 2010~
+Lasthost     OV1-161.aircanopy.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     3
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    -1
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 0
+Faith        39
+Currentfaith 16
+Relpowers    524349
+Immune       39783423
+Polyaff      1024
+PlayerRank   21
+PlayerRace   26
+PlayerRaceLevel 200
+PcPractice   981
+Pcwpnprof    1
+Pcmaxwpnprof 1
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 5
+Pc_eyes 2
+Pc_hair 12
+Pc_looks 6
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   440
+Symbioteaff  0
+Symbiotedc   280
+Symbiotedr   1290
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   7
+Symbiotetype   1
+Symbiotemkills 644
+Itemaffect   536871343
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       247258
+Room         3005
+PkPdMkMd     11 20 403570 1
+Alos         3
+Awin         2
+Bank         17000
+Weapons      600 700 600 231 600 600 600 600 600 243 600 600 600
+Spells       222 225 218 225 222
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 31 31 9391 10783 21039
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   173400 173400 86247 86247 86220 86220
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          64349610453
+Act          100812798
+Act2         126
+Special      2
+Bones        2965275
+Newbits      33554432
+Newbits2     1073741824
+Sohbits      0
+Extra        12
+AffectedBy   1613954
+AffectedBy2   0
+Position     9
+Practice     26
+SavingThrow  0
+Alignment    1000
+Hitroll      4352
+Damroll      4452
+Armor        -1020
+Wimpy        0
+Deaf         0
+WpnResist     501 501 69 501 501 501 33 47 67 501 170 17 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     BoGffNNjUgzeA~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Kamahl~
+Lastdecap2      Mackie~
+Retaliation     Wolfie~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     110 110 110 110 110
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        2112246357 1237716 34055399 4482 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        980991 12 0 0 14 0 0 0 0 0 14 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 1649673422 1651852422 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1284852803
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1284056817 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2766
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questowner   Bongzilla~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        3
+Level        50
+Timer        0
+Cost         1000000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     893
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 425 450 1
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2766
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Bongzilla~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      25
+ItemType     36
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       4 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         weed~
+OwnerID      2766
+ShortDescr   #GA #RSHARPENED #gP#Got #gL#GEAF#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Bongzilla~
+Questowner   Bongzilla~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16973824
+Quest2        3
+Level        50
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 5
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     48
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 425 450 1
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         weed~
+OwnerID      2766
+ShortDescr   #GA #RSHARPENED #gP#Got #gL#GEAF#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Bongzilla~
+Questowner   Bongzilla~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16974816
+Quest2        3
+Points       -24832
+Level        50
+Timer        0
+Cost         1000000
+AttackLvL    1
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     1845
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 425 450 1
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 14
+AffectData   -1 1000 12
+AffectData   -1 1000 13
+AffectData   -1 100 19
+AffectData   -1 100 19
+AffectData   -1 100 18
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2766
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Bongzilla~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      23
+ItemType     36
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       4 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         light~
+OwnerID      2766
+ShortDescr   #GA #g66#G6 #glb #GBo#gN#GG #gOo==---#n~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Bongzilla~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16925824
+Points       8500
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 -1 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 1 13
+AffectData   -1 -2 17
+AffectData   -1 3 1
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Bongzilla~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       100 0 0 8
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Bongzilla~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 116 128 0 126 41302291 170 0
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2766
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Bongzilla~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 0 0 16
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium ring~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         814
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 0
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+End
+
+#OBJECT
+Nest         0
+Name         titanium ring~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         814
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 0
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+End
+
+#OBJECT
+Nest         0
+Name         titanium amulet~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         815
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 3
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium amulet~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         815
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 9
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium bracer~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         816
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium bracer~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         816
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium helmet~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Ch#ce#Wl#cm#Ce#ct #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Ch#ce#Wl#cm#Ce#ct #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         818
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 7
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium leggings~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cl#ce#Wg#cg#Ci#cn#Wg#cs #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cl#ce#Wg#cg#Ci#cn#Wg#cs #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         819
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 5
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium boots~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #cp#Wa#ci#Cr #co#Wf #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cb#co#Wo#ct#Cs #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #cp#Wa#ci#Cr #co#Wf #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cb#co#Wo#ct#Cs #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         820
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 11
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium gloves~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #cp#Wa#ci#Cr #co#Wf #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cg#cl#Wo#cv#Ce#cs #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #cp#Wa#ci#Cr #co#Wf #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cg#cl#Wo#cv#Ce#cs #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         821
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    98
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 10
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium sleeves~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cs#cl#We#ce#Cv#ce#Ws #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cs#cl#We#ce#Cv#ce#Ws #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         822
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 12
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium cape~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ca#Wp#ce #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ca#Wp#ce #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         823
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 6
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium belt~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cb#ce#Wl#ct #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cb#ce#Wl#ct #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         824
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium mask~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cm#ca#Ws#ck #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cm#ca#Ws#ck #C<#c\#W^#c/#C>#n~
+Questowner   Bongzilla~
+Vnum         825
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    -1015807
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       75 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         sigil speed~
+OwnerID      2766
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Questowner   Bongzilla~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil speed~
+OwnerID      2766
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Questowner   Bongzilla~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Shield#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Shield#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 83 18
+AffectData   -1 63 19
+AffectData   -1 184 13
+AffectData   -1 104 12
+AffectData   -1 161 14
+AffectData   -1 95 17
+End
+
+#OBJECT
+Nest         0
+Name         dragon mastery~
+OwnerID      2766
+ShortDescr   #gD#yr#gag#yo#gn #gM#ya#gs#yt#ge#yr#gy#n~
+Description  #gD#yr#gag#yo#gn #gM#ya#gs#yt#ge#yr#gy#n is here.~
+Questowner   Bongzilla~
+Vnum         404
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         15000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 15
+End
+
+#OBJECT
+Nest         0
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Bongzilla~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Bongzilla~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Bongzilla~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Bongzilla~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         Health Rune~
+OwnerID      0
+ShortDescr   a #gH#7ealt#gh #7Rune#n~
+Description  A #gH#7ealt#gh #7Rune#n is here.~
+Questowner   Bongzilla~
+Vnum         402
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     60
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         100000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Health Rune~
+OwnerID      0
+ShortDescr   a #gH#7ealt#gh #7Rune#n~
+Description  A #gH#7ealt#gh #7Rune#n is here.~
+Questowner   Bongzilla~
+Vnum         402
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     60
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         100000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Health Rune~
+OwnerID      0
+ShortDescr   a #gH#7ealt#gh #7Rune#n~
+Description  A #gH#7ealt#gh #7Rune#n is here.~
+Questowner   Bongzilla~
+Vnum         402
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     60
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         100000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Health Rune~
+OwnerID      0
+ShortDescr   a #gH#7ealt#gh #7Rune#n~
+Description  A #gH#7ealt#gh #7Rune#n is here.~
+Questowner   Bongzilla~
+Vnum         402
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     60
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         100000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil water~
+OwnerID      2766
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Questowner   Bongzilla~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil water~
+OwnerID      2766
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Questowner   Bongzilla~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil fire~
+OwnerID      2766
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Questowner   Bongzilla~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Mask~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questowner   Bongzilla~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Belt~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questowner   Bongzilla~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Boots~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questowner   Bongzilla~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Leg Guards~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questowner   Bongzilla~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Helm~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questowner   Bongzilla~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Plate~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questowner   Bongzilla~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Sleeves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Questowner   Bongzilla~
+Vnum         78012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Cape~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questowner   Bongzilla~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       19 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training bucket~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questowner   Bongzilla~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       143 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training mark~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questowner   Bongzilla~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       137 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questowner   Bongzilla~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       119 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questowner   Bongzilla~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       90 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Bongzilla~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       20 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Bongzilla~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       19 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questowner   Bongzilla~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Bongzilla~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Bongzilla~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Bongzilla~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Bongzilla~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Training Pads~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Questowner   Bongzilla~
+Vnum         78006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Mask#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Mask#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 189 18
+AffectData   -1 196 19
+AffectData   -1 497 13
+AffectData   -1 490 12
+AffectData   -1 485 14
+AffectData   -1 -204 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Sleeves#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Sleeves#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 86 19
+AffectData   -1 182 13
+AffectData   -1 188 12
+AffectData   -1 175 14
+AffectData   -1 116 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Boots#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 74 18
+AffectData   -1 73 19
+AffectData   -1 163 13
+AffectData   -1 125 12
+AffectData   -1 180 14
+AffectData   -1 -42 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Gauntlets#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 69 18
+AffectData   -1 51 19
+AffectData   -1 103 13
+AffectData   -1 154 12
+AffectData   -1 166 14
+AffectData   -1 11 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Gauntlets#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Gauntlets#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 71 18
+AffectData   -1 50 19
+AffectData   -1 177 13
+AffectData   -1 151 12
+AffectData   -1 182 14
+AffectData   -1 97 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Sleeves#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Sleeves#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 98 18
+AffectData   -1 85 19
+AffectData   -1 135 13
+AffectData   -1 114 12
+AffectData   -1 191 14
+AffectData   -1 24 17
+End
+
+#OBJECT
+Nest         0
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Necklace#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Necklace#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 96 18
+AffectData   -1 71 19
+AffectData   -1 149 13
+AffectData   -1 109 12
+AffectData   -1 190 14
+AffectData   -1 150 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 78 18
+AffectData   -1 80 19
+AffectData   -1 123 13
+AffectData   -1 183 12
+AffectData   -1 134 14
+AffectData   -1 130 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Cloak#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Cloak#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 75 18
+AffectData   -1 72 19
+AffectData   -1 146 13
+AffectData   -1 107 12
+AffectData   -1 126 14
+AffectData   -1 -48 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 198 18
+AffectData   -1 200 19
+AffectData   -1 301 13
+AffectData   -1 304 12
+AffectData   -1 442 14
+AffectData   -1 -274 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Ring#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Ring#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 75 18
+AffectData   -1 55 19
+AffectData   -1 197 13
+AffectData   -1 120 12
+AffectData   -1 135 14
+AffectData   -1 -29 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Scythe ~
+OwnerID      0
+ShortDescr   #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Scythe #n~
+Description  #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Scythe lies on the ground.#n~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 91 107 1
+AffectData   -1 517 18
+AffectData   -1 546 19
+AffectData   -1 1714 13
+AffectData   -1 2594 12
+AffectData   -1 2398 14
+AffectData   -1 -185 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Kama #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Kama lies on the ground.#n~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 76 118 3
+AffectData   -1 523 18
+AffectData   -1 547 19
+AffectData   -1 2169 13
+AffectData   -1 2672 12
+AffectData   -1 1853 14
+AffectData   -1 -244 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Ring#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Ring#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 184 18
+AffectData   -1 180 19
+AffectData   -1 364 13
+AffectData   -1 303 12
+AffectData   -1 392 14
+AffectData   -1 -217 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Mask#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 67 18
+AffectData   -1 55 19
+AffectData   -1 130 13
+AffectData   -1 175 12
+AffectData   -1 196 14
+AffectData   -1 145 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Cloak#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 67 18
+AffectData   -1 80 19
+AffectData   -1 153 13
+AffectData   -1 105 12
+AffectData   -1 132 14
+AffectData   -1 70 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Shield#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Shield#n lies on the ground.~
+Questowner   Bongzilla~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 191 18
+AffectData   -1 186 19
+AffectData   -1 379 13
+AffectData   -1 382 12
+AffectData   -1 302 14
+AffectData   -1 -274 17
+End
+
+#END

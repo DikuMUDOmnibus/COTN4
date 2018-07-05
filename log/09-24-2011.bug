@@ -1,0 +1,6 @@
+Sat Sep 24 14:00:10 2011 :: Stiehl@75 new player.
+Sat Sep 24 14:10:44 2011 :: Do_help: Stiehl tried 'palading_guide'
+Sat Sep 24 14:10:57 2011 :: [*****] BUG: Char_to_room: Stiehl -> NULL room!  Putting char in limbo (2)
+Sat Sep 24 14:21:33 2011 :: Do_help: Stiehl tried 'ppower'
+Sat Sep 24 14:46:45 2011 :: Do_help: Stiehl tried 'titan'
+Sat Sep 24 15:22:36 2011 :: [*****] BUG: Read_object: vnum 9201 bad type.

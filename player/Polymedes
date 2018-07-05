@@ -1,0 +1,918 @@
+#PLAYERS
+Name         Polymedes~
+Switchname   Polymedes~
+PlayerID     2292
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 5 0 0 0 0 0 0 0 0 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     30
+DiscPoin     51
+Class        1
+Morph        ~
+Createtime   Sun Sep  6 14:37:13 2009~
+Lasttime     ~
+Lasthost     ~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       73728
+Sex          2
+Timetick     80
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   1
+PlayerRace   22
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   5
+Genexp       57339385
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   128
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       2438
+Room         102321
+PkPdMkMd     0 0 277 0
+Alos         0
+Awin         0
+Bank         12000
+Weapons      273 0 0 111 0 0 0 0 0 0 0 0 0
+Spells       0 0 0 0 0
+Combat       0 0 0 0 0 0 0 0
+Stance       2 200 153 0 0 0 0 0 0 0 0 0
+Stance2      2 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   6227 20480 1151 1151 1133 1133
+Warps        4
+WarpCount    1
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          17545297
+Act          67126906
+Act2         6655
+Special      0
+Bones        1710
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        4
+AffectedBy   1573000
+AffectedBy2   0
+Position     9
+Practice     1
+SavingThrow  0
+Alignment    0
+Hitroll      206
+Damroll      195
+Armor        -4
+Wimpy        0
+Deaf         0
+WpnResist     173 0 0 0 0 0 0 0 0 0 67 1 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     PoCIW.zJUGui.~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     15 24 16 10 11
+AttrMod      3 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        2715094 101650 14635 150 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        512 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 36528 53028 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1252262233
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'berserk'
+End
+
+#OBJECT
+Nest         0
+Name         newbie snakeskin belt~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#We#wl#0t#n~
+Description  #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#We#wl#0t#n is here, humming with power.~
+Questmaker   Polymedes~
+Vnum         2204
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       25
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Polymedes~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Polymedes~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Polymedes~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Polymedes~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud blacken sword weapon~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n glimmering from the shadows.~
+Questmaker   Polymedes~
+Vnum         30340
+ExtraFlags   16386
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 5 10 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud blacken sword weapon~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Bl#Wa#wc#0ke#wn S#Wwo#0rd#n glimmering from the shadows.~
+Questmaker   Polymedes~
+Vnum         30340
+ExtraFlags   16386
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 9 16 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud bracer wrist~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n is here shimmering with power.~
+Questmaker   Polymedes~
+Vnum         30339
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud bracer wrist~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Br#Wa#wce#0r#n is here shimmering with power.~
+Questmaker   Polymedes~
+Vnum         30339
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mindcloud newbie boots feet~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#Woo#wt#0s#n~
+Description  A pair of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0B#Woo#wt#0s#n are waiting in the shadows.~
+Questmaker   Polymedes~
+Vnum         30338
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 3
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud gloves hands~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Gl#Wo#wv#0es#n~
+Description  An awesome set of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Gl#Wo#wv#0es#n are here. ~
+Questmaker   Polymedes~
+Vnum         30337
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud leg leggings~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n~
+Description  A set of #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0L#weg#Wgi#0n#wgs#n lay here in the shadows.~
+Questmaker   Polymedes~
+Vnum         30336
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 6
+End
+
+#OBJECT
+Nest         0
+Name         mindcloud newbie sleeves arms~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #DSl#we#Wev#0e#ws#n~
+Description  Some #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #DSl#we#Wev#0e#ws#n let off a faint glimmer in the shadows.~
+Questmaker   Polymedes~
+Vnum         30335
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       7
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud head helmet~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0He#Wl#wm#We#0t#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0He#Wl#wm#We#0t#n lays here in the shadows.~
+Questmaker   Polymedes~
+Vnum         30334
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 8
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud plate body~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0Pl#wa#Wt#0e#n lays here.~
+Questmaker   Polymedes~
+Vnum         30333
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Belt#n lies on the ground.~
+Questowner   Polymedes~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 61 17
+AffectData   -1 133 14
+AffectData   -1 151 12
+AffectData   -1 168 13
+AffectData   -1 75 19
+AffectData   -1 86 18
+End
+
+#OBJECT
+Nest         0
+Name         dagger~
+OwnerID      0
+ShortDescr   a dagger~
+Description  A dagger with a long thin blade is here.~
+Vnum         3020
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         10
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 4 5 11
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Belt#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Belt#n lies on the ground.~
+Questowner   Polymedes~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -276 17
+AffectData   -1 352 14
+AffectData   -1 441 12
+AffectData   -1 461 13
+AffectData   -1 190 19
+AffectData   -1 188 18
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+OwnerID      0
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+OwnerID      0
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+OwnerID      0
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 5 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+OwnerID      0
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         helmet~
+OwnerID      0
+ShortDescr   a standard issue helmet~
+Description  You see a standard issue helmet here.~
+Vnum         3356
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#END

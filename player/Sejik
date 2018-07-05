@@ -1,0 +1,2105 @@
+#PLAYERS
+Name         Sejik~
+Switchname   Sejik~
+PlayerID     2299
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     1
+Kingdom      0
+KingRank	  0
+CPower -2 -2 14 12 10 10 10 10 10 10 10 12 10 10 10 10 10 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 10 10 10 10 10 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        4
+Morph        ~
+Createtime   Thu Sep 17 17:47:14 2009~
+Lasttime     Mon Oct 12 15:02:36 2009~
+Lasthost     host1743300187144.direcway.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     56
+Race         4
+TCol         0
+Relrank      4
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    -1
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 4
+Faith        615
+Currentfaith 139
+Relpowers    4393555
+Immune       39767039
+Polyaff      0
+PlayerRank   21
+PlayerRace   25
+PlayerRaceLevel 200
+PcPractice   1035
+Pcwpnprof    4113
+Pcmaxwpnprof 3
+PlayerPotentia   293
+Bladeexp	  0
+Pc_build 2
+Pc_eyes 3
+Pc_hair 5
+Pc_looks 3
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       16
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   410
+Symbioteaff  0
+Symbiotedc   2000
+Symbiotedr   1005
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   2
+Symbiotetype   2
+Symbiotemkills 122
+Itemaffect   32768
+Chakra       0
+Form         1048575
+Beast        0
+Spectype     0
+Specpower    0
+Home         50772
+Level        2
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       216494
+Room         3054
+PkPdMkMd     17 13 506146 1
+Alos         4
+Awin         5
+Bank         736442
+Weapons      820 820 720 720 720 820 720 720 720 720 720 720 720
+Spells       220 220 220 220 220
+Combat       0 0 0 0 0 0 0 0
+Stance       17 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 5 13 7 15 21039
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   162000 162000 120975 112000 121303 112000
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          819788
+Act          33703898
+Act2         4189
+Special      2
+Bones        269513
+Newbits      33554784
+Newbits2     1210056704
+Sohbits      0
+Extra        1677721612
+AffectedBy   0
+AffectedBy2   2560
+Position     9
+Practice     414
+SavingThrow  0
+Alignment    -1000
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+WpnResist     501 501 501 501 501 501 44 0 0 458 77 34 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     SeLphvWUvIlVY~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Niobium~
+Lastdecap2      Drakkul~
+Retaliation     Noone~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    114
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         6
+Stage        0 0 0
+Score        1207657956 2045111 49835950 7708 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        20 520093697 0 0 0 0 0 0 157805920 158024420 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 8759
+Denied       1253224034
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1255317943 Ideas 1255118317 Announce 1254863685 Bugs 1254401139 Personal 1253711083 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+AffectData2   'darmor'   2 -100  17       2048
+AffectData2   'faith armor'   2 -100  17        512
+End
+
+#OBJECT
+Nest         0
+Name         vampire mastery scar~
+OwnerID      2299
+ShortDescr   #Rthe #0ancient #Rmark #0of #Rthe #0beast#n~
+Description  A scar is here that should not be on the ground.~
+Questmaker   Xrakisis~
+Questowner   Sejik~
+Vnum         33054
+ExtraFlags   4224
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        12
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 17
+End
+
+#OBJECT
+Nest         0
+Name         vampire mastery scar~
+OwnerID      2299
+ShortDescr   #Rthe #0ancient #Rmark #0of #Rthe #0beast#n~
+Description  A scar is here that should not be on the ground.~
+Questowner   Sejik~
+Vnum         33054
+ExtraFlags   4224
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 17
+End
+
+#OBJECT
+Nest         0
+Name         bag~
+OwnerID      2299
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Sejik~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        135168
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Sejik~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Leg Guards~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questowner   Sejik~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questowner   Sejik~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       81 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questowner   Sejik~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       50 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questmaker   Sejik~
+Questowner   Sejik~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questmaker   Sejik~
+Questowner   Sejik~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       145 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Plate~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questowner   Sejik~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Sleeves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Questowner   Sejik~
+Vnum         78012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Cape~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questowner   Sejik~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       24 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training bucket~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questowner   Sejik~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       141 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training mark~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questowner   Sejik~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       62 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Sejik~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Mask~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questowner   Sejik~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Belt~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questowner   Sejik~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Boots~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questowner   Sejik~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Helm~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questowner   Sejik~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Sejik~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Sejik~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questowner   Sejik~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Sejik~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Sejik~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questmaker   Sejik~
+Questowner   Sejik~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       87 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Xrakisis voodoo doll~
+OwnerID      0
+ShortDescr   a voodoo doll of Xrakisis~
+Description  A voodoo doll of Xrakisis lies here.~
+Vnum         30010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     29
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         100
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Xrakisis voodoo doll~
+OwnerID      0
+ShortDescr   a voodoo doll of Xrakisis~
+Description  A voodoo doll of Xrakisis lies here.~
+Vnum         30010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     29
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         100
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ball baal blood~
+OwnerID      2299
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Sejik~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     25
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        135168
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       1000 1000 13 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 198 18
+AffectData   -1 189 19
+AffectData   -1 344 13
+AffectData   -1 394 12
+AffectData   -1 467 14
+AffectData   -1 -267 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Longsword #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Longsword lies on the ground.#n~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 184 225 3
+AffectData   -1 422 18
+AffectData   -1 500 19
+AffectData   -1 2880 13
+AffectData   -1 1840 12
+AffectData   -1 1858 14
+AffectData   -1 -450 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Dagger #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Dagger lies on the ground.#n~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 177 222 2
+AffectData   -1 410 18
+AffectData   -1 584 19
+AffectData   -1 1216 13
+AffectData   -1 1538 12
+AffectData   -1 1691 14
+AffectData   -1 -161 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Gauntlets#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Gauntlets#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 91 18
+AffectData   -1 67 19
+AffectData   -1 120 13
+AffectData   -1 174 12
+AffectData   -1 156 14
+AffectData   -1 14 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Ring#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Ring#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 11
+AffectData   -1 182 18
+AffectData   -1 199 19
+AffectData   -1 376 13
+AffectData   -1 316 12
+AffectData   -1 424 14
+AffectData   -1 -235 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Sejik~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Quest        4096
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 200 189 0 175 0 231 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Leggings#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Leggings#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 2
+AffectData   -1 196 18
+AffectData   -1 195 19
+AffectData   -1 343 13
+AffectData   -1 451 12
+AffectData   -1 339 14
+AffectData   -1 -258 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Bracelet#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Bracelet#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 10
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -282 17
+AffectData   -1 350 14
+AffectData   -1 333 12
+AffectData   -1 398 13
+AffectData   -1 185 19
+AffectData   -1 185 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Ring#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Ring#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -280 17
+AffectData   -1 456 14
+AffectData   -1 392 12
+AffectData   -1 477 13
+AffectData   -1 194 19
+AffectData   -1 193 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Sejik~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       150 0 0 8
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Cloak#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Cloak#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 9
+AffectData   -1 186 18
+AffectData   -1 189 19
+AffectData   -1 328 13
+AffectData   -1 301 12
+AffectData   -1 351 14
+AffectData   -1 -239 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Necklace#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Necklace#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 8
+AffectData   -1 -211 17
+AffectData   -1 396 14
+AffectData   -1 392 12
+AffectData   -1 426 13
+AffectData   -1 183 19
+AffectData   -1 198 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Mask#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Mask#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 12
+AffectData   -1 192 18
+AffectData   -1 191 19
+AffectData   -1 446 13
+AffectData   -1 477 12
+AffectData   -1 334 14
+AffectData   -1 -236 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Armor#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Armor#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 3
+AffectData   -1 190 18
+AffectData   -1 195 19
+AffectData   -1 446 13
+AffectData   -1 353 12
+AffectData   -1 481 14
+AffectData   -1 -287 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Shield#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Shield#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 6
+AffectData   -1 -230 17
+AffectData   -1 317 14
+AffectData   -1 481 12
+AffectData   -1 314 13
+AffectData   -1 190 19
+AffectData   -1 188 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Necklace#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Necklace#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 0
+AffectData   -1 197 18
+AffectData   -1 197 19
+AffectData   -1 477 13
+AffectData   -1 372 12
+AffectData   -1 417 14
+AffectData   -1 -258 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Belt#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Belt#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 0
+AffectData   -1 -278 17
+AffectData   -1 484 14
+AffectData   -1 401 12
+AffectData   -1 440 13
+AffectData   -1 181 19
+AffectData   -1 194 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Sleeves#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Sleeves#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 0
+AffectData   -1 -239 17
+AffectData   -1 414 14
+AffectData   -1 318 12
+AffectData   -1 474 13
+AffectData   -1 182 19
+AffectData   -1 180 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Helmet#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Helmet#n lies on the ground.~
+Questowner   Sejik~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       80 0 0 139
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 197 18
+AffectData   -1 197 19
+AffectData   -1 366 13
+AffectData   -1 412 12
+AffectData   -1 368 14
+AffectData   -1 -274 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2299
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Sejik~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       1 0 0 0
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2299
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Sejik~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536870912
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       1 0 0 0
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         antipaladin mastery~
+OwnerID      2299
+ShortDescr   #RM#rark #Rof #RT#rakhisis#n~
+Description  #RM#rark #Rof #RT#rakhisis#n is here~
+Questowner   Sejik~
+Vnum         408
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest2        1
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       234 0 0 16
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#END

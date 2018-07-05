@@ -1,0 +1,7386 @@
+#PLAYERS
+Name         Toney~
+Switchname   Toney~
+PlayerID     2639
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     3
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        33
+Morph        ~
+Createtime   Thu Aug 26 00:17:38 2010~
+Lasttime     Wed Sep  8 00:18:54 2010~
+Lasthost     143.sub-69-97-29.myvzw.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     11
+Race         1
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 4
+Faith        67
+Currentfaith 67
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   26
+PlayerRaceLevel 200
+PcPractice   981
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 3
+Pc_eyes 7
+Pc_hair 3
+Pc_looks 1
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   200
+Symbioteaff  0
+Symbiotedc   2000
+Symbiotedr   345
+Symbiotehr   300
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   1
+Symbiotemkills 799
+Itemaffect   536877967
+Chakra       10000
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       93325
+Room         3001
+PkPdMkMd     1 0 350001 0
+Alos         10
+Awin         13
+Bank         15998489
+Weapons      960 960 960 960 960 957 960 960 960 960 960 960 939
+Spells       222 204 222 222 222
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 15 15 15 15 19023
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   161865 161865 89068 89068 88945 88945
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          13809621401
+Act          100812766
+Act2         5119
+Special      2
+Bones        0
+Newbits      33554432
+Newbits2     1073741824
+Sohbits      0
+Extra        12
+AffectedBy   1605802
+AffectedBy2   0
+Position     9
+Practice     2822
+SavingThrow  -6
+Alignment    0
+Hitroll      8882
+Damroll      8927
+Armor        -4286
+Wimpy        0
+Deaf         64
+WpnResist     501 381 40 501 24 501 40 0 0 75 2 32 4 
+MagResist     0 0 0 0 0 0 0 0 
+Password     ToVpVklg7QWl6~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Chosen~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    69
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     110 110 110 110 110
+AttrMod      3 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        -235817568 1249446 37744162 4354 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 6 0 1 3 3 1 4 2 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1282796258
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1283266467 Ideas 0 Announce 1283898050 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+Alias      ride~ jutsu updraft~
+Alias      web~ jutsu yaoe~
+Alias      bae~ jutsu bae~
+Alias      dis~ c 'dispel magic'~
+AffectData   'detect invis'  56   0   0          8
+AffectData   'detect hidden'  56   0   0         32
+AffectData   'shield'  23 -20  17          0
+AffectData   'darkblessing' 447  73  18          0
+AffectData   'darkblessing' 447  73  19          0
+AffectData   'giant strength'  57   3   1          0
+AffectData   'bless'  28   6  18          0
+AffectData   'bless'  28  -6  24          0
+End
+
+#OBJECT
+Nest         0
+Name         gear~
+OwnerID      2639
+ShortDescr   train~
+Description  Train.~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        135168
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questowner   Toney~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Plate~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questowner   Toney~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Helm~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questowner   Toney~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Leg Guards~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questowner   Toney~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Boots~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questowner   Toney~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Pads~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Questowner   Toney~
+Vnum         78006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Belt~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questowner   Toney~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Mask~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questowner   Toney~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Toney~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Toney~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Toney~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Toney~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Toney~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Toney~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questowner   Toney~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       103 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questowner   Toney~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       82 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training mark~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questowner   Toney~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       128 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training bucket~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questowner   Toney~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       79 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Training Cape~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questowner   Toney~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Toney~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Toney~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       601 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       599 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       599 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       598 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       321 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       321 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       319 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       322 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       320 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       319 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       322 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       319 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       321 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       322 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       318 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       319 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       319 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       320 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       320 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Toney~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       320 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       352 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       348 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       349 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       349 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       351 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         Pain killer~
+OwnerID      0
+ShortDescr   #BP#bain #YK#yiller#n~
+Description  Its a pill #GO#g'#BP#bain #YK#yiller#n~
+Questowner   Toney~
+Vnum         50503
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       350 44 44 44
+Spell 3      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         slab mithril~
+OwnerID      0
+ShortDescr   #0/#n__#0]#cMithril#0[#n__#0\#n~
+Description  #cA slab of #0/#n__#0]#cMithril#0[#n__#0\#c lies here.#n~
+Questowner   Toney~
+Vnum         30048
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     35
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         30000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         slab mithril~
+OwnerID      0
+ShortDescr   #0/#n__#0]#cMithril#0[#n__#0\#n~
+Description  #cA slab of #0/#n__#0]#cMithril#0[#n__#0\#c lies here.#n~
+Questowner   Toney~
+Vnum         30048
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     35
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         30000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Shortsword ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Shortsword #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Shortsword lies on the ground.#n~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 98 120 1
+AffectData   -1 -122 17
+AffectData   -1 2987 14
+AffectData   -1 1198 12
+AffectData   -1 1084 13
+AffectData   -1 598 19
+AffectData   -1 476 18
+End
+
+#OBJECT
+Nest         1
+Name         Pill Bottle~
+OwnerID      0
+ShortDescr   #0(#r|#p-#RA #pP#Pil#pl #GB#got#Gt#gle#p-#r|#0)#n~
+Description  A pill bottle lays here.~
+Questowner   Toney~
+Vnum         50506
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        4096
+Level        50
+Timer        0
+Cost         10
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       100 1 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       51 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       51 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       49 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       52 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       49 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       51 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       51 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         Coedine Asprin~
+OwnerID      0
+ShortDescr   #WCo#we#Wdi#wn#We#n~
+Description  A white-ish pill lays here.~
+Questowner   Toney~
+Vnum         50505
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         150
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       51 162 61 65
+Spell 3      'stone skin'
+End
+
+#OBJECT
+Nest         1
+Name         gem jade~
+OwnerID      0
+ShortDescr   #y)#Y>#GJade#Y<#y(#n~
+Description  #cA #y)#Y>#GJade#Y<#y(#c gem lies here.#n~
+Questowner   Toney~
+Vnum         30057
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     45
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       251 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       252 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       248 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       251 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       251 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       251 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       249 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       248 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         Xtc pill tab drug~
+OwnerID      0
+ShortDescr   #sx#sT#sc#n~
+Description  A tab of #sx#sT#sc#n lay here on the ground.~
+Questowner   Toney~
+Vnum         50500
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 40 28 27
+Spell 3      'detect hidden'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       601 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       599 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       599 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Toney~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       599 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Kama #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Kama lies on the ground.#n~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 97 124 3
+AffectData   -1 559 18
+AffectData   -1 478 19
+AffectData   -1 2837 13
+AffectData   -1 2983 12
+AffectData   -1 1724 14
+AffectData   -1 -178 17
+End
+
+#OBJECT
+Nest         0
+Name         ball~
+OwnerID      2639
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Spectype     524288
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        135168
+Quest2        4
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 20 20 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil earth~
+OwnerID      0
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2639
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         40033
+ExtraFlags   16384
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     16384
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134283264
+Quest2        7
+Level        50
+Timer        -1
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1482
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 445 470 1
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         shinobi katana~
+OwnerID      2639
+ShortDescr   #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Description  #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         406
+ExtraFlags   16387
+ExtraFlags2  0
+WeapFlags    207
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       9
+Spectype     1141391360
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134218848
+Quest2        23
+Points       23744
+Level        50
+Timer        -1
+Cost         150000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     1215
+WeaponLvL     100
+WeaponTotalxp     0
+Values       18000 1036 1467 3
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -200 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 1000 13
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Toney~
+Vnum         78108
+ExtraFlags   16384
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Quest        4096
+Quest2        4
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 138 136 0 135 60395151 158 0
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2639
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Toney~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      25
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536875008
+Quest2        4
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       3 20 20 0
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2639
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Toney~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      23
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536875008
+Quest2        4
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       3 20 20 0
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Toney~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       150 20 20 8
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2639
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Toney~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 20 20 16
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         symbol holy~
+OwnerID      2639
+ShortDescr   a holy symbol~
+Description  A golden holy symbol is here.~
+Questowner   Toney~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        536875008
+Quest2        4
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       3 20 20 0
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         rig~
+OwnerID      2639
+ShortDescr   Rig~
+Description  Rig.~
+Questmaker   Toney~
+Questowner   Toney~
+Vnum         7824
+ExtraFlags   1600
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      0
+ItemType     1
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        50462752
+Quest2        4
+Points       15000
+Level        3
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 20 19 0
+AffectData   -1 5 18
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Sleeves#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Sleeves#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1848
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -264 17
+AffectData   -1 436 14
+AffectData   -1 490 12
+AffectData   -1 380 13
+AffectData   -1 198 19
+AffectData   -1 193 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Bracelet#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Bracelet#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     20
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 9
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -276 17
+AffectData   -1 433 14
+AffectData   -1 344 12
+AffectData   -1 328 13
+AffectData   -1 196 19
+AffectData   -1 180 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Mask#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Mask#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     72
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 10
+AffectData   -1 1000 13
+AffectData   -1 -249 17
+AffectData   -1 320 14
+AffectData   -1 499 12
+AffectData   -1 432 13
+AffectData   -1 200 19
+AffectData   -1 189 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Belt#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Belt#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2491
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 3
+AffectData   -1 1000 13
+AffectData   -1 -296 17
+AffectData   -1 360 14
+AffectData   -1 327 12
+AffectData   -1 441 13
+AffectData   -1 191 19
+AffectData   -1 180 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Ring#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Ring#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2287
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 5
+AffectData   -1 1000 13
+AffectData   -1 184 18
+AffectData   -1 194 19
+AffectData   -1 498 13
+AffectData   -1 442 12
+AffectData   -1 362 14
+AffectData   -1 -283 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Ring#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Ring#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2093
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 11
+AffectData   -1 1000 13
+AffectData   -1 181 18
+AffectData   -1 194 19
+AffectData   -1 396 13
+AffectData   -1 404 12
+AffectData   -1 343 14
+AffectData   -1 -280 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Bracelet#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Bracelet#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1892
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 13
+AffectData   -1 1000 13
+AffectData   -1 -216 17
+AffectData   -1 440 14
+AffectData   -1 332 12
+AffectData   -1 372 13
+AffectData   -1 198 19
+AffectData   -1 181 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Necklace#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Necklace#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1680
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 1000 13
+AffectData   -1 -223 17
+AffectData   -1 340 14
+AffectData   -1 398 12
+AffectData   -1 319 13
+AffectData   -1 188 19
+AffectData   -1 184 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Cloak#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Cloak#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1479
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 1000 13
+AffectData   -1 -233 17
+AffectData   -1 440 14
+AffectData   -1 380 12
+AffectData   -1 472 13
+AffectData   -1 193 19
+AffectData   -1 192 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Necklace#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Necklace#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1283
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 6
+AffectData   -1 1000 13
+AffectData   -1 -287 17
+AffectData   -1 496 14
+AffectData   -1 386 12
+AffectData   -1 363 13
+AffectData   -1 194 19
+AffectData   -1 199 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Boots#n~
+Description  #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Boots#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1082
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 12
+AffectData   -1 1000 13
+AffectData   -1 196 18
+AffectData   -1 187 19
+AffectData   -1 375 13
+AffectData   -1 444 12
+AffectData   -1 390 14
+AffectData   -1 -226 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Leggings#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Leggings#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     881
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 1000 13
+AffectData   -1 180 18
+AffectData   -1 184 19
+AffectData   -1 365 13
+AffectData   -1 333 12
+AffectData   -1 369 14
+AffectData   -1 -263 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Gauntlets#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Gauntlets#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     677
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 200 18
+AffectData   -1 185 19
+AffectData   -1 302 13
+AffectData   -1 422 12
+AffectData   -1 468 14
+AffectData   -1 -265 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Helmet#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Helmet#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     482
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 199 18
+AffectData   -1 193 19
+AffectData   -1 426 13
+AffectData   -1 442 12
+AffectData   -1 388 14
+AffectData   -1 -298 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n lies on the ground.~
+Questowner   Toney~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     524289
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     680
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 188 18
+AffectData   -1 182 19
+AffectData   -1 396 13
+AffectData   -1 380 12
+AffectData   -1 360 14
+AffectData   -1 -227 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#END

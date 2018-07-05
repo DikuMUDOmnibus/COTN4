@@ -1,0 +1,967 @@
+#PLAYERS
+Name         Nicholas~
+Switchname   Nicholas~
+PlayerID     2651
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     3
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        2
+Morph        ~
+Createtime   Thu Aug 26 13:27:31 2010~
+Lasttime     Mon Jan 23 22:01:19 2012~
+Lasthost     host97730068113.direcpc.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     32
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 94 5
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   21
+PlayerRace   15
+PlayerRaceLevel 79
+PcPractice   368
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 2
+Pc_eyes 2
+Pc_hair 6
+Pc_looks 2
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   500
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   1
+Symbiotetype   1
+Symbiotemkills 713
+Ability   1 1 1 1 1
+Abilityexp   0 0 0 0 0
+Abilitycur -1 -1 -1 -1 -1 -1
+Itemaffect   4195072
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       270648
+Room         3005
+PkPdMkMd     0 1 54970 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      426 600 270 550 600 600 600 600 600 600 600 600 453
+Spells       302 302 302 302 302
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 6 7 7 15 10831
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   111633 111633 62389 62389 61657 61657
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          9024494524
+Act          18410
+Act2         15
+Special      2
+Bones        484105
+Newbits      167772160
+Newbits2     134217728
+Sohbits      0
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     676
+SavingThrow  0
+Alignment    0
+Hitroll      3291
+Damroll      3378
+Armor        -3460
+Wimpy        0
+Deaf         0
+WpnResist     307 0 0 501 0 0 0 0 0 0 33 51 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     NibkrX0VBIyDM~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     Scumbag~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     13 12 14 14 13
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        1098863188 331565 5345945 1161 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1282843651
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Mace ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Mace #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Mace lies on the ground.#n~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     279011
+WeaponLvL     58
+WeaponTotalxp     0
+Values       18000 204 216 7
+AffectData   -1 -387 17
+AffectData   -1 1262 14
+AffectData   -1 2552 12
+AffectData   -1 1470 13
+AffectData   -1 509 19
+AffectData   -1 541 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Belt#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Belt#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     836
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 193 18
+AffectData   -1 192 19
+AffectData   -1 497 13
+AffectData   -1 310 12
+AffectData   -1 344 14
+AffectData   -1 -285 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Leggings#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Leggings#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1856
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 194 18
+AffectData   -1 183 19
+AffectData   -1 302 13
+AffectData   -1 428 12
+AffectData   -1 431 14
+AffectData   -1 -292 17
+End
+
+#OBJECT
+Nest         0
+Name         mage mastery aura~
+OwnerID      2651
+ShortDescr   the #Gan#nci#Gen#nt #rAura#n of #RM#Ga#Cg#yi#n~
+Description  An aura of power draws in all the energy of the room.~
+Questowner   Nicholas~
+Vnum         33014
+ExtraFlags   4224
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 28
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Sleeves#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Sleeves#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1712
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 182 18
+AffectData   -1 191 19
+AffectData   -1 426 13
+AffectData   -1 492 12
+AffectData   -1 382 14
+AffectData   -1 -271 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1651
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 184 18
+AffectData   -1 198 19
+AffectData   -1 444 13
+AffectData   -1 310 12
+AffectData   -1 456 14
+AffectData   -1 -210 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Helmet#n~
+Description  #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Helmet#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1514
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 187 18
+AffectData   -1 188 19
+AffectData   -1 491 13
+AffectData   -1 442 12
+AffectData   -1 364 14
+AffectData   -1 -222 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Necklace#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Necklace#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1310
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 194 18
+AffectData   -1 182 19
+AffectData   -1 455 13
+AffectData   -1 406 12
+AffectData   -1 484 14
+AffectData   -1 -249 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Gauntlets#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Gauntlets#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     5762332
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -202 17
+AffectData   -1 465 14
+AffectData   -1 307 12
+AffectData   -1 483 13
+AffectData   -1 198 19
+AffectData   -1 184 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Armor#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Armor#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     4569865
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 199 18
+AffectData   -1 182 19
+AffectData   -1 481 13
+AffectData   -1 445 12
+AffectData   -1 374 14
+AffectData   -1 -220 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Boots#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Boots#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3615891
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -254 17
+AffectData   -1 433 14
+AffectData   -1 319 12
+AffectData   -1 435 13
+AffectData   -1 195 19
+AffectData   -1 199 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Ring#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Ring#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2852714
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -224 17
+AffectData   -1 450 14
+AffectData   -1 361 12
+AffectData   -1 308 13
+AffectData   -1 192 19
+AffectData   -1 198 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Cloak#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Cloak#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2242171
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 185 18
+AffectData   -1 189 19
+AffectData   -1 485 13
+AffectData   -1 450 12
+AffectData   -1 343 14
+AffectData   -1 -241 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Shortsword ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Shortsword #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Shortsword lies on the ground.#n~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     67108872
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    2
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     2
+WeaponCurrentxp     388286
+WeaponLvL     84
+WeaponTotalxp     0
+Values       17000 267 280 1
+AffectData   -1 419 18
+AffectData   -1 541 19
+AffectData   -1 2131 13
+AffectData   -1 2223 12
+AffectData   -1 2452 14
+AffectData   -1 -160 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Necklace#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Necklace#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1619100
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 182 18
+AffectData   -1 188 19
+AffectData   -1 305 13
+AffectData   -1 424 12
+AffectData   -1 497 14
+AffectData   -1 -243 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Helmet#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Helmet#n lies on the ground.~
+Questowner   Nicholas~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 132 17
+AffectData   -1 101 14
+AffectData   -1 106 12
+AffectData   -1 102 13
+AffectData   -1 60 19
+AffectData   -1 67 18
+End
+
+#END

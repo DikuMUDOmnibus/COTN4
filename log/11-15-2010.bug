@@ -1,0 +1,141 @@
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 32 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 34 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 308 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Mon Nov 15 00:08:00 2010 :: [*****] BUG: load_class_file: no match: 0
+Mon Nov 15 14:48:08 2010 :: Kaldan@nc-71-50-96-107.dhcp.embarqhsd.net new player.
+Mon Nov 15 14:49:27 2010 :: Do_help: Kaldan tried 'blade master'
+Mon Nov 15 14:54:09 2010 :: Do_help: Kaldan tried 'weapon'
+Mon Nov 15 14:54:24 2010 :: Do_help: Kaldan tried 'skills'
+Mon Nov 15 14:54:40 2010 :: Do_help: Kaldan tried 'slash'
+Mon Nov 15 14:55:41 2010 :: Do_help: Kaldan tried 'crab'
+Mon Nov 15 15:05:17 2010 :: Do_help: Yoko tried 'legend'
+Mon Nov 15 15:06:22 2010 :: Do_help: Kaldan tried 'breif'
+Mon Nov 15 15:08:28 2010 :: Do_help: Yoko tried 'convet'
+Mon Nov 15 15:16:23 2010 :: Do_help: Kaldan tried 'blinding agony'
+Mon Nov 15 15:16:29 2010 :: Do_help: Kaldan tried 'deathtouch'
+Mon Nov 15 15:17:27 2010 :: Do_help: Kaldan tried 'spiritpower'
+Mon Nov 15 15:18:08 2010 :: Do_help: Yoko tried 'raceadvance'
+Mon Nov 15 15:19:06 2010 :: Do_help: Kaldan tried 'legend'
+Mon Nov 15 15:19:10 2010 :: Do_help: Kaldan tried 'myth'
+Mon Nov 15 15:19:23 2010 :: Do_help: Yoko tried 'gentletouch'
+Mon Nov 15 15:19:25 2010 :: Do_help: Yoko tried 'turnhead'
+Mon Nov 15 15:19:36 2010 :: Do_help: Yoko tried 'armorcraft'
+Mon Nov 15 15:20:19 2010 :: Do_help: Yoko tried 'armorcraft'
+Mon Nov 15 15:37:45 2010 :: Do_help: Kaldan tried 'move'
+Mon Nov 15 15:37:48 2010 :: Do_help: Kaldan tried 'moves'
+Mon Nov 15 15:37:50 2010 :: Do_help: Kaldan tried 'stats'
+Mon Nov 15 15:37:53 2010 :: Do_help: Kaldan tried 'hp'
+Mon Nov 15 16:00:51 2010 :: Do_help: Kaldan tried 'gem'
+Mon Nov 15 16:01:05 2010 :: Do_help: Kaldan tried 'fbuy'
+Mon Nov 15 16:07:12 2010 :: Rion@nc-71-50-96-107.dhcp.embarqhsd.net new player.
+Mon Nov 15 16:11:43 2010 :: [*****] BUG: Char_to_room: Rion -> NULL room!  Putting char in limbo (2)
+Mon Nov 15 16:26:24 2010 :: Do_help: Rion tried 'aura of takhisis'
+Mon Nov 15 16:26:27 2010 :: Do_help: Rion tried 'takhisis'
+Mon Nov 15 16:32:14 2010 :: Do_help: Rion tried 'mods'
+Mon Nov 15 16:32:16 2010 :: Do_help: Rion tried 'mod'
+Mon Nov 15 16:32:18 2010 :: Do_help: Rion tried 'bonus'
+Mon Nov 15 16:34:13 2010 :: Do_help: Rion tried 'legend'
+Mon Nov 15 16:36:41 2010 :: Do_help: Rion tried 'damcap'
+Mon Nov 15 16:41:31 2010 :: Do_help: Rion tried 'cadet'
+Mon Nov 15 16:41:49 2010 :: Do_help: Rion tried 'doombringer'

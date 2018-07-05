@@ -1,0 +1,2464 @@
+#PLAYERS
+Name         Kino~
+Switchname   Kino~
+PlayerID     2725
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        33
+Morph        ~
+Createtime   Sat Sep  4 10:31:47 2010~
+Lasttime     Wed Dec 29 19:28:11 2010~
+Lasthost     c-76-105-168-176.hsd1.or.comcast.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          2
+Timetick     12
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 4
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   25
+PlayerRaceLevel 200
+PcPractice   994
+Pcwpnprof    6
+Pcmaxwpnprof 2
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 4
+Pc_eyes 10
+Pc_hair 1
+Pc_looks 1
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   60
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   1
+Symbiotemkills 18
+Ability   1 1 1 1 1
+Abilityexp   0 0 0 0 0
+Abilitycur -1 -1 -1 -1 -1 -1
+Itemaffect   387
+Chakra       10000
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       43020
+Room         78000
+PkPdMkMd     0 1 20828 0
+Alos         0
+Awin         0
+Bank         11059869
+Weapons      960 960 964 960 960 960 960 960 960 597 960 960 960
+Spells       222 204 204 208 222
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 8320 2192 10400 20768 35375
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   145491 145491 80285 80285 79002 79002
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          874290748
+Act          18290
+Act2         4607
+Special      0
+Bones        113042
+Newbits      33554432
+Newbits2     1207959552
+Sohbits      0
+Extra        12
+AffectedBy   1605762
+AffectedBy2   0
+Position     9
+Practice     503
+SavingThrow  0
+Alignment    0
+Hitroll      3260
+Damroll      3421
+Armor        -2630
+Wimpy        0
+Deaf         64
+WpnResist     501 125 0 501 501 501 0 0 6 0 55 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     KiBNxqp5HZBu2~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     Scumbag~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     110 110 110 110 110
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        978857777 386647 4151977 1333 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        4 0 3 1 3 1 6 0 2 2 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1283614307
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1283266467 Ideas 0 Announce 1283898050 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         gem emerald~
+OwnerID      0
+ShortDescr   #y)#Y>#gEm#Gera#gld#Y<#y(#n~
+Description  #cAn #y)#Y>#gEm#Gera#gld#Y<#y(#c gem lies here.#n~
+Questowner   Kino~
+Vnum         30054
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     45
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gem sapphire~
+OwnerID      0
+ShortDescr   #y)#Y>#LSapphire#Y<#y(#n~
+Description  #cA #y)#Y>#LSapphire#Y<#y(#c gem lies here.#n~
+Questowner   Kino~
+Vnum         30055
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     45
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gem jade~
+OwnerID      0
+ShortDescr   #y)#Y>#GJade#Y<#y(#n~
+Description  #cA #y)#Y>#GJade#Y<#y(#c gem lies here.#n~
+Questowner   Kino~
+Vnum         30057
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     45
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         a bloody deer hook grepper~
+OwnerID      0
+ShortDescr   #ca #Rb#rlo#Ro#rdy #0g#Cr#0e#cp#0p#Ce#0r#n~
+Description  #ca #Rb#rlo#Ro#rdy #0g#Cr#0e#cp#0p#Ce#0r#n gleams wickedly  from the shadows.~
+Questowner   Kino~
+Vnum         50858
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 78 101 9
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Armor#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Armor#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2067
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 -208 17
+AffectData   -1 366 14
+AffectData   -1 365 12
+AffectData   -1 472 13
+AffectData   -1 190 19
+AffectData   -1 200 18
+End
+
+#OBJECT
+Nest         0
+Name         Mages tome~
+OwnerID      0
+ShortDescr   #BMages #bTome#n~
+Description  #BMages #bTome#n~
+Questowner   Kino~
+Vnum         40022
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     34
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 40023 40024 0
+End
+
+#OBJECT
+Nest         0
+Name         bag~
+OwnerID      2725
+ShortDescr   bag~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Kino~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16908288
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Kino~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         1
+Name         newbie mindcloud head helmet~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0He#Wl#wm#We#0t#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0He#Wl#wm#We#0t#n lays here in the shadows.~
+Questmaker   Kino~
+Vnum         30334
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 8
+End
+
+#OBJECT
+Nest         1
+Name         newbie mindcloud ring finger~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n~
+Description  A #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #0R#Wi#wn#0g#n shimmers from the shadow.~
+Questmaker   Kino~
+Vnum         30342
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 27
+End
+
+#OBJECT
+Nest         1
+Name         sleeves~
+OwnerID      0
+ShortDescr   a pair of standard issue sleeves~
+Description  You see a pair of standard issue sleeves here.~
+Vnum         3360
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         Evil Sword Plague~
+OwnerID      0
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 125 150 1
+End
+
+#OBJECT
+Nest         1
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         1
+Name         protoplasm plasm ball~
+OwnerID      2725
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Kino~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        67108864
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questowner   Kino~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       23 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questowner   Kino~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       99 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training mark~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questowner   Kino~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       89 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training bucket~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questowner   Kino~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       120 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Cape~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questowner   Kino~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Sleeves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Questowner   Kino~
+Vnum         78012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       20 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Plate~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questowner   Kino~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Helm~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questowner   Kino~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Leg Guards~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questowner   Kino~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Boots~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questowner   Kino~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Pads~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Questowner   Kino~
+Vnum         78006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Belt~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questowner   Kino~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Mask~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questowner   Kino~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Kino~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Kino~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Kino~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Kino~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questowner   Kino~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Kino~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       21 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Kino~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       19 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         train~
+OwnerID      2725
+ShortDescr   train~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Kino~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16908288
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Kino~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questowner   Kino~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Belt#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Belt#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1073741825
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     704
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 1000 13
+AffectData   -1 -209 17
+AffectData   -1 439 14
+AffectData   -1 420 12
+AffectData   -1 390 13
+AffectData   -1 187 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2725
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Kino~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1073741824
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        69632
+Quest2        1
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 0 0 16
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium ring~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cr#Win#Cg #C<#c\#W^#c/#C>#n~
+Questowner   Kino~
+Vnum         814
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Sleeves#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Sleeves#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     489
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 3
+AffectData   -1 184 18
+AffectData   -1 195 19
+AffectData   -1 315 13
+AffectData   -1 411 12
+AffectData   -1 454 14
+AffectData   -1 -234 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Necklace#n~
+Description  #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Necklace#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     681
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 9
+AffectData   -1 182 18
+AffectData   -1 191 19
+AffectData   -1 469 13
+AffectData   -1 363 12
+AffectData   -1 481 14
+AffectData   -1 -234 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         shinobi katana~
+OwnerID      2725
+ShortDescr   #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Description  #R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+Questmaker   Kino~
+Questowner   Kino~
+Vnum         406
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     1140850688
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        4160
+Quest2        3
+Points       -27680
+Level        50
+Timer        0
+Cost         150000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     1
+WeaponCurrentxp     3097
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 922 1031 3
+AffectData   -1 100 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Mask#n~
+Description  #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Mask#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1015
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 11
+AffectData   -1 200 18
+AffectData   -1 191 19
+AffectData   -1 339 13
+AffectData   -1 410 12
+AffectData   -1 411 14
+AffectData   -1 -242 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Ring#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Ring#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     816
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 6
+AffectData   -1 180 18
+AffectData   -1 187 19
+AffectData   -1 424 13
+AffectData   -1 381 12
+AffectData   -1 484 14
+AffectData   -1 -231 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Boots#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Boots#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1139
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 3
+AffectData   -1 189 18
+AffectData   -1 181 19
+AffectData   -1 417 13
+AffectData   -1 465 12
+AffectData   -1 359 14
+AffectData   -1 -240 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Rapier #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Rapier lies on the ground.#n~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     273860
+WeaponLvL     58
+WeaponTotalxp     0
+Values       18000 196 236 11
+AffectData   -1 -354 17
+AffectData   -1 1832 14
+AffectData   -1 2011 12
+AffectData   -1 2777 13
+AffectData   -1 595 19
+AffectData   -1 468 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Gauntlets#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Gauntlets#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 21 17
+AffectData   -1 110 14
+AffectData   -1 116 12
+AffectData   -1 167 13
+AffectData   -1 64 19
+AffectData   -1 85 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 66 17
+AffectData   -1 144 14
+AffectData   -1 133 12
+AffectData   -1 103 13
+AffectData   -1 96 19
+AffectData   -1 72 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Cloak#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Cloak#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 5
+AffectData   -1 189 18
+AffectData   -1 197 19
+AffectData   -1 383 13
+AffectData   -1 358 12
+AffectData   -1 431 14
+AffectData   -1 -226 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Dagger #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Dagger lies on the ground.#n~
+Questmaker   Kino~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     1140850696
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        70528
+Quest2        3
+Points       -7328
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     2
+SigilLvL     3
+WeaponCurrentxp     163
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17000 392 425 2
+AffectData   -1 521 18
+AffectData   -1 554 19
+AffectData   -1 1900 13
+AffectData   -1 2801 12
+AffectData   -1 1181 14
+AffectData   -1 -323 17
+AffectData   -1 1000 13
+AffectData   -1 1000 12
+AffectData   -1 1000 14
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Kino~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 22 53 0 84 18330423 119 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Shield#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     149
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 10
+AffectData   -1 187 18
+AffectData   -1 183 19
+AffectData   -1 462 13
+AffectData   -1 327 12
+AffectData   -1 406 14
+AffectData   -1 -299 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Helmet#n~
+Description  #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Helmet#n lies on the ground.~
+Questowner   Kino~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1090519041
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        69632
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     906
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 8
+AffectData   -1 180 18
+AffectData   -1 195 19
+AffectData   -1 322 13
+AffectData   -1 300 12
+AffectData   -1 302 14
+AffectData   -1 -279 17
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         titanium amulet~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CA#cm#Wu#cl#Ce#Wt #C<#c\#W^#c/#C>#n~
+Questowner   Kino~
+Vnum         815
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         titanium leggings~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cl#ce#Wg#cg#Ci#cn#Wg#cs #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CS#co#Wm#ce #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cl#ce#Wg#cg#Ci#cn#Wg#cs #C<#c\#W^#c/#C>#n~
+Questowner   Kino~
+Vnum         819
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         titanium bracer~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #CB#cr#Wa#cc#Ce#cr #C<#c\#W^#c/#C>#n~
+Questowner   Kino~
+Vnum         816
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#END

@@ -1,0 +1,1431 @@
+#PLAYERS
+Name         Fordham~
+Switchname   Fordham~
+PlayerID     2614
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 10 10 10 10 10 10 10 10 10 10 10 10 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        3
+Morph        Fordham the werewolf~
+Createtime   Wed Jul 21 01:24:57 2010~
+Lasttime     ~
+Lasthost     ~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       0
+Sex          1
+Timetick     250
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   1
+PlayerRaceLevel 108
+PcPractice   561
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 4
+Pc_eyes 5
+Pc_hair 6
+Pc_looks 3
+Gnosis       20
+Clan         (null)~
+Rage         143
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      100
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   11
+Symbiotetype   2
+Symbiotemkills 748
+Itemaffect   768
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       8247
+Room         3005
+PkPdMkMd     0 0 18273 1
+Alos         0
+Awin         0
+Bank         0
+Weapons      190 0 0 540 0 540 0 0 0 0 119 234 0
+Spells       33 0 121 0 126
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 0 0 0 0 0 0 0
+Stance2      4 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   99804 107013 14873 14873 14214 14214
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        3
+Explevel     0
+Expgained    0
+Exp          211854160
+Act          18208
+Act2         4601
+Special      4
+Bones        6893682
+Newbits      927
+Newbits2     0
+Sohbits      0
+Extra        4
+AffectedBy   6815746
+AffectedBy2   0
+Position     9
+Practice     12
+SavingThrow  -2
+Alignment    0
+Hitroll      2787
+Damroll      2966
+Armor        -1665
+Wimpy        0
+Deaf         0
+WpnResist     126 0 0 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     Fogq9IL4Kg9I.~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     80 81 83 81 81
+AttrMod      0 0 0 0 0
+Quest        -15000
+Wolf         143
+Rank         0
+Stage        0 0 0
+Score        421852751 350229 1923672 1199 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 16391 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1279689897
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+AffectData   'invis'   9   0   0          2
+AffectData   'armor'   9 -20  17          0
+AffectData   'darkblessing' 113  20  19          0
+AffectData   'darkblessing' 113  20  18          0
+AffectData   'bless'  14  -2  24          0
+AffectData   'bless'  14   2  18          0
+AffectData   'shield'  15 -20  17          0
+AffectData   'fly'   3   0   0     524288
+End
+
+#OBJECT
+Nest         0
+Name         a tiny faerie floater~
+OwnerID      0
+ShortDescr   #Y=#y>#WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y<#Y=#n~
+Description  #WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y#n is here about to pass out.~
+Questowner   Fordham~
+Vnum         50852
+ExtraFlags   262155
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         200
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Ring#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Ring#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 36 17
+AffectData   -1 146 14
+AffectData   -1 173 12
+AffectData   -1 137 13
+AffectData   -1 83 19
+AffectData   -1 54 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Helmet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Helmet#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -30 17
+AffectData   -1 111 14
+AffectData   -1 124 12
+AffectData   -1 163 13
+AffectData   -1 79 19
+AffectData   -1 69 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Longsword #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Longsword lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 85 100 3
+AffectData   -1 -490 17
+AffectData   -1 2862 14
+AffectData   -1 2726 12
+AffectData   -1 1555 13
+AffectData   -1 513 19
+AffectData   -1 555 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Bracelet#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -17 17
+AffectData   -1 130 14
+AffectData   -1 144 12
+AffectData   -1 121 13
+AffectData   -1 92 19
+AffectData   -1 72 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Talon #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Talon lies on the ground.#n~
+Questmaker   Fordham~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     67108872
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65600
+Points       10176
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     2
+Values       17000 96 111 5
+AffectData   -1 100 19
+AffectData   -1 100 19
+AffectData   -1 -497 17
+AffectData   -1 1974 14
+AffectData   -1 2576 12
+AffectData   -1 2153 13
+AffectData   -1 496 19
+AffectData   -1 497 18
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Fordham~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 21 54 0 82 9691858 115 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -238 17
+AffectData   -1 434 14
+AffectData   -1 443 12
+AffectData   -1 375 13
+AffectData   -1 185 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Boots#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Boots#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -15 17
+AffectData   -1 136 14
+AffectData   -1 182 12
+AffectData   -1 170 13
+AffectData   -1 63 19
+AffectData   -1 99 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Belt#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Belt#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -31 17
+AffectData   -1 193 14
+AffectData   -1 156 12
+AffectData   -1 175 13
+AffectData   -1 54 19
+AffectData   -1 75 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Bracelet#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Bracelet#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -35 17
+AffectData   -1 181 14
+AffectData   -1 179 12
+AffectData   -1 198 13
+AffectData   -1 98 19
+AffectData   -1 56 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -207 17
+AffectData   -1 338 14
+AffectData   -1 350 12
+AffectData   -1 316 13
+AffectData   -1 190 19
+AffectData   -1 185 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Leggings#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Leggings#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 70 17
+AffectData   -1 172 14
+AffectData   -1 150 12
+AffectData   -1 138 13
+AffectData   -1 60 19
+AffectData   -1 70 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -40 17
+AffectData   -1 101 14
+AffectData   -1 146 12
+AffectData   -1 124 13
+AffectData   -1 90 19
+AffectData   -1 92 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Cloak#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Cloak#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -29 17
+AffectData   -1 112 14
+AffectData   -1 195 12
+AffectData   -1 149 13
+AffectData   -1 93 19
+AffectData   -1 72 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Shield#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Shield#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 120 17
+AffectData   -1 192 14
+AffectData   -1 177 12
+AffectData   -1 155 13
+AffectData   -1 75 19
+AffectData   -1 86 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Sleeves#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Sleeves#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 101 17
+AffectData   -1 139 14
+AffectData   -1 172 12
+AffectData   -1 120 13
+AffectData   -1 85 19
+AffectData   -1 66 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Gauntlets ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Gauntlets#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Gauntlets#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 66 17
+AffectData   -1 124 14
+AffectData   -1 181 12
+AffectData   -1 146 13
+AffectData   -1 75 19
+AffectData   -1 92 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Armor ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Armor#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Armor#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -256 17
+AffectData   -1 375 14
+AffectData   -1 434 12
+AffectData   -1 419 13
+AffectData   -1 181 19
+AffectData   -1 198 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Mask#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Mask#n lies on the ground.~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -233 17
+AffectData   -1 494 14
+AffectData   -1 365 12
+AffectData   -1 399 13
+AffectData   -1 184 19
+AffectData   -1 186 18
+End
+
+#OBJECT
+Nest         0
+Name         backpack pack back~
+OwnerID      0
+ShortDescr   a backpack~
+Description  A backpack stands upright here.~
+Vnum         7300
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     15
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       60 1 -1 0
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Longsword #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Longsword lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 87 123 3
+AffectData   -1 -133 17
+AffectData   -1 2560 14
+AffectData   -1 2291 12
+AffectData   -1 2567 13
+AffectData   -1 450 19
+AffectData   -1 588 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Revolver ~
+OwnerID      0
+ShortDescr   #GO#gr#ng#7a#nn#gi#Gc #7Revolver #n~
+Description  #GO#gr#ng#7a#nn#gi#Gc #7Revolver lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 96 101 6
+AffectData   -1 -96 17
+AffectData   -1 2357 14
+AffectData   -1 1010 12
+AffectData   -1 1748 13
+AffectData   -1 427 19
+AffectData   -1 436 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Claw ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Claw #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Claw lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 90 105 5
+AffectData   -1 -28 17
+AffectData   -1 1343 14
+AffectData   -1 2858 12
+AffectData   -1 1126 13
+AffectData   -1 416 19
+AffectData   -1 588 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Whip ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Whip #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Whip lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 81 105 4
+AffectData   -1 -195 17
+AffectData   -1 2758 14
+AffectData   -1 2111 12
+AffectData   -1 2377 13
+AffectData   -1 450 19
+AffectData   -1 496 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Shortsword ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Shortsword #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Shortsword lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 86 117 1
+AffectData   -1 -26 17
+AffectData   -1 2434 14
+AffectData   -1 2935 12
+AffectData   -1 1026 13
+AffectData   -1 470 19
+AffectData   -1 478 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Katana #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Katana lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 87 118 1
+AffectData   -1 -371 17
+AffectData   -1 2480 14
+AffectData   -1 2922 12
+AffectData   -1 2833 13
+AffectData   -1 437 19
+AffectData   -1 552 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Longsword #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Longsword lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 94 115 3
+AffectData   -1 -172 17
+AffectData   -1 1214 14
+AffectData   -1 1063 12
+AffectData   -1 2710 13
+AffectData   -1 478 19
+AffectData   -1 451 18
+End
+
+#OBJECT
+Nest         1
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Katana #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Katana lies on the ground.#n~
+Questowner   Fordham~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 85 117 1
+AffectData   -1 -181 17
+AffectData   -1 2348 14
+AffectData   -1 1979 12
+AffectData   -1 2588 13
+AffectData   -1 412 19
+AffectData   -1 585 18
+End
+
+#END

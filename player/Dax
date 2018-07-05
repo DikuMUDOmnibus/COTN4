@@ -1,0 +1,3522 @@
+#PLAYERS
+Name         Dax~
+Switchname   Dax~
+PlayerID     2645
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        10
+Morph        Dax the huge phase tiger~
+Createtime   Thu Aug 26 02:10:59 2010~
+Lasttime     Fri Aug 27 01:07:35 2010~
+Lasthost     adsl-99-99-95-79.dsl.toldoh.sbcglobal.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       0
+Sex          1
+Timetick     183
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       33554432
+Polyaff      0
+PlayerRank   2
+PlayerRace   0
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 3
+Pc_eyes 9
+Pc_hair 10
+Pc_looks 1
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   5
+Genexp       98165717
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   131208
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       8663
+Room         3014
+PkPdMkMd     0 0 1605 1
+Alos         0
+Awin         0
+Bank         0
+Weapons      0 0 99 96 0 0 0 0 0 0 0 153 0
+Spells       204 204 81 36 204
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0
+Stance2      0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   10287 10287 2531 2531 1579 1579
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          22904
+Act          18208
+Act2         4607
+Special      0
+Bones        61366
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   2097282
+AffectedBy2   0
+Position     9
+Practice     156
+SavingThrow  -1
+Alignment    0
+Hitroll      1227
+Damroll      1105
+Armor        -959
+Wimpy        0
+Deaf         0
+WpnResist     255 0 0 17 0 0 0 2 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     DaMQmMymyaDkE~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     24 23 23 23 23
+AttrMod      0 0 0 50 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        7121397 242098 42850 740 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 4 8 0 5 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1282803059
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'detect evil'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        99 'infravision'
+Skill        7 'invis'
+Skill        100 'malice'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'gas breath'
+Skill        100 'backstab'
+Skill        100 'hide'
+Skill        100 'peek'
+Skill        100 'sneak'
+Skill        100 'soulblade'
+Skill        100 'regenerate'
+Skill        100 'minor creation'
+Skill        100 'resistance'
+AffectData   'bless'   9  -1  24          0
+AffectData   'bless'   9   1  18          0
+AffectData   'armor'  13 -20  17          0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Belt#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Belt#n lies on the ground.~
+Questowner   Dax~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 191 18
+AffectData   -1 193 19
+AffectData   -1 341 13
+AffectData   -1 355 12
+AffectData   -1 453 14
+AffectData   -1 -237 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Leggings#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Leggings#n lies on the ground.~
+Questowner   Dax~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 43 17
+AffectData   -1 126 14
+AffectData   -1 176 12
+AffectData   -1 189 13
+AffectData   -1 82 19
+AffectData   -1 55 18
+End
+
+#OBJECT
+Nest         0
+Name         newbie mindcloud medallion~
+OwnerID      0
+ShortDescr   #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n~
+Description  A powerful #ro#RO#p(#cM#Cin#cd#Ccl#co#Cud#02#p)#RO#ro#n #WM#0ed#We#wl#0l#Wi#0o#wn#n lay here, shimmering with energy.~
+Questmaker   Dax~
+Vnum         30343
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        12
+Timer        0
+Cost         10000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         Dax soul piercer~
+OwnerID      2645
+ShortDescr   Dax's soul piercer~
+Description  Dax's soul piercer is lying here.~
+Poweronch    $p pulses with energy.~
+Poweroffch   $p pulses with energy.~
+Powerusech   You twist the pommel of your soul blade.~
+Poweronvict  $p stops pulsing with energy.~
+Poweroffvict $p stops pulsing with energy.~
+Powerusevict $n twists the pommel of $s soul blade.~
+Questmaker   Dax~
+Questowner   Dax~
+Vnum         30000
+ExtraFlags   16451
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       3
+Spectype     48
+Specpower    86
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         60
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       13034 10 20 11
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter shroud darkness~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Shroud of Darkness#r/#R<#l|#R>#r\#n~
+Description  A shroud of darkness covers the ground.~
+Questowner   Dax~
+Vnum         33173
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    -1015807
+WearLoc      20
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter opaque sleeves~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Opaque Sleeves#r/#R<#l|#R>#r\#n~
+Description  A dark shadow casts itself on the ground in the shape of a pair of sleeves.~
+Questowner   Dax~
+Vnum         33170
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 8
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter bracer strength~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Bracer of Strength#r/#R<#l|#R>#r\#n~
+Description  A heavy bracer has an aura of power.~
+Questowner   Dax~
+Vnum         33162
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 24
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter bracer strength~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Bracer of Strength#r/#R<#l|#R>#r\#n~
+Description  A heavy bracer has an aura of power.~
+Questowner   Dax~
+Vnum         33162
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 24
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter amulet invisibility~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Amulet of Invisibility#r/#R<#l|#R>#r\#n~
+Description  The faint outline of an amulet catches your eye~
+Questowner   Dax~
+Vnum         33163
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 5
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter ring smoke glass swirling~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Swirling Black Smoke in a Glass Ring#r/#R<#l|#R>#r\#n~
+Description  A polished ring is clouded with smoke.~
+Questowner   Dax~
+Vnum         33164
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter ring smoke glass swirling~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Swirling Black Smoke in a Glass Ring#r/#R<#l|#R>#r\#n~
+Description  A polished ring is clouded with smoke.~
+Questowner   Dax~
+Vnum         33164
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter plate obscurity~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Plate of Obscurity#r/#R<#l|#R>#r\#n~
+Description  A dark shadow casts itself on the ground in the shape of an armored plate.~
+Questowner   Dax~
+Vnum         33165
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter helm darkness~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Helm of Darkness#r/#R<#l|#R>#r\#n~
+Description  A dark shadow casts itself on the ground in the shape of a helm.~
+Questowner   Dax~
+Vnum         33166
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter astral war boots~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Astral War Boots#r/#R<#l|#R>#r\#n~
+Description  A seemingly unreal pair of boots lay on the ground.~
+Questowner   Dax~
+Vnum         33168
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter bloodfist gauntlets~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#0Bloodfist Gauntlets#r/#R<#l|#R>#r\#n~
+Description  A pair of heavy gauntlets, stained with blood lays on the ground.~
+Questowner   Dax~
+Vnum         33169
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter dirk~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#WGleaming Ivory Dirk#r/#R<#l|#R>#r\#n~
+Description  A gleaming blade lies on the ground.~
+Questowner   Dax~
+Vnum         33160
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 60 80 11
+End
+
+#OBJECT
+Nest         0
+Name         shapeshifter dirk~
+OwnerID      0
+ShortDescr   #r/#R<#l|#R>#r\#WGleaming Ivory Dirk#r/#R<#l|#R>#r\#n~
+Description  A gleaming blade lies on the ground.~
+Questowner   Dax~
+Vnum         33160
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 60 80 11
+End
+
+#OBJECT
+Nest         0
+Name         Dax soul stabber~
+OwnerID      2645
+ShortDescr   Dax's soul stabber~
+Description  Dax's soul stabber is lying here.~
+Poweronch    $p pulses with energy.~
+Poweroffch   $p pulses with energy.~
+Powerusech   You twist the pommel of your soul blade.~
+Poweronvict  $p stops pulsing with energy.~
+Poweroffvict $p stops pulsing with energy.~
+Powerusevict $n twists the pommel of $s soul blade.~
+Questmaker   Dax~
+Questowner   Dax~
+Vnum         30000
+ExtraFlags   16451
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      22
+ItemType     5
+Weight       3
+Spectype     48
+Specpower    86
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        7
+Timer        0
+Cost         60
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       13034 10 20 2
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 5 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 2 4 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 2 4 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 6 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 4 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 6 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 4 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 6 11
+End
+
+#OBJECT
+Nest         0
+Name         pike~
+OwnerID      0
+ShortDescr   a pike~
+Description  A Pike~
+Vnum         32003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 2 3 11
+End
+
+#OBJECT
+Nest         0
+Name         Shamanic staff~
+OwnerID      0
+ShortDescr   a Shamanic Staff~
+Description  A Shamanic Staff~
+Vnum         32004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 4 5 7
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         drum stick~
+OwnerID      0
+ShortDescr   a Drumstick~
+Description  A Drumstick~
+Vnum         32006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 1 7
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         drum stick~
+OwnerID      0
+ShortDescr   a Drumstick~
+Description  A Drumstick~
+Vnum         32006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 1 7
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         scimitar~
+OwnerID      0
+ShortDescr   a Scimitar~
+Description  A Scimitar~
+Vnum         32005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         black dragon claw~
+OwnerID      0
+ShortDescr   a Black Dragon Claw~
+Description  A Black Dragon Claw~
+Vnum         32009
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 5 5
+End
+
+#OBJECT
+Nest         0
+Name         orb black dragon~
+OwnerID      0
+ShortDescr   the Orb of Darkness~
+Description  The Orb of Darkness~
+Vnum         32008
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     8
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dragon scale dragonscale~
+OwnerID      0
+ShortDescr   dragonscale of the Black Dragon~
+Description  Dragonscale of the Black Dragon~
+Vnum         32010
+ExtraFlags   771
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     8
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         black dragon claw~
+OwnerID      0
+ShortDescr   a Black Dragon Claw~
+Description  A Black Dragon Claw~
+Vnum         32009
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 3 5 5
+End
+
+#OBJECT
+Nest         0
+Name         orb black dragon~
+OwnerID      0
+ShortDescr   the Orb of Darkness~
+Description  The Orb of Darkness~
+Vnum         32008
+ExtraFlags   2
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     8
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         dragon scale dragonscale~
+OwnerID      0
+ShortDescr   dragonscale of the Black Dragon~
+Description  Dragonscale of the Black Dragon~
+Vnum         32010
+ExtraFlags   771
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     8
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         robe black silk~
+OwnerID      0
+ShortDescr   a black silk robe~
+Description  A black silk robe lies heaped in one corner.~
+Vnum         5222
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       6
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         1300
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         stone pale blue~
+OwnerID      0
+ShortDescr   a pale blue stone~
+Description  A pale blue stone sits here.~
+Vnum         5230
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     8
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         long dagger slim~
+OwnerID      0
+ShortDescr   a long slim dagger~
+Description  A long slim dagger has been left here.~
+Vnum         5252
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       4
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 2 3 11
+End
+
+#OBJECT
+Nest         0
+Name         two-handed two sword~
+OwnerID      0
+ShortDescr   a two-handed sword~
+Description  A nice two-handed sword hangs on a hook in the wall.~
+Vnum         5221
+ExtraFlags   1088
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       24
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         55000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 10 16 3
+End
+
+#OBJECT
+Nest         0
+Name         sleeves mithril~
+OwnerID      0
+ShortDescr   some mithril sleeves~
+Description  A set of mithril sleeves lies on the ground.~
+Vnum         5203
+ExtraFlags   1088
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         12450
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         two-handed two sword~
+OwnerID      0
+ShortDescr   a two-handed sword~
+Description  A nice two-handed sword hangs on a hook in the wall.~
+Vnum         5221
+ExtraFlags   1088
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       24
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         55000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 12 22 3
+End
+
+#OBJECT
+Nest         0
+Name         sleeves mithril~
+OwnerID      0
+ShortDescr   some mithril sleeves~
+Description  A set of mithril sleeves lies on the ground.~
+Vnum         5203
+ExtraFlags   1088
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       10
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         12450
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shield iron~
+OwnerID      0
+ShortDescr   a sturdy iron shield~
+Description  A small, but sturdy, iron shield has been left here.~
+Vnum         5208
+ExtraFlags   576
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        4
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak green~
+OwnerID      0
+ShortDescr   a dark green cloak~
+Description  A beautiful dark green cloak has been dropped by someone.~
+Vnum         5223
+ExtraFlags   576
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         14500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         longsword commoner~
+OwnerID      0
+ShortDescr   a commoner's longsword~
+Description  A commoner's longsword made of adamantite has been left here.~
+Vnum         5100
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        3
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 6 7 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword commoner~
+OwnerID      0
+ShortDescr   a commoner's longsword~
+Description  A commoner's longsword made of adamantite has been left here.~
+Vnum         5100
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 5 8 3
+End
+
+#END

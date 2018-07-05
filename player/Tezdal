@@ -1,0 +1,1423 @@
+#PLAYERS
+Name         Tezdal~
+Switchname   Tezdal~
+PlayerID     2254
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     5
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 10 10 0 10 10 0 10 0 0 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        1
+Morph        Tezdal the huge hulking demon~
+Createtime   Thu Aug 27 18:06:29 2009~
+Lasttime     Thu Sep  3 18:07:53 2009~
+Lasthost     pool-96-247-201-86.clppva.fios.verizon.net~
+Poweraction  remove all~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       74624
+Sex          1
+Timetick     32
+Race         1
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      128
+PlayerRank   4
+PlayerRace   19
+PlayerRaceLevel 31
+PcPractice   156
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      1
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   928
+Chakra       0
+Form         1048575
+Beast        20
+Spectype     4
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       20128
+Room         50964
+PkPdMkMd     1 0 11022 0
+Alos         1
+Awin         0
+Bank         0
+Weapons      201 220 240 454 220 226 720 240 240 240 240 235 200
+Spells       212 212 212 212 212
+Combat       0 0 0 0 0 0 0 0
+Stance       14 200 200 200 200 200 200 200 200 200 200 0
+Stance2      14 200 200 0 0 0 0 1175 10391 10414 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   123927 123927 70759 70759 69670 69670
+Warps        12877823
+WarpCount    18
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          7510402542
+Act          2046
+Act2         4349
+Special      2
+Bones        27018
+Newbits      34340864
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   3670144
+AffectedBy2   16
+Position     9
+Practice     49
+SavingThrow  0
+Alignment    -1000
+Hitroll      3748
+Damroll      3900
+Armor        -1275
+Wimpy        0
+Deaf         0
+WpnResist     501 2 0 0 0 1 7 0 0 1 322 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     TeUpvzMICxwdE~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Rockwell~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    61
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 78 100 100 100
+AttrMod      15 0 0 15 15
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        143679509 215930 810417 654 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        134019071 262188 0 0 33120 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        268435456 167772167 0 0 0 0 0 0 2619496 3037096 12 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1251410789
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1251403006 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+AffectData   'pass door'   1   0   0    1048576
+End
+
+#OBJECT
+Nest         0
+Name         demon mastery mark~
+OwnerID      2254
+ShortDescr   the #Runholy#n mark of #0Lucifer#n~
+Description  The mark of lucifer is on the ground here.~
+Questowner   Tezdal~
+Vnum         33134
+ExtraFlags   4224
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Spectype     262144
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        69632
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 15
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Leggings#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Leggings#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 77 18
+AffectData   -1 53 19
+AffectData   -1 145 13
+AffectData   -1 185 12
+AffectData   -1 198 14
+AffectData   -1 75 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Ring#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 53 18
+AffectData   -1 94 19
+AffectData   -1 130 13
+AffectData   -1 150 12
+AffectData   -1 107 14
+AffectData   -1 115 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Kama #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Kama lies on the ground.#n~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    128
+WearFlags    8193
+WearLoc      19
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        69632
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 488 604 3
+AffectData   -1 453 18
+AffectData   -1 559 19
+AffectData   -1 2408 13
+AffectData   -1 2482 12
+AffectData   -1 1863 14
+AffectData   -1 -426 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Necklace#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 82 18
+AffectData   -1 93 19
+AffectData   -1 102 13
+AffectData   -1 147 12
+AffectData   -1 105 14
+AffectData   -1 -27 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Revolver ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Revolver #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Revolver lies on the ground.#n~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      18
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 468 567 6
+AffectData   -1 544 18
+AffectData   -1 462 19
+AffectData   -1 2612 13
+AffectData   -1 1280 12
+AffectData   -1 1227 14
+AffectData   -1 -413 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Cloak ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Cloak#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Cloak#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 73 18
+AffectData   -1 73 19
+AffectData   -1 162 13
+AffectData   -1 148 12
+AffectData   -1 151 14
+AffectData   -1 134 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Mask#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 74 18
+AffectData   -1 92 19
+AffectData   -1 125 13
+AffectData   -1 183 12
+AffectData   -1 111 14
+AffectData   -1 80 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Helmet ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Helmet#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 97 18
+AffectData   -1 59 19
+AffectData   -1 151 13
+AffectData   -1 123 12
+AffectData   -1 144 14
+AffectData   -1 124 17
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2254
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Tezdal~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        69632
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       200 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Boots#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Boots#n lies on the ground.~
+Questmaker   Tezdal~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 3
+AffectData   -1 99 18
+AffectData   -1 76 19
+AffectData   -1 130 13
+AffectData   -1 182 12
+AffectData   -1 154 14
+AffectData   -1 89 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Ring#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Ring#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 65 18
+AffectData   -1 77 19
+AffectData   -1 173 13
+AffectData   -1 190 12
+AffectData   -1 157 14
+AffectData   -1 78 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 186 18
+AffectData   -1 197 19
+AffectData   -1 498 13
+AffectData   -1 402 12
+AffectData   -1 474 14
+AffectData   -1 -300 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Longsword ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Longsword #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Longsword lies on the ground.#n~
+Questmaker   Tezdal~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     67108872
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65600
+Points       -27680
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     1
+Values       18000 445 595 3
+AffectData   -1 573 18
+AffectData   -1 590 19
+AffectData   -1 2991 13
+AffectData   -1 1859 12
+AffectData   -1 1242 14
+AffectData   -1 -163 17
+AffectData   -1 100 19
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Belt#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Belt#n lies on the ground.~
+Questmaker   Tezdal~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 8
+AffectData   -1 100 18
+AffectData   -1 71 19
+AffectData   -1 121 13
+AffectData   -1 198 12
+AffectData   -1 139 14
+AffectData   -1 130 17
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Tezdal~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 16 50 0 81 16808731 117 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Dagger #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Dagger lies on the ground.#n~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 430 593 2
+AffectData   -1 422 18
+AffectData   -1 452 19
+AffectData   -1 2396 13
+AffectData   -1 1414 12
+AffectData   -1 1823 14
+AffectData   -1 -11 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Sleeves#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Sleeves#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 61 18
+AffectData   -1 84 19
+AffectData   -1 104 13
+AffectData   -1 176 12
+AffectData   -1 133 14
+AffectData   -1 46 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Bracelet#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 93 18
+AffectData   -1 95 19
+AffectData   -1 192 13
+AffectData   -1 117 12
+AffectData   -1 138 14
+AffectData   -1 -40 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Necklace#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Necklace#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -32 17
+AffectData   -1 115 14
+AffectData   -1 194 12
+AffectData   -1 154 13
+AffectData   -1 73 19
+AffectData   -1 92 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Bracelet#n~
+Description  #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Bracelet#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -284 17
+AffectData   -1 389 14
+AffectData   -1 329 12
+AffectData   -1 333 13
+AffectData   -1 180 19
+AffectData   -1 184 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n~
+Description  #RS#rh#7a#rt#Rt#re#7r#re#Rd #rR#7u#rn#Re#n #7Leggings#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 129 17
+AffectData   -1 190 14
+AffectData   -1 123 12
+AffectData   -1 181 13
+AffectData   -1 80 19
+AffectData   -1 66 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Mask ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Mask#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Mask#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 104 17
+AffectData   -1 196 14
+AffectData   -1 147 12
+AffectData   -1 174 13
+AffectData   -1 97 19
+AffectData   -1 50 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n~
+Description  #gCr#Ga#7c#nk#0ed #nS#7c#Ga#gle#n #7Shield#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 78 17
+AffectData   -1 132 14
+AffectData   -1 125 12
+AffectData   -1 192 13
+AffectData   -1 73 19
+AffectData   -1 50 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Necklace#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Necklace#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -25 17
+AffectData   -1 158 14
+AffectData   -1 110 12
+AffectData   -1 135 13
+AffectData   -1 97 19
+AffectData   -1 66 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Mask#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Mask#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     5
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -284 17
+AffectData   -1 371 14
+AffectData   -1 488 12
+AffectData   -1 454 13
+AffectData   -1 184 19
+AffectData   -1 194 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Belt ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Belt#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Belt#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 109 17
+AffectData   -1 167 14
+AffectData   -1 164 12
+AffectData   -1 119 13
+AffectData   -1 100 19
+AffectData   -1 67 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Leggings#n~
+Description  #CM#ci#7rr#co#Cr #7p#nl#7a#nt#7e#nd #7Leggings#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -50 17
+AffectData   -1 173 14
+AffectData   -1 149 12
+AffectData   -1 161 13
+AffectData   -1 66 19
+AffectData   -1 93 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Armor ~
+OwnerID      0
+ShortDescr   #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Armor#n~
+Description  #GE#gl#0v#ne#7n S#nt#0e#ge#Gl#n #7Armor#n lies on the ground.~
+Questowner   Tezdal~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 42 17
+AffectData   -1 170 14
+AffectData   -1 180 12
+AffectData   -1 186 13
+AffectData   -1 99 19
+AffectData   -1 97 18
+End
+
+#END

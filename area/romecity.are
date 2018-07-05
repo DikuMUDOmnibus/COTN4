@@ -1,0 +1,2326 @@
+#AREADATA
+Name        Rome~
+Builders    Xrakisis~
+Music       default.mid~
+VNUMs       82201 82600
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#82201
+male roman citizen~
+A #LMale #cR#Coma#cn C#Citize#cn#n~
+A #LMale #cR#Coma#cn C#Citize#cn#n stands here.
+~
+~
+1 0 0
+71 0 0 0
+1 0
+0
+0
+#82202
+famale roman citizen~
+A #PFemale #cR#Coma#cn #YCitizen#n~
+A #PFemale #cR#Coma#cn #YCitizen#n stands here.
+~
+~
+1 0 0
+71 0 0 0
+2 0
+0
+0
+#82203
+a roman merchant~
+A #cR#Coma#cn #YMerchant#n~
+A #cR#Coma#cn #YMerchant#n stands here.
+~
+~
+1 0 0
+73 0 0 0
+1 0
+0
+0
+#82204
+a roman immigrant~
+A #cR#Coma#cn #RI#rmmigran#Rt#n~
+A #cR#Coma#cn #RI#rmmigran#Rt#n stands here.
+~
+~
+1 0 0
+71 0 0 0
+1 0
+0
+0
+#82205
+a roman slave~
+A #cR#Coma#cn #PSlave#n~
+A #cR#Coma#cn #PSlave#n stands here.
+~
+~
+1 0 0
+68 0 0 0
+1 0
+0
+0
+#82206
+a roman guard~
+A #cR#Coma#cn #GG#guar#Gd#n~
+A #cR#Coma#cn #GG#guar#Gd#n stands here.
+~
+~
+3 0 0
+91 0 0 0
+1 0
+0
+0
+#82207
+a roman city guard~
+A #cR#Coma#cn #YCity #GG#guar#Gd#n~
+A #cR#Coma#cn #YCity #GG#guar#Gd stands here.
+~
+~
+1 0 0
+73 0 0 0
+1 0
+0
+0
+#82208
+a roman equestrian~
+A #cR#Coma#cn #0Equestrian#n~
+A #cR#Coma#cn #0Equestrian#n stands here.
+~
+~
+1 0 0
+68 0 0 0
+1 0
+0
+0
+#82209
+a spartan traveler~
+A #cS#Cparta#cn #0Traveler#n~
+A #cS#Cparta#cn #0Traveler#n stands here.
+~
+~
+1 0 0
+67 0 0 0
+1 0
+0
+0
+#82210
+a Dacian traveler~
+A #cD#Cacia#cn #0Traveler#n~
+A #cD#Cacia#cn #0Traveler#n stands here.
+~
+~
+1 0 0
+71 0 0 0
+1 0
+0
+0
+#82211
+roman Marcus Didius Severus Julianus~
+#0Marcus Didius Severus Julianus#n~
+#0Marcus Didius Severus Julianus#n stands here.
+~
+~
+3 0 0
+4001 100 20 3
+1 0
+0
+0
+#82212
+roman guard~
+A #cR#Coma#cn #GG#guar#Gd#n~
+A #cR#Coma#cn #GG#guar#Gd#n stands here.
+~
+~
+3 0 0
+68 0 0 0
+1 0
+0
+0
+#82213
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+69 0 0 0
+1 0
+0
+0
+#82214
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+71 0 0 0
+1 0
+0
+0
+#82215
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+70 0 0 0
+1 0
+0
+0
+#82216
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+74 0 0 0
+1 0
+0
+0
+#82217
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+68 0 0 0
+1 0
+0
+0
+#82218
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+68 0 0 0
+1 0
+0
+0
+#82219
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+72 0 0 0
+1 0
+0
+0
+#82220
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+68 0 0 0
+1 0
+0
+0
+#82221
+a roman senator~
+A #YRoman #LS#lenator#n~
+A #YRoman #LS#lenator#n stands here.
+~
+~
+3 0 0
+71 0 0 0
+1 0
+0
+0
+#82222
+tribune Tiberius Gracchus~
+#0Tribune Tiberius Gracchus#n~
+#0Tribune Tiberius Gracchus#n stands here.
+~
+~
+3 128 0
+4000 100 20 3
+1 0
+0
+0
+#82223
+Gaius Julius Octavius Augustus~
+#0Gaius Julius Octavius (Augustus)#n~
+#0Gaius Julius Octavius (Augustus)#n stands here
+~
+~
+3 128 250
+4001 100 20 3
+1 0
+0
+0
+#82224
+Gaius Marius ~
+#0Gaius Marius#n~
+#0Gaius Marius#n stands here.
+~
+~
+3 128 250
+4000 100 20 3
+1 0
+0
+0
+#82225
+Lucius Cornelius Sulla~
+#0Lucius Cornelius Sulla#n~
+#0Lucius Cornelius Sulla#n stands here.
+~
+~
+3 128 -500
+4001 100 20 3
+1 0
+0
+0
+#82226
+Gnaeus Pompeius Magnus~
+#0Gnaeus Pompeius Magnus#n~
+#0Gnaeus Pompeius Magnus#n stands here.
+~
+~
+3 128 0
+3999 100 20 3
+1 0
+0
+0
+#82227
+retired roman legionnaire~
+A #LR#7etire#Ld #7L#Legionnair#7e#n~
+A #LR#7etire#Ld #7L#Legionnair#7e#n is here.
+~
+~
+1 0 0
+80 0 0 0
+1 0
+0
+0
+#82235
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+80 0 0 0
+1 0
+0
+0
+#82236
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+82 0 0 0
+1 0
+0
+0
+#82237
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+78 0 0 0
+1 0
+0
+0
+#82238
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+81 0 0 0
+1 0
+0
+0
+#82239
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+82 0 0 0
+1 0
+0
+0
+#82240
+Roman Legionnaire~
+#0A #7R#Roman #7L#Regionnaire#n~
+#0A #7R#Roman #7L#Regionnaire#n is here.
+~
+~
+3 0 0
+76 0 0 0
+1 0
+0
+0
+#82241
+Publius Helvius Pertinax~
+#0Publius Helvius Pertinax#n~
+#0Publius Helvius Pertinax#n stands here.
+~
+~
+3 0 0
+4000 100 20 3
+0 0
+0
+0
+#82242
+Marcus Licinius Crassus~
+#0Marcus Licinius Crassus#n~
+#0Marcus Licinius Crassus#n is here.
+~
+~
+3 128 0
+4000 100 20 3
+1 0
+0
+0
+#82243
+Gaius Julius Caesar ~
+#0Gaius Julius Caesar#n~
+#0Gaius Julius Caesar#n stands here.
+~
+~
+3 128 0
+4002 100 20 3
+1 0
+0
+0
+#82244
+Marcus Tullius Cicero ~
+#0Marcus Tullius Cicero#n~
+#0Marcus Tullius Cicero#n stands here.
+~
+~
+3 128 0
+3999 100 20 3
+1 0
+0
+0
+#82245
+Lucius Quinctius Cincinnatus~
+#0Lucius Quinctius Cincinnatus#n~
+#0Lucius Quinctius Cincinnatus#n is here.
+~
+~
+3 128 0
+4000 100 20 3
+1 0
+0
+0
+#82246
+Marcus Cocceius Nerva~
+#0Marcus Cocceius Nerva#n~
+#0Marcus Cocceius Nerva#n is standing here.
+~
+~
+3 128 0
+4001 100 20 3
+1 0
+0
+0
+#82247
+Marcus Ulpius Trajanus~
+#0Marcus Ulpius Trajanus#n~
+#0Marcus Ulpius Trajanus#n is here.
+~
+~
+3 128 0
+4002 100 20 3
+1 0
+0
+0
+#82248
+Publius Aelius Hadrianus~
+#0Publius Aelius Hadrianus#n~
+#0Publius Aelius Hadrianus#n is here.
+~
+~
+3 128 0
+4001 100 20 3
+1 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#82201
+augustus red cloak~
+#YA#Ru#Yg#Ru#Ys#Rt#Yu#Rs#0'#Ys #RR#re#Rd #LC#7loak#n~
+#YA#Ru#Yg#Ru#Ys#Rt#Yu#Rs#0'#Ys #RR#re#Rd #LC#7loak#n is here.~
+9 2 0 1025
+100 100 2
+none~
+none~
+250 0 0 0
+3 0
+A
+14 300
+A
+12 300
+A
+13 300
+A
+17 -250
+A
+19 130
+A
+18 125
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82202
+Gaius Marius shield~
+#GG#ga#Gi#gu#Gs #0M#7a#0r#7i#0u#7s#0's #CB#cod#Cy #GS#gh#Gi#ge#Gl#gd#n~
+#GG#ga#Gi#gu#Gs #0M#7a#0r#7i#0u#7s#0's #CB#cod#Cy #GS#gh#Gi#ge#Gl#gd#n is here.~
+9 2 0 513
+100 100 2
+none~
+none~
+500 0 0 0
+1 15000
+A
+13 400
+A
+18 100
+A
+19 100
+A
+13 300
+A
+12 300
+A
+14 300
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82203
+bandmail~
+a suit of #7B#0a#7n#0d#7m#0a#7i#0l#n~
+A suit of #7B#0a#7n#0d#7m#0a#7i#0l#n is her5e.~
+9 2 0 9
+100 100 2
+none~
+none~
+150 0 0 0
+1 25000
+A
+19 120
+A
+18 115
+A
+12 100
+A
+14 150
+A
+13 150
+A
+5 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82204
+tiberius chainmail sleeves~
+#RT#Yi#Rb#Ye#Rr#Yi#Ru#Ys'#Rs #0C#7h#0a#7i#0n#7m#0a#7i#0l #GS#gl#Ge#ge#Gv#ge#Gs#n~
+#RT#Yi#Rb#Ye#Rr#Yi#Ru#Ys'#Rs #0C#7h#0a#7i#0n#7m#0a#7i#0l #GS#gl#Ge#ge#Gv#ge#Gs#n are here.~
+9 2 0 257
+100 100 2
+none~
+none~
+0 0 0 0
+5 25000
+A
+17 -100
+A
+19 100
+A
+18 100
+A
+13 300
+A
+12 300
+A
+14 300
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82205
+pompey greaves~
+#7P#0ompe#7y#0's #GG#gr#Ge#ga#Gv#ge#Gs#n~
+#7P#0ompe#7y#0's #GG#gr#Ge#ga#Gv#ge#Gs#n are here.~
+9 2 0 33
+100 100 2
+none~
+none~
+100 0 0 0
+1 15000
+A
+2 5
+A
+19 100
+A
+18 100
+A
+13 400
+A
+14 400
+A
+12 400
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82206
+belt pouches~
+#0A #7B#0elt #0with #YMany #LP#lo#Lu#lc#Lh#le#Ls#n~
+#0A #7B#0elt #0with #YMany #LP#lo#Lu#lc#Lh#le#Ls#n is here.~
+9 2 0 2049
+100 100 2
+none~
+none~
+50 0 0 0
+1 15000
+A
+19 90
+A
+18 95
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82207
+golden amulet~
+#0A #YGolden #RA#rm#Ru#rl#Re#rt#n~
+#0A #YGolden #RA#rm#Ru#rl#Re#rt#n lies here.~
+9 2 0 5
+100 100 2
+none~
+none~
+50 0 0 0
+2 25000
+A
+12 2000
+A
+19 90
+A
+18 90
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82208
+caesars golden bracer~
+#oCaesar's #YGolden #0Bracer#n~
+#oCaesar's #YGolden #0Bracer#n is here~
+9 2 0 4097
+100 100 2
+none~
+none~
+50 0 0 0
+2 3500
+A
+3 5
+A
+4 5
+A
+19 110
+A
+18 115
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82209
+centurion helm~
+#CC#centurio#Cn #YH#Rel#Ym#n~
+A #CC#centurio#Cn #YH#Rel#Ym#n is here.~
+9 2 0 17
+100 100 2
+none~
+none~
+150 0 0 0
+1 20000
+A
+19 120
+A
+18 120
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82210
+Cincinnatus silver ring~
+#YC#Ri#Yn#Rc#Yi#Rn#Yn#Ra#Yt#Ru#Ys#0'#Rs #0Silver #YRing#n~
+#YC#Ri#Yn#Rc#Yi#Rn#Yn#Ra#Yt#Ru#Ys#0'#Rs #0Silver #YRing#n is here.~
+9 2 0 3
+100 100 2
+none~
+none~
+20 0 0 0
+1 35000
+A
+14 300
+A
+12 300
+A
+13 300
+A
+18 125
+A
+19 140
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82211
+nerva's leather sandals~
+#YR#Ro#Ym#Ra#Yn #Ysandals#n~
+#YR#Ro#Ym#Ra#Yn #Ysandals#n are here.~
+9 2 0 65
+100 100 2
+none~
+none~
+40 0 0 0
+1 25000
+A
+14 250
+A
+12 250
+A
+13 250
+A
+19 100
+A
+18 120
+A
+2 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82212
+iron gauntlets~
+#YTrajan's #0Iron #YGauntlets#n~
+#YTrajan's #0Iron #YGauntlets#n are here.~
+9 2 0 129
+100 100 2
+none~
+none~
+40 0 0 0
+1 25000
+A
+14 1000
+A
+1 5
+A
+19 120
+A
+18 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#82213
+Hadrians gladius~
+#RH#Ya#Rd#Yr#Ri#Ya#Rn#Ys #0Steel #YGladius#n~
+#RH#Ya#Rd#Yr#Ri#Ya#Rn#Ys #0Steel #YGladius#n is here.~
+5 2 0 8193
+100 100 2
+none~
+none~
+0 80 120 11
+1 0
+A
+18 150
+A
+19 120
+A
+2 2
+A
+13 350
+A
+12 150
+A
+14 200
+A
+17 -300
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#82201
+#cR#Coma#cn M#Carketplac#ce#n~
+~
+0 1
+D1
+~
+~
+0 0 82207
+D2
+~
+~
+0 0 82222
+D3
+~
+~
+0 0 82202
+S
+#82202
+#cW#Ces#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 0
+D0
+~
+~
+0 0 82230
+D1
+~
+~
+0 0 82201
+D2
+~
+~
+0 0 82275
+D3
+~
+~
+0 0 82203
+S
+#82203
+#cW#Ces#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 0
+D0
+~
+~
+0 0 82231
+D1
+~
+~
+0 0 82202
+D2
+~
+~
+0 0 82232
+D3
+~
+~
+0 0 82204
+S
+#82204
+#cW#Ces#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 0
+D0
+~
+~
+0 0 82269
+D1
+~
+~
+0 0 82203
+D2
+~
+~
+0 0 82276
+D3
+~
+~
+0 0 82205
+S
+#82205
+#cW#Ces#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 0
+D1
+~
+~
+0 0 82204
+D3
+~
+~
+0 0 82206
+S
+#82206
+#cW#Ces#ct G#Cat#ce#n~
+~
+0 1
+D1
+~
+~
+0 0 82205
+D2
+~
+~
+0 0 82243
+S
+#82207
+#cE#Cas#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82250
+D1
+~
+~
+0 0 82208
+D2
+~
+~
+0 0 82233
+D3
+~
+~
+0 0 82201
+S
+#82208
+#cE#Cas#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82270
+D1
+~
+~
+0 0 82209
+D2
+~
+~
+0 0 82271
+D3
+~
+~
+0 0 82207
+S
+#82209
+#cE#Cas#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82215
+D1
+~
+~
+0 0 82210
+D2
+~
+~
+0 0 82272
+D3
+~
+~
+0 0 82208
+S
+#82210
+#cE#Cas#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82214
+D1
+~
+~
+0 0 82211
+D2
+~
+~
+0 0 82273
+D3
+~
+~
+0 0 82209
+S
+#82211
+#cE#Cas#ct M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82213
+D1
+~
+~
+0 0 82212
+D2
+~
+~
+0 0 82274
+D3
+~
+~
+0 0 82210
+S
+#82212
+#cE#Cas#ct G#Cat#ce#n~
+~
+0 0
+D2
+~
+~
+0 0 82248
+D3
+~
+~
+0 0 82211
+S
+#82213
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D0
+~
+~
+0 0 82216
+D1
+~
+~
+0 0 82221
+D2
+~
+~
+0 0 82211
+D3
+~
+~
+0 0 82214
+S
+#82214
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D0
+~
+~
+0 0 82217
+D1
+~
+~
+0 0 82213
+D2
+~
+~
+0 0 82210
+D3
+~
+~
+0 0 82215
+S
+#82215
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D0
+~
+~
+0 0 82218
+D1
+~
+~
+0 0 82214
+D2
+~
+~
+0 0 82209
+D3
+~
+~
+0 0 82219
+S
+#82216
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D2
+~
+~
+0 0 82213
+D3
+~
+~
+0 0 82217
+S
+#82217
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D0
+~
+~
+0 0 82220
+D1
+~
+~
+0 0 82216
+D2
+~
+~
+0 0 82214
+D3
+~
+~
+0 0 82218
+S
+#82218
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D1
+~
+~
+0 0 82217
+D2
+~
+~
+0 0 82215
+S
+#82219
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D1
+~
+~
+0 0 82215
+S
+#82220
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D2
+~
+~
+0 0 82217
+S
+#82221
+#cT#Ch#ce S#Cenat#ce#n~
+~
+0 0
+D3
+~
+~
+0 0 82213
+S
+#82222
+#cS#Cout#ch M#Cai#cn S#Ctree#ct#n~
+~
+0 1
+D0
+~
+~
+0 0 82201
+D2
+~
+~
+0 0 82223
+S
+#82223
+#CA#cn I#Cntersectio#cn#n~
+~
+0 1
+D0
+~
+~
+0 0 82222
+D1
+~
+~
+0 0 82224
+D2
+~
+~
+0 0 82252
+D3
+~
+~
+0 0 82227
+S
+#82224
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D0
+~
+~
+0 0 82260
+D1
+~
+~
+0 0 82225
+D2
+~
+~
+0 0 82234
+D3
+~
+~
+0 0 82223
+S
+#82225
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D0
+~
+~
+0 0 82277
+D1
+~
+~
+0 0 82226
+D3
+~
+~
+0 0 82224
+S
+#82226
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D1
+~
+~
+0 0 82245
+D3
+~
+~
+0 0 82225
+S
+#82227
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D0
+~
+~
+0 0 82235
+D1
+~
+~
+0 0 82223
+D2
+~
+~
+0 0 82249
+D3
+~
+~
+0 0 82228
+S
+#82228
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D0
+~
+~
+0 0 82236
+D1
+~
+~
+0 0 82227
+D3
+~
+~
+0 0 82229
+S
+#82229
+#RR#ro#Rs#re #gA#Gv#ge#n~
+~
+0 1
+D0
+~
+~
+0 0 82237
+D1
+~
+~
+0 0 82228
+D3
+~
+~
+0 0 82241
+S
+#82230
+#cH#Com#ce #Rof #YA#Ru#Yg#Ru#Ys#Rt#Yu#Rs#n~
+~
+0 0
+D2
+~
+~
+0 0 82202
+S
+#82231
+#cH#Com#ce #Rof #YG#Ra#Yi#Ru#Ys M#Ra#Yr#Ri#Yu#Rs#n~
+~
+0 0
+D2
+~
+~
+0 0 82203
+S
+#82232
+#CH#com#Ce #Rof #YL#Ru#Yc#Ri#Yu#Rs #YC#Ro#Yr#Rn#Ye#Rl#Yi#Ru#Ys #RS#Yu#Rl#Yl#Ra#n~
+~
+0 0
+D0
+~
+~
+0 0 82203
+S
+#82233
+#CH#com#Ce #Rof #0Tiberius Gracchus#n~
+~
+0 0
+D0
+~
+~
+0 0 82207
+S
+#82234
+#CH#com#Ce #Rof #0Gnaeus Pompeius Magnus#n~
+~
+0 0
+D0
+~
+~
+0 0 82224
+S
+#82235
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D0
+~
+~
+0 0 82238
+D2
+~
+~
+0 0 82227
+D3
+~
+~
+0 0 82236
+S
+#82236
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D0
+~
+~
+0 0 82239
+D1
+~
+~
+0 0 82235
+D2
+~
+~
+0 0 82228
+D3
+~
+~
+0 0 82237
+S
+#82237
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D0
+~
+~
+0 0 82240
+D1
+~
+~
+0 0 82236
+D2
+~
+~
+0 0 82229
+S
+#82238
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D2
+~
+~
+0 0 82235
+D3
+~
+~
+0 0 82239
+S
+#82239
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D1
+~
+~
+0 0 82238
+D2
+~
+~
+0 0 82236
+D3
+~
+~
+0 0 82240
+S
+#82240
+#7R#0oma#7n #7B#0arrack#7s#n~
+~
+0 0
+D1
+~
+~
+0 0 82239
+D2
+~
+~
+0 0 82237
+S
+#82241
+#RR#ro#Rs#re #GA#gv#Ge#n~
+~
+0 0
+D1
+~
+~
+0 0 82229
+D3
+~
+~
+0 0 82242
+S
+#82242
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82244
+D1
+~
+~
+0 0 82241
+D2
+~
+~
+0 0 82259
+S
+#82243
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82206
+D1
+~
+~
+0 0 82251
+D2
+~
+~
+0 0 82244
+S
+#82244
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82243
+D2
+~
+~
+0 0 82242
+S
+#82245
+#RR#ro#Rs#re #GA#gv#Ge#n~
+~
+0 0
+D0
+~
+~
+0 0 82261
+D1
+~
+~
+0 0 82246
+D3
+~
+~
+0 0 82226
+S
+#82246
+#RR#ro#Rs#re #GA#gv#Ge#n~
+~
+0 0
+D1
+~
+~
+0 0 82247
+D3
+~
+~
+0 0 82245
+S
+#82247
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82248
+D2
+~
+~
+0 0 82268
+D3
+~
+~
+0 0 82246
+S
+#82248
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82212
+D2
+~
+~
+0 0 82247
+S
+#82249
+#cH#Com#ce #Rof #0Marcus Didius Severus Julianus#n~
+~
+0 0
+D0
+~
+~
+0 0 82227
+S
+#82250
+#0Gems, Slabs and Hilts#n~
+~
+1024 0
+D2
+~
+~
+0 0 82207
+S
+#82251
+#CH#com#Ce #Rof #0Marcus Licinius Crassus#n~
+~
+0 0
+D3
+~
+~
+0 0 82243
+S
+#82252
+#cS#Cout#ch M#Cai#cn S#Ctree#ct#n~
+~
+0 0
+D0
+~
+~
+0 0 82223
+D2
+~
+~
+0 0 82253
+S
+#82253
+#CA#cn #CI#cn#Ct#ce#Cr#cs#Ce#cc#Ct#ci#Co#cn#n~
+~
+0 0
+D0
+~
+~
+0 0 82252
+D1
+~
+~
+0 0 82262
+D3
+~
+~
+0 0 82254
+S
+#82254
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re#n~
+~
+0 1
+D1
+~
+~
+0 0 82253
+D3
+~
+~
+0 0 82255
+S
+#82255
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re#n~
+~
+0 1
+D1
+~
+~
+0 0 82254
+D3
+~
+~
+0 0 82256
+S
+#82256
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re#n~
+~
+0 1
+D1
+~
+~
+0 0 82255
+D3
+~
+~
+0 0 82257
+S
+#82257
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re#n~
+~
+0 1
+D1
+~
+~
+0 0 82256
+D3
+~
+~
+0 0 82258
+S
+#82258
+#7W#0all #7R#0oad#n~
+~
+0 1
+D0
+~
+~
+0 0 82259
+D1
+~
+~
+0 0 82257
+S
+#82259
+#7W#0all #7R#0oad#n~
+~
+0 1
+D0
+~
+~
+0 0 82242
+D2
+~
+~
+0 0 82258
+S
+#82260
+#CH#com#Ce #Rof #0Gaius Julius Caesar#n~
+~
+0 0
+D2
+~
+~
+0 0 82224
+S
+#82261
+#CH#com#Ce #Rof #0Marcus Tullius Cicero#n~
+~
+0 0
+D2
+~
+~
+0 0 82245
+S
+#82262
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re~
+~
+0 0
+D1
+~
+~
+0 0 82263
+D3
+~
+~
+0 0 82253
+S
+#82263
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re~
+~
+0 0
+D1
+~
+~
+0 0 82264
+D3
+~
+~
+0 0 82262
+S
+#82264
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re~
+~
+0 0
+D1
+~
+~
+0 0 82265
+D3
+~
+~
+0 0 82263
+S
+#82265
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re~
+~
+0 0
+D1
+~
+~
+0 0 82266
+D3
+~
+~
+0 0 82264
+S
+#82266
+#GF#go#Gr#ge#Gs#gt #RA#rv#Re#n~
+~
+0 0
+D1
+~
+~
+0 0 82267
+D3
+~
+~
+0 0 82265
+S
+#82267
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82268
+D3
+~
+~
+0 0 82266
+S
+#82268
+#7W#0all #7R#0oad#n~
+~
+0 0
+D0
+~
+~
+0 0 82247
+D2
+~
+~
+0 0 82267
+S
+#82269
+#CH#com#Ce #Rof #0Lucius Quinctius Cincinnatus#n~
+~
+0 0
+D2
+~
+~
+0 0 82204
+S
+#82270
+#CH#com#Ce #Rof #0Marcus Cocceius Nerva#n~
+~
+0 0
+D2
+~
+~
+0 0 82208
+S
+#82271
+#CH#com#Ce #Rof #0Marcus Ulpius Trajanus#n~
+~
+0 0
+D0
+~
+~
+0 0 82208
+S
+#82272
+#0Office of the #YPraetor#n~
+~
+0 0
+D0
+~
+~
+0 0 82209
+S
+#82273
+#0Office of #YPontifex Maximus#n~
+~
+0 0
+D0
+~
+~
+0 0 82210
+S
+#82274
+#0Office of the #YCensor#n~
+~
+0 0
+D0
+~
+~
+0 0 82211
+S
+#82275
+#0Office of the #YAedile#n~
+~
+0 0
+D0
+~
+~
+0 0 82202
+S
+#82276
+#0Office of the #YQuaestor#n~
+~
+0 0
+D0
+~
+~
+0 0 82204
+S
+#82277
+#CH#com#Ce #Rof #0Publius Aelius Hadrianus#n~
+~
+0 0
+D2
+~
+~
+0 0 82225
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+Z 82241 shopspec_generic
+S
+
+
+
+#RESETS
+M 0 82201 5 82201
+M 0 82202 5 82202
+M 0 82203 5 82203
+M 0 82203 5 82203
+M 0 82204 5 82204
+M 0 82204 5 82204
+M 0 82205 5 82205
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82206 10 82206
+M 0 82208 5 82207
+M 0 82207 5 82207
+M 0 82209 5 82209
+M 0 82210 5 82210
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82212 10 82212
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82213 20 82213
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82214 20 82214
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82215 20 82215
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82216 20 82216
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82217 20 82217
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82218 20 82218
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82219 20 82219
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82220 20 82220
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82221 20 82221
+M 0 82227 5 82223
+M 0 82223 1 82230
+E 0 82201 0 12
+M 0 82224 1 82231
+E 0 82202 0 11
+M 0 82225 1 82232
+E 0 82203 0 5
+M 0 82222 1 82233
+E 0 82204 0 10
+M 0 82226 1 82234
+E 0 82205 0 7
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82235 20 82235
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82236 20 82236
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82237 20 82237
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82238 20 82238
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82239 20 82239
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82240 20 82240
+M 0 82211 1 82249
+E 0 82206 0 13
+M 0 82241 1 82250
+E 0 30053 0 17
+E 0 30054 0 17
+E 0 30055 0 17
+E 0 30056 0 17
+E 0 30057 0 17
+E 0 30058 0 17
+E 0 30059 0 17
+E 0 30060 0 17
+E 0 30061 0 17
+E 0 30062 0 17
+E 0 30065 0 17
+E 0 30049 0 17
+E 0 30050 0 17
+E 0 30051 0 17
+E 0 30052 0 17
+M 0 82242 1 82251
+E 0 82207 0 3
+M 0 82243 1 82260
+E 0 82208 0 14
+M 0 82244 1 82261
+E 0 82209 0 6
+E 0 82210 0 1
+M 0 82245 1 82269
+M 0 82246 1 82270
+E 0 82211 0 8
+M 0 82247 1 82271
+E 0 82212 0 9
+M 0 82248 1 82277
+E 0 82213 0 17
+S
+
+
+
+#$

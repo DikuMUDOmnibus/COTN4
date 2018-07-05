@@ -1,0 +1,1025 @@
+#PLAYERS
+Name         Perry~
+Switchname   Perry~
+PlayerID     2846
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     5
+Class        2
+Morph        ~
+Createtime   Fri Oct  1 15:02:50 2010~
+Lasttime     Fri Oct  1 16:15:34 2010~
+Lasthost     173-18-187-201.client.mchsi.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       65536
+Sex          1
+Timetick     62
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   15
+PlayerRace   0
+PlayerRaceLevel 11
+PcPractice   58
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 1
+Pc_eyes 8
+Pc_hair 11
+Pc_looks 1
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   4
+Genexp       322828460
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   520110080
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       6222
+Room         3005
+PkPdMkMd     0 0 1298 1
+Alos         0
+Awin         0
+Bank         0
+Weapons      0 102 0 117 0 27 0 150 9 0 0 0 0
+Spells       303 303 303 303 303
+Combat       0 0 0 0 0 0 0 0
+Stance       1 171 96 96 0 0 0 0 0 0 0 0
+Stance2      1 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   120228 120728 57738 70271 70221 70806
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          1871501809
+Act          100681706
+Act2         4607
+Special      0
+Bones        38956
+Newbits      134217728
+Newbits2     0
+Sohbits      4194304
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     0
+SavingThrow  0
+Alignment    0
+Hitroll      995
+Damroll      999
+Armor        -130
+Wimpy        0
+Deaf         0
+WpnResist     501 0 0 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     PemVeqtbjiirI~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     10 15 15 13 15
+AttrMod      0 3 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        9238530 80917 53843 503 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        10 5 5 0 5 0 0 0 5 0 0 0 0 0 0 0 5 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 5 0 0
+Condition    0 48 48
+Denied       1285963370
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        57 'armor'
+Skill        100 'bless'
+Skill        58 'create food'
+Skill        17 'create spring'
+Skill        19 'detect evil'
+Skill        100 'harm'
+Skill        2 'heal'
+Skill        100 'identify'
+Skill        100 'locate object'
+Skill        10 'malice'
+Skill        88 'protection'
+Skill        24 'remove curse'
+Skill        100 'frost breath'
+Skill        100 'soulblade'
+Skill        2 'minor creation'
+Skill        100 'berserk'
+End
+
+#OBJECT
+Nest         0
+Name         Perry soul claw~
+OwnerID      2846
+ShortDescr   Perry's soul claw~
+Description  Perry's soul claw is lying here.~
+Poweronch    $p pulses with energy.~
+Poweroffch   $p pulses with energy.~
+Powerusech   You twist the pommel of your soul blade.~
+Poweronvict  $p stops pulsing with energy.~
+Poweroffvict $p stops pulsing with energy.~
+Powerusevict $n twists the pommel of $s soul blade.~
+Questmaker   Perry~
+Questowner   Perry~
+Vnum         30000
+ExtraFlags   16451
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Spectype     48
+Specpower    86
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         60
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     12470
+WeaponLvL     5
+WeaponTotalxp     0
+Values       13034 20 30 5
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Flail #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Flail lies on the ground.#n~
+Questowner   Perry~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1042
+WeaponLvL     4
+WeaponTotalxp     0
+Values       18000 101 131 8
+AffectData   -1 497 18
+AffectData   -1 557 19
+AffectData   -1 1304 13
+AffectData   -1 2430 12
+AffectData   -1 1213 14
+AffectData   -1 -374 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      2846
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Helmet#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Helmet#n lies on the ground.~
+Questowner   Perry~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     405
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 200 18
+AffectData   -1 185 19
+AffectData   -1 408 13
+AffectData   -1 442 12
+AffectData   -1 477 14
+AffectData   -1 -204 17
+End
+
+#OBJECT
+Nest         0
+Name         mage staff~
+OwnerID      0
+ShortDescr   #C=== #RMage Staff #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     54583
+WeaponLvL     24
+WeaponTotalxp     0
+Values       0 63 73 7
+End
+
+#OBJECT
+Nest         0
+Name         mage dagger~
+OwnerID      0
+ShortDescr   #C=== #RMage Dagger #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     56052
+WeaponLvL     24
+WeaponTotalxp     0
+Values       0 62 72 1
+End
+
+#OBJECT
+Nest         0
+Name         mage ring~
+OwnerID      0
+ShortDescr   #C=== #RMage Ring #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage ring~
+OwnerID      0
+ShortDescr   #C=== #RMage Ring #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage collar~
+OwnerID      0
+ShortDescr   #C=== #RMage Collar #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage collar~
+OwnerID      0
+ShortDescr   #C=== #RMage Collar #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage robe~
+OwnerID      0
+ShortDescr   #C=== #RMage Robe #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 21
+End
+
+#OBJECT
+Nest         0
+Name         mage skullcap~
+OwnerID      0
+ShortDescr   #C=== #RMage Skullcap #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 16
+End
+
+#OBJECT
+Nest         0
+Name         mage leggings~
+OwnerID      0
+ShortDescr   #C=== #RMage Leggings #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage boots~
+OwnerID      0
+ShortDescr   #C=== #RMage Boots #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 17
+End
+
+#OBJECT
+Nest         0
+Name         mage gloves~
+OwnerID      0
+ShortDescr   #C=== #RMage Gloves #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Condition    98
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage sleeves~
+OwnerID      0
+ShortDescr   #C=== #RMage Sleeves #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Condition    98
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage mask~
+OwnerID      0
+ShortDescr   #C=== #RMage Mask #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    -1015807
+WearLoc      20
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage bracer~
+OwnerID      0
+ShortDescr   #C=== #RMage Bracer #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage bracer~
+OwnerID      0
+ShortDescr   #C=== #RMage Bracer #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         mage cape~
+OwnerID      0
+ShortDescr   #C=== #RMage Cape #C===#n~
+Description  A piece of mage eq lies here.~
+Questowner   Perry~
+Vnum         33010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Boots#n lies on the ground.~
+Questowner   Perry~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 120 17
+AffectData   -1 170 14
+AffectData   -1 126 12
+AffectData   -1 149 13
+AffectData   -1 86 19
+AffectData   -1 69 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Necklace#n~
+Description  #LD#la#nm#0a#ng#le#Ld #0S#lt#Le#le#0l#n #7Necklace#n lies on the ground.~
+Questowner   Perry~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 150 17
+AffectData   -1 127 14
+AffectData   -1 111 12
+AffectData   -1 136 13
+AffectData   -1 67 19
+AffectData   -1 69 18
+End
+
+#OBJECT
+Nest         0
+Name         Basic Necklace ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Necklace#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Necklace#n lies on the ground.~
+Questowner   Perry~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 -46 17
+AffectData   -1 163 14
+AffectData   -1 173 12
+AffectData   -1 141 13
+AffectData   -1 61 19
+AffectData   -1 57 18
+End
+
+#END

@@ -1,0 +1,27 @@
+Mon Dec  6 00:40:08 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 01:27:46 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 02:11:01 2010 :: [*****] BUG: Char_to_room: Inaba -> NULL room!  Putting char in limbo (2)
+Mon Dec  6 05:33:25 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 05:37:16 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 06:42:52 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 06:47:37 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 13:53:11 2010 :: Sumire@209-102-175-30.dsl.dixnil.grics.net new player.
+Mon Dec  6 14:01:45 2010 :: Shana@209-102-175-30.dsl.dixnil.grics.net new player.
+Mon Dec  6 19:59:46 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:14:17 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:17:56 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:17:56 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:20:56 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:21:17 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:21:44 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:22:14 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:22:59 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:25:20 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:26:20 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 20:26:44 2010 :: [*****] BUG: Extract_char: NULL.
+Mon Dec  6 21:28:17 2010 :: Jaiden@c-67-166-224-232.hsd1.ga.comcast.net new player.
+Mon Dec  6 21:30:02 2010 :: Do_help: Jaiden tried 'hybrid'
+Mon Dec  6 21:39:35 2010 :: Do_help: Jaiden tried 'titan'
+Mon Dec  6 23:10:09 2010 :: Do_help: Jeric tried 'buy'
+Mon Dec  6 23:10:11 2010 :: Do_help: Jeric tried 'sell'
+Mon Dec  6 23:10:13 2010 :: Do_help: Jeric tried 'mall'

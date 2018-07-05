@@ -1,0 +1,216 @@
+==00:00:00:00.000 9517== Memcheck, a memory error detector
+==00:00:00:00.000 9517== Copyright (C) 2002-2009, and GNU GPL'd, by Julian Seward et al.
+==00:00:00:00.000 9517== Using Valgrind-3.5.0 and LibVEX; rerun with -h for copyright info
+==00:00:00:00.000 9517== Command: ../src/mcloud 2851
+==00:00:00:00.000 9517== 
+--00:00:00:00.000 9517-- Valgrind options:
+--00:00:00:00.000 9517--    -v
+--00:00:00:00.000 9517--    --time-stamp=yes
+--00:00:00:00.000 9517--    --tool=memcheck
+--00:00:00:00.000 9517--    --run-libc-freeres=yes
+--00:00:00:00.000 9517--    --error-limit=no
+--00:00:00:00.000 9517--    --leak-resolution=high
+--00:00:00:00.000 9517--    --demangle=yes
+--00:00:00:00.000 9517--    --show-reachable=yes
+--00:00:00:00.000 9517--    --leak-check=yes
+--00:00:00:00.000 9517-- Contents of /proc/version:
+--00:00:00:00.000 9517--   Linux version 2.6.26-2-amd64 (Debian 2.6.26-24) (dannf@debian.org) (gcc version 4.1.3 20080704 (prerelease) (Debian 4.1.2-25)) #1 SMP Sun Jun 20 20:16:30 UTC 2010
+--00:00:00:00.000 9517-- Arch and hwcaps: AMD64, amd64-sse3-cx16
+--00:00:00:00.000 9517-- Page sizes: currently 4096, max supported 4096
+--00:00:00:00.000 9517-- Valgrind library directory: /usr/local/lib/valgrind
+--00:00:00:00.005 9517-- Reading syms from /home/ianshirm/cotn4/src/mcloud (0x400000)
+--00:00:00:00.081 9517-- Reading syms from /lib/ld-2.7.so (0x4000000)
+--00:00:00:00.081 9517-- Reading debug info from /lib/ld-2.7.so ..
+--00:00:00:00.082 9517-- .. CRC mismatch (computed 864d13a2 wanted bd1f3f69)
+--00:00:00:00.082 9517--    object doesn't have a symbol table
+--00:00:00:00.083 9517-- Reading syms from /usr/local/lib/valgrind/memcheck-amd64-linux (0x38000000)
+--00:00:00:00.084 9517--    object doesn't have a dynamic symbol table
+--00:00:00:00.142 9517-- Reading suppressions file: /usr/local/lib/valgrind/default.supp
+--00:00:00:00.247 9517-- Reading syms from /usr/local/lib/valgrind/vgpreload_core-amd64-linux.so (0x4a1d000)
+--00:00:00:00.261 9517-- Reading syms from /usr/local/lib/valgrind/vgpreload_memcheck-amd64-linux.so (0x4c1e000)
+--00:00:00:00.285 9517-- Reading syms from /usr/lib/libz.so.1.2.3.3 (0x4e25000)
+--00:00:00:00.285 9517-- Reading debug info from /usr/lib/libz.so.1.2.3.3 ..
+--00:00:00:00.285 9517-- .. CRC mismatch (computed b1648a9a wanted bfdb1db0)
+--00:00:00:00.285 9517--    object doesn't have a symbol table
+--00:00:00:00.290 9517-- Reading syms from /lib/libcrypt-2.7.so (0x503c000)
+--00:00:00:00.290 9517-- Reading debug info from /lib/libcrypt-2.7.so ..
+--00:00:00:00.290 9517-- .. CRC mismatch (computed 52321df1 wanted ef6693eb)
+--00:00:00:00.290 9517--    object doesn't have a symbol table
+--00:00:00:00.291 9517-- Reading syms from /lib/libpthread-2.7.so (0x5274000)
+--00:00:00:00.292 9517-- Reading debug info from /lib/libpthread-2.7.so ..
+--00:00:00:00.292 9517-- .. CRC mismatch (computed 72b37325 wanted 44032c05)
+--00:00:00:00.296 9517-- Reading syms from /usr/lib/libmysqlclient.so.15.0.0 (0x5490000)
+--00:00:00:00.296 9517--    object doesn't have a symbol table
+--00:00:00:00.303 9517-- Reading syms from /lib/libnsl-2.7.so (0x589b000)
+--00:00:00:00.303 9517-- Reading debug info from /lib/libnsl-2.7.so ..
+--00:00:00:00.304 9517-- .. CRC mismatch (computed 51967157 wanted 30e29bfd)
+--00:00:00:00.304 9517--    object doesn't have a symbol table
+--00:00:00:00.305 9517-- Reading syms from /lib/libm-2.7.so (0x5ab3000)
+--00:00:00:00.306 9517-- Reading debug info from /lib/libm-2.7.so ..
+--00:00:00:00.309 9517-- .. CRC mismatch (computed 592aa191 wanted 2c037a3d)
+--00:00:00:00.309 9517--    object doesn't have a symbol table
+--00:00:00:00.311 9517-- Reading syms from /lib/libc-2.7.so (0x5d36000)
+--00:00:00:00.311 9517-- Reading debug info from /lib/libc-2.7.so ..
+--00:00:00:00.319 9517-- .. CRC mismatch (computed eb246b61 wanted 272e9788)
+--00:00:00:00.319 9517--    object doesn't have a symbol table
+--00:00:00:00.447 9517-- REDIR: 0x5db14c0 (rindex) redirected to 0x4c21dc0 (rindex)
+--00:00:00:00.479 9517-- REDIR: 0xffffffffff600000 (???) redirected to 0x380411f3 (vgPlain_amd64_linux_REDIR_FOR_vgettimeofday)
+--00:00:00:00.481 9517-- REDIR: 0x5db1080 (strlen) redirected to 0x4c221e0 (strlen)
+--00:00:00:00.484 9517-- REDIR: 0x5dada40 (malloc) redirected to 0x4c210c5 (malloc)
+--00:00:00:00.485 9517-- REDIR: 0x5db2f10 (memcpy) redirected to 0x4c22630 (memcpy)
+--00:00:00:00.500 9517-- REDIR: 0x5daba40 (free) redirected to 0x4c20cd5 (free)
+--00:00:00:00.539 9517-- REDIR: 0x5db0b30 (strcpy) redirected to 0x4c22240 (strcpy)
+--00:00:00:00.541 9517-- REDIR: 0x5db0af0 (strcmp) redirected to 0x4c224c0 (strcmp)
+--00:00:00:00.563 9517-- REDIR: 0x5db3e70 (strchrnul) redirected to 0x4c23130 (strchrnul)
+--00:00:00:00.568 9517-- REDIR: 0x5db1170 (strnlen) redirected to 0x4c22190 (strnlen)
+--00:00:00:00.607 9517-- REDIR: 0x5db24c0 (memset) redirected to 0x4c23060 (memset)
+--00:00:00:00.623 9517-- REDIR: 0x5db25d0 (mempcpy) redirected to 0x4c23190 (mempcpy)
+Wed Sep 15 20:32:29 2010 :: Init data space.
+--00:00:00:00.645 9517-- REDIR: 0x5dad6e0 (calloc) redirected to 0x4c203be (calloc)
+Wed Sep 15 20:32:29 2010 :: Setting time and weather.
+Wed Sep 15 20:32:29 2010 :: Assigning GSN's.
+Wed Sep 15 20:32:29 2010 :: Reading Area List.
+Wed Sep 15 20:32:29 2010 :: loading help.are
+Wed Sep 15 20:32:29 2010 :: loading kavir.are
+Wed Sep 15 20:32:29 2010 :: loading limbo.are
+Wed Sep 15 20:32:29 2010 :: loading fortress.are
+Wed Sep 15 20:32:29 2010 :: loading plains.are
+Wed Sep 15 20:32:29 2010 :: loading ofcol2.are
+Wed Sep 15 20:32:29 2010 :: loading forest.are
+Wed Sep 15 20:32:29 2010 :: loading olympus.are
+Wed Sep 15 20:32:29 2010 :: loading air.are
+Wed Sep 15 20:32:29 2010 :: loading hitower.are
+Wed Sep 15 20:32:29 2010 :: loading gnome.are
+Wed Sep 15 20:32:29 2010 :: loading wyvern.are
+Wed Sep 15 20:32:29 2010 :: loading catacomb.are
+Wed Sep 15 20:32:29 2010 :: loading hood.are
+Wed Sep 15 20:32:29 2010 :: loading draconia.are
+Wed Sep 15 20:32:29 2010 :: loading mahntor.are
+Wed Sep 15 20:32:29 2010 :: loading ultima.are
+Wed Sep 15 20:32:29 2010 :: loading trollden.are
+Wed Sep 15 20:32:29 2010 :: loading firenewt.are
+Wed Sep 15 20:32:29 2010 :: loading midgaard.are
+Wed Sep 15 20:32:29 2010 :: loading chapel.are
+Wed Sep 15 20:32:29 2010 :: loading midennir.are
+Wed Sep 15 20:32:29 2010 :: loading grave.are
+Wed Sep 15 20:32:29 2010 :: loading school.are
+Wed Sep 15 20:32:29 2010 :: loading moria.are
+Wed Sep 15 20:32:29 2010 :: loading juargan.are
+Wed Sep 15 20:32:29 2010 :: loading eastern.are
+Wed Sep 15 20:32:29 2010 :: loading drow.are
+Wed Sep 15 20:32:29 2010 :: loading thalos.are
+Wed Sep 15 20:32:29 2010 :: loading mirror.are
+Wed Sep 15 20:32:29 2010 :: loading ofcol.are
+Wed Sep 15 20:32:29 2010 :: loading arachnos.are
+Wed Sep 15 20:32:29 2010 :: loading daycare.are
+Wed Sep 15 20:32:29 2010 :: loading sewer.are
+Wed Sep 15 20:32:29 2010 :: loading astral.are
+Wed Sep 15 20:32:29 2010 :: loading valley.are
+Wed Sep 15 20:32:29 2010 :: loading mega1.are
+Wed Sep 15 20:32:29 2010 :: loading atlantis.are
+Wed Sep 15 20:32:29 2010 :: loading dream.are
+Wed Sep 15 20:32:29 2010 :: loading marsh.are
+Wed Sep 15 20:32:29 2010 :: loading dylan.are
+Wed Sep 15 20:32:29 2010 :: loading canyon.are
+Wed Sep 15 20:32:29 2010 :: loading galaxy.are
+Wed Sep 15 20:32:29 2010 :: loading mobfact.are
+Wed Sep 15 20:32:29 2010 :: loading doom.are
+Wed Sep 15 20:32:29 2010 :: loading eoeasy.are
+Wed Sep 15 20:32:29 2010 :: loading dragon2.are
+Wed Sep 15 20:32:29 2010 :: loading dragonheart.are
+Wed Sep 15 20:32:29 2010 :: loading sunyata.are
+Wed Sep 15 20:32:29 2010 :: loading eohard.are
+Wed Sep 15 20:32:29 2010 :: loading pyramid.are
+Wed Sep 15 20:32:29 2010 :: loading start.are
+Wed Sep 15 20:32:29 2010 :: loading quest.are
+Wed Sep 15 20:32:29 2010 :: loading Vallanda.are
+Wed Sep 15 20:32:29 2010 :: loading weed.are
+Wed Sep 15 20:32:29 2010 :: loading hell.are
+Wed Sep 15 20:32:29 2010 :: loading heaven.are
+Wed Sep 15 20:32:29 2010 :: loading dystopia.are
+Wed Sep 15 20:32:29 2010 :: loading dawnjobo.are
+Wed Sep 15 20:32:29 2010 :: loading classeq.are
+Wed Sep 15 20:32:29 2010 :: loading domeship.are
+Wed Sep 15 20:32:29 2010 :: loading disney.are
+Wed Sep 15 20:32:29 2010 :: loading classhq.are
+Wed Sep 15 20:32:29 2010 :: loading willaz1.are
+Wed Sep 15 20:32:29 2010 :: loading workshop.are
+Wed Sep 15 20:32:29 2010 :: loading jatr1.are
+Wed Sep 15 20:32:29 2010 :: loading palmer.are
+Wed Sep 15 20:32:29 2010 :: loading jungle.are
+Wed Sep 15 20:32:29 2010 :: loading den.are
+Wed Sep 15 20:32:29 2010 :: loading zarius.are
+Wed Sep 15 20:32:29 2010 :: loading area75.are
+Wed Sep 15 20:32:29 2010 :: loading kingone.are
+Wed Sep 15 20:32:29 2010 :: loading area77.are
+Wed Sep 15 20:32:29 2010 :: loading area78.are
+Wed Sep 15 20:32:29 2010 :: loading area79.are
+Wed Sep 15 20:32:29 2010 :: loading area80.are
+Wed Sep 15 20:32:29 2010 :: loading area81.are
+Wed Sep 15 20:32:29 2010 :: loading area82.are
+Wed Sep 15 20:32:29 2010 :: loading area83.are
+Wed Sep 15 20:32:29 2010 :: loading area84.are
+Wed Sep 15 20:32:29 2010 :: loading mobprogs.are
+Wed Sep 15 20:32:29 2010 :: loading area85.are
+Wed Sep 15 20:32:29 2010 :: loading darklady.are
+Wed Sep 15 20:32:29 2010 :: loading crypt.are
+Wed Sep 15 20:32:29 2010 :: loading deathgld.are
+Wed Sep 15 20:32:29 2010 :: loading darthae.are
+Wed Sep 15 20:32:29 2010 :: loading tportal.are
+Wed Sep 15 20:32:29 2010 :: loading undertun.are
+Wed Sep 15 20:32:29 2010 :: loading area89.are
+Wed Sep 15 20:32:29 2010 :: loading applwood.are
+Wed Sep 15 20:32:29 2010 :: loading sigil.are
+Wed Sep 15 20:32:29 2010 :: loading classes.are
+Wed Sep 15 20:32:29 2010 :: loading arena.are
+Wed Sep 15 20:32:29 2010 :: loading area92.are
+Wed Sep 15 20:32:29 2010 :: loading misty.are
+Wed Sep 15 20:32:29 2010 :: loading area94.are
+Wed Sep 15 20:32:29 2010 :: Fixing exits.
+Wed Sep 15 20:32:29 2010 :: Loading Bans
+Wed Sep 15 20:32:29 2010 :: Loading Topboard
+Wed Sep 15 20:32:29 2010 :: Loading Religions
+Wed Sep 15 20:32:29 2010 :: Loading Leaderboard
+Wed Sep 15 20:32:29 2010 :: Loading Kingdoms
+Wed Sep 15 20:32:29 2010 :: Loading Religions
+Wed Sep 15 20:32:29 2010 :: Loading Wars
+Wed Sep 15 20:32:29 2010 :: Loading Boards
+Wed Sep 15 20:32:29 2010 :: Loading Notes
+Wed Sep 15 20:32:29 2010 :: Loading Disabled
+Wed Sep 15 20:32:29 2010 :: Loading Mudinfo
+Wed Sep 15 20:32:29 2010 :: Loading CCenter
+Wed Sep 15 20:32:29 2010 :: Loading Projects
+Wed Sep 15 20:32:29 2010 :: Loading Coreinfo
+Wed Sep 15 20:32:29 2010 :: Loading Changes
+Wed Sep 15 20:32:29 2010 :: Loading Wizlist.
+Wed Sep 15 20:32:29 2010 :: Loading Classes.
+Wed Sep 15 20:32:29 2010 :: Loading Socials
+Wed Sep 15 20:32:29 2010 :: Loading Xcenter
+Wed Sep 15 20:32:29 2010 :: Loading Channel Data
+Wed Sep 15 20:32:29 2010 :: Fixing Mob/Obj/room progs
+Wed Sep 15 20:32:29 2010 :: Loading Artifacts
+Wed Sep 15 20:32:29 2010 :: Cotn 4 is ready to rock on port 2851.
+--00:00:00:09.256 9517-- REDIR: 0x5db13f0 (strncpy) redirected to 0x4c22310 (strncpy)
+--00:00:00:09.285 9517-- REDIR: 0x5db1c70 (memchr) redirected to 0x4c225e0 (memchr)
+--00:00:00:09.302 9517-- REDIR: 0x5db2be0 (stpcpy) redirected to 0x4c22df0 (stpcpy)
+--00:00:00:09.314 9517-- Reading syms from /lib/libnss_files-2.7.so (0x988a000)
+--00:00:00:09.314 9517-- Reading debug info from /lib/libnss_files-2.7.so ..
+--00:00:00:09.315 9517-- .. CRC mismatch (computed 98387661 wanted 0d8d1699)
+--00:00:00:09.315 9517--    object doesn't have a symbol table
+--00:00:00:09.336 9517-- REDIR: 0x5db1320 (strncmp) redirected to 0x4c22440 (strncmp)
+--00:00:00:09.375 9517-- REDIR: 0x5db0940 (index) redirected to 0x4c21e60 (index)
+--00:00:00:09.442 9517-- REDIR: 0x5db3d50 (rawmemchr) redirected to 0x4c23170 (rawmemchr)
+--00:00:00:09.485 9517-- Reading syms from /lib/libnss_dns-2.7.so (0x9a96000)
+--00:00:00:09.485 9517-- Reading debug info from /lib/libnss_dns-2.7.so ..
+--00:00:00:09.485 9517-- .. CRC mismatch (computed 3aac3898 wanted e6db9241)
+--00:00:00:09.485 9517--    object doesn't have a symbol table
+--00:00:00:09.486 9517-- Reading syms from /lib/libresolv-2.7.so (0x9c9b000)
+--00:00:00:09.487 9517-- Reading debug info from /lib/libresolv-2.7.so ..
+--00:00:00:09.487 9517-- .. CRC mismatch (computed a187998e wanted a240fb1b)
+--00:00:00:09.487 9517--    object doesn't have a symbol table
+--00:00:00:09.673 9517-- Reading syms from /lib/libgcc_s.so.1 (0x9eaf000)
+--00:00:00:09.673 9517-- Reading debug info from /lib/libgcc_s.so.1 ..
+--00:00:00:09.673 9517-- .. CRC mismatch (computed 8ba8adda wanted 00b79250)
+--00:00:00:09.673 9517--    object doesn't have a symbol table
+--00:00:00:20.290 9517-- REDIR: 0x5db0780 (strcat) redirected to 0x4c21fa0 (strcat)
+--00:00:15:40.071 9517-- REDIR: 0x5db1e00 (bcmp) redirected to 0x4c22d70 (bcmp)

@@ -1,0 +1,962 @@
+#PLAYERS
+Name         Magicman~
+Switchname   Magicman~
+PlayerID     2334
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        30
+Morph        ~
+Createtime   Mon Sep 28 12:34:48 2009~
+Lasttime     Wed Sep 30 11:56:40 2009~
+Lasthost     ip-198-252-245-195.vbgov.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     64
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 99 4
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   21
+PlayerRace   2
+PlayerRaceLevel 55
+PcPractice   299
+Pcwpnprof    144
+Pcmaxwpnprof 2
+PlayerPotentia   0
+Bladeexp	  0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   310
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   4
+Symbiotetype   1
+Symbiotemkills 713
+Itemaffect   0
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        2
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       15502
+Room         3054
+PkPdMkMd     0 2 39727 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      600 600 600 600 600 700 600 600 700 600 600 600 600
+Spells       220 220 220 220 220
+Combat       0 0 0 0 0 0 0 0
+Stance       17 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 15 15 15 15 37167
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   293 100000 26963 50000 15432 50000
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          162788730
+Act          1890
+Act2         4607
+Special      0
+Bones        12495
+Newbits      33554448
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     20
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+WpnResist     501 50 0 0 0 0 49 0 0 119 151 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     MaXLWLFTGBSis~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     Skzzt~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 100 100 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        774087879 150142 3795702 569 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 5 5 5 5 2 0 0 0 2 0 8 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1254155688
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         slab copper~
+OwnerID      0
+ShortDescr   #0/#n__#0]#yCopper#0[#n__#0\#n~
+Description  #cA slab of #0/#n__#0]#yCopper#0[#n__#0\#c lies here.#n~
+Questowner   Magicman~
+Vnum         30049
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     41
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gem jade~
+OwnerID      0
+ShortDescr   #y)#Y>#GJade#Y<#y(#n~
+Description  #cA #y)#Y>#GJade#Y<#y(#c gem lies here.#n~
+Questowner   Magicman~
+Vnum         30057
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     45
+Weight       0
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #0G#no#0t#nh#0i#nc#n #7Ring#n~
+Description  #0G#no#0t#nh#0i#nc#n #7Ring#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 5
+AffectData   -1 -263 17
+AffectData   -1 324 14
+AffectData   -1 449 12
+AffectData   -1 310 13
+AffectData   -1 188 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Shield#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Shield#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 13
+AffectData   -1 -214 17
+AffectData   -1 328 14
+AffectData   -1 418 12
+AffectData   -1 383 13
+AffectData   -1 193 19
+AffectData   -1 194 18
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Magicman~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 36 68 0 93 6836860 140 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Talon #n~
+Description  #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Talon lies on the ground.#n~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     33554440
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17034 75 121 5
+AffectData   -1 -500 17
+AffectData   -1 1905 14
+AffectData   -1 1229 12
+AffectData   -1 2224 13
+AffectData   -1 482 19
+AffectData   -1 570 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Sleeves#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Sleeves#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 8
+AffectData   -1 -268 17
+AffectData   -1 407 14
+AffectData   -1 441 12
+AffectData   -1 421 13
+AffectData   -1 188 19
+AffectData   -1 194 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 6
+AffectData   -1 -235 17
+AffectData   -1 411 14
+AffectData   -1 461 12
+AffectData   -1 454 13
+AffectData   -1 191 19
+AffectData   -1 196 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 10
+AffectData   -1 -293 17
+AffectData   -1 496 14
+AffectData   -1 471 12
+AffectData   -1 323 13
+AffectData   -1 200 19
+AffectData   -1 196 18
+End
+
+#OBJECT
+Nest         0
+Name         elemental mastery~
+OwnerID      2334
+ShortDescr   #R/#r/#YX#y-#R+#GE#gl#Ge#gm#Ge#gn#Gt#ga#Gl #wMastery#R+#y-#YX#r\#R\#n~
+Description  #R/#r/#YX#y-#R+#GE#gl#Ge#gm#Ge#gn#Gt#ga#Gl #wMastery#R+#y-#YX#r\#R\#n is here.~
+Questowner   Magicman~
+Vnum         400
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       10 0 0 21
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Gauntlets#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Gauntlets#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 12
+AffectData   -1 -292 17
+AffectData   -1 388 14
+AffectData   -1 393 12
+AffectData   -1 348 13
+AffectData   -1 182 19
+AffectData   -1 198 18
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Magicman~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777216
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       100 0 0 3
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Flail #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Flail lies on the ground.#n~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     100663304
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     3
+LightningLvL 1
+EarthLvL     0
+SigilLvL     4
+Values       18034 190 216 8
+AffectData   -1 -410 17
+AffectData   -1 2575 14
+AffectData   -1 2273 12
+AffectData   -1 1310 13
+AffectData   -1 547 19
+AffectData   -1 545 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Ring#n~
+Description  #0H#7o#0r#nn #0C#no#0v#7e#0r#ne#0d#n #7Ring#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -275 17
+AffectData   -1 474 14
+AffectData   -1 411 12
+AffectData   -1 343 13
+AffectData   -1 186 19
+AffectData   -1 187 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Cloak#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Cloak#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 180 18
+AffectData   -1 191 19
+AffectData   -1 307 13
+AffectData   -1 386 12
+AffectData   -1 383 14
+AffectData   -1 -208 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Helmet#n~
+Description  #ySt#0u#ydd#0e#yd L#0e#yat#0h#yer#n #7Helmet#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 184 18
+AffectData   -1 180 19
+AffectData   -1 395 13
+AffectData   -1 378 12
+AffectData   -1 350 14
+AffectData   -1 -259 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Mask#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Mask#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 9
+AffectData   -1 196 18
+AffectData   -1 187 19
+AffectData   -1 393 13
+AffectData   -1 361 12
+AffectData   -1 384 14
+AffectData   -1 -241 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Leggings#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Leggings#n lies on the ground.~
+Questowner   Magicman~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 11
+AffectData   -1 192 18
+AffectData   -1 183 19
+AffectData   -1 350 13
+AffectData   -1 440 12
+AffectData   -1 472 14
+AffectData   -1 -298 17
+End
+
+#END

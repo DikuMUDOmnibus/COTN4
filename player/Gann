@@ -1,0 +1,1200 @@
+#PLAYERS
+Name         Gann~
+Switchname   Gann~
+PlayerID     2303
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 7 4 6 6 6 7 6 5 5 6 6 6 7 6 6 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 7 6 6 6 5 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        4
+Morph        Gann, the huge rabid dragon~
+Createtime   Sat Sep 19 20:04:13 2009~
+Lasttime     Sun Oct  4 19:30:03 2009~
+Lasthost     d24-36-70-19.home1.cgocable.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     2
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39832575
+Polyaff      128
+PlayerRank   5
+PlayerRace   21
+PlayerRaceLevel 39
+PcPractice   196
+Pcwpnprof    4
+Pcmaxwpnprof 1
+PlayerPotentia   0
+Bladeexp	  0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       16
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   6
+Symbiotetype   1
+Symbiotemkills 279
+Itemaffect   768
+Chakra       0
+Form         1048575
+Beast        0
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       23468
+Room         93450
+PkPdMkMd     0 0 18215 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      252 207 267 630 207 600 222 210 327 600 138 324 234
+Spells       147 140 0 0 204
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 5 2055 2055 4359 20551
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   107222 107222 54760 54760 17314 54073
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          31648224512
+Act          83760
+Act2         3
+Special      64
+Bones        81815
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        67633164
+AffectedBy   2097280
+AffectedBy2   0
+Position     9
+Practice     55
+SavingThrow  0
+Alignment    0
+Hitroll      3665
+Damroll      3530
+Armor        -1743
+Wimpy        0
+Deaf         0
+WpnResist     186 0 0 0 0 0 0 0 0 2 143 297 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     GaJBg26IvsVQQ~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     75 11 15 15 15
+AttrMod      15 0 0 15 0
+Quest        0
+Wolf         0
+Rank         6
+Stage        0 0 0
+Score        364455043 182630 1760091 445 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 3 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 14869
+Denied       1253405053
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'identify'
+Skill        100 'locate object'
+Skill        100 'gas breath'
+Skill        100 'soulblade'
+Skill        100 'berserk'
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Gann~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       2 87 92 0 111 602571 155 0
+End
+
+#OBJECT
+Nest         0
+Name         vampire longsword~
+OwnerID      0
+ShortDescr   #0A #rB#Rl#0o#Ro#rd#Ri#0e#Rd #rL#Ro#0n#Rg#rs#Rw#0o#Rr#rd#n~
+Description  A piece of vampire eq lies here.~
+Questowner   Gann~
+Vnum         33040
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       37 65 75 3
+End
+
+#OBJECT
+Nest         0
+Name         vampire longsword~
+OwnerID      0
+ShortDescr   #0A #rB#Rl#0o#Ro#rd#Ri#0e#Rd #rL#Ro#0n#Rg#rs#Rw#0o#Rr#rd#n~
+Description  A piece of vampire eq lies here.~
+Questowner   Gann~
+Vnum         33040
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       37 65 75 3
+End
+
+#OBJECT
+Nest         0
+Name         vampire plate~
+OwnerID      0
+ShortDescr   #0A #rB#Rl#0o#Ro#rd#Ri#0e#Rd #rP#Rl#0a#Rt#re#n~
+Description  A piece of vampire eq lies here.~
+Questowner   Gann~
+Vnum         33044
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         vampire leggings~
+OwnerID      0
+ShortDescr   #0Some #rB#Rl#0o#Ro#rd#Ri#0e#Rd #rL#Re#0g#Rg#ri#Rn#0g#Rs#n~
+Description  A piece of vampire eq lies here.~
+Questowner   Gann~
+Vnum         33046
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         vampire belt~
+OwnerID      0
+ShortDescr   #0A #rB#Rl#0o#Ro#rd#Ri#0e#Rd #rB#Re#0l#Rt#n~
+Description  A piece of vampire eq lies here.~
+Questowner   Gann~
+Vnum         33051
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       25 0 0 8
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Gauntlets#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Gauntlets#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 200 18
+AffectData   -1 180 19
+AffectData   -1 404 13
+AffectData   -1 477 12
+AffectData   -1 312 14
+AffectData   -1 -267 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Sleeves ~
+OwnerID      0
+ShortDescr   #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n~
+Description  #YL#yi#0g#nh#7t P#nl#0a#yt#Ye#n #7Sleeves#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 78 18
+AffectData   -1 74 19
+AffectData   -1 101 13
+AffectData   -1 142 12
+AffectData   -1 152 14
+AffectData   -1 29 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Boots ~
+OwnerID      0
+ShortDescr   #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Boots#n~
+Description  #0S#nt#7u#nd#0d#ne#7d #nO#0n#ny#7x#n #7Boots#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 83 18
+AffectData   -1 85 19
+AffectData   -1 153 13
+AffectData   -1 192 12
+AffectData   -1 165 14
+AffectData   -1 134 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Mask#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Mask#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 199 18
+AffectData   -1 196 19
+AffectData   -1 396 13
+AffectData   -1 452 12
+AffectData   -1 452 14
+AffectData   -1 -244 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Necklace#n~
+Description  #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Necklace#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 180 18
+AffectData   -1 197 19
+AffectData   -1 382 13
+AffectData   -1 491 12
+AffectData   -1 352 14
+AffectData   -1 -212 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Bracelet#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 78 18
+AffectData   -1 62 19
+AffectData   -1 187 13
+AffectData   -1 115 12
+AffectData   -1 191 14
+AffectData   -1 85 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Bracelet ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Bracelet#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 92 18
+AffectData   -1 98 19
+AffectData   -1 186 13
+AffectData   -1 173 12
+AffectData   -1 186 14
+AffectData   -1 80 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#nk #7Helmet#n~
+Description  #7B#no#0n#ne#7w#ne#0a#nv#7e#nd #0S#ni#7l#n #7Helmet#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 187 18
+AffectData   -1 186 19
+AffectData   -1 324 13
+AffectData   -1 313 12
+AffectData   -1 466 14
+AffectData   -1 -280 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 184 18
+AffectData   -1 188 19
+AffectData   -1 309 13
+AffectData   -1 343 12
+AffectData   -1 496 14
+AffectData   -1 -271 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Dagger #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Dagger lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      21
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 497 531 2
+AffectData   -1 541 18
+AffectData   -1 432 19
+AffectData   -1 1096 13
+AffectData   -1 1998 12
+AffectData   -1 2298 14
+AffectData   -1 -142 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Ring ~
+OwnerID      0
+ShortDescr   #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Ring#n~
+Description  #CRu#cs#0t#ne#7d Mi#nt#0h#cr#Cil#n #7Ring#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 94 18
+AffectData   -1 83 19
+AffectData   -1 106 13
+AffectData   -1 154 12
+AffectData   -1 177 14
+AffectData   -1 24 17
+End
+
+#OBJECT
+Nest         0
+Name         Basic Leggings ~
+OwnerID      0
+ShortDescr   #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Leggings#n~
+Description  #GG#gu#ni#7l#nd#ge#Gd #YC#yo#7pp#ye#Yr#n #7Leggings#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 83 17
+AffectData   -1 198 14
+AffectData   -1 151 12
+AffectData   -1 191 13
+AffectData   -1 96 19
+AffectData   -1 79 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Rapier #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Rapier lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 457 520 11
+AffectData   -1 515 18
+AffectData   -1 447 19
+AffectData   -1 1354 13
+AffectData   -1 2164 12
+AffectData   -1 1874 14
+AffectData   -1 -382 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Rapier #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Rapier lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      22
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 421 518 11
+AffectData   -1 506 18
+AffectData   -1 444 19
+AffectData   -1 1196 13
+AffectData   -1 1986 12
+AffectData   -1 2156 14
+AffectData   -1 -490 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Talon #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Talon lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 454 566 5
+AffectData   -1 -225 17
+AffectData   -1 1336 14
+AffectData   -1 1757 12
+AffectData   -1 2325 13
+AffectData   -1 456 19
+AffectData   -1 497 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Necklace#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -290 17
+AffectData   -1 474 14
+AffectData   -1 319 12
+AffectData   -1 317 13
+AffectData   -1 193 19
+AffectData   -1 192 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Mace ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Mace #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Mace lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       18000 499 576 7
+AffectData   -1 -211 17
+AffectData   -1 1570 14
+AffectData   -1 1448 12
+AffectData   -1 1005 13
+AffectData   -1 547 19
+AffectData   -1 579 18
+End
+
+#OBJECT
+Nest         0
+Name         titanium chestplate~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ch#We#cs#Ct#cp#Wl#ca#Ct#We #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ch#We#cs#Ct#cp#Wl#ca#Ct#We #C<#c\#W^#c/#C>#n~
+Questowner   Gann~
+Vnum         817
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       75 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         titanium cape~
+OwnerID      0
+ShortDescr   #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ca#Wp#ce #C<#c\#W^#c/#C>#n~
+Description  #C<#c\#W^#c/#C> #CA #Cs#ch#Wi#cm#Cm#ce#Wr#ci#Cn#cg #Ct#ci#Wt#ca#Cn#ci#Wu#cm #Cp#cl#Wa#ct#Ce#cd #Cc#ca#Wp#ce #C<#c\#W^#c/#C>#n~
+Questowner   Gann~
+Vnum         823
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         60000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       75 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Ring#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Ring#n lies on the ground.~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       30 0 0 0
+AffectData   -1 -232 17
+AffectData   -1 473 14
+AffectData   -1 449 12
+AffectData   -1 404 13
+AffectData   -1 182 19
+AffectData   -1 199 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Katana #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Katana lies on the ground.#n~
+Questowner   Gann~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       17000 464 504 1
+AffectData   -1 -356 17
+AffectData   -1 2226 14
+AffectData   -1 1979 12
+AffectData   -1 1904 13
+AffectData   -1 439 19
+AffectData   -1 562 18
+End
+
+#END

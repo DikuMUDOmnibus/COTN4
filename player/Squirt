@@ -1,0 +1,2740 @@
+#PLAYERS
+Name         Squirt~
+Switchname   Squirt~
+PlayerID     2447
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        31
+Morph        ~
+Createtime   Sat Nov 28 21:04:35 2009~
+Lasttime     Tue Nov  9 11:24:10 2010~
+Lasthost     c-76-19-230-228.hsd1.ma.comcast.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     1
+Race         1
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 4
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   25
+PlayerRaceLevel 200
+PcPractice   1031
+Pcwpnprof    4096
+Pcmaxwpnprof 1
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 4
+Pc_eyes 3
+Pc_hair 6
+Pc_looks 3
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   50
+Symbioteaff  0
+Symbiotedc   50
+Symbiotedr   295
+Symbiotehr   50
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   2
+Symbiotemkills 493
+Itemaffect   17280
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         50902
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       23968
+Room         3700
+PkPdMkMd     1 0 84198 0
+Alos         1
+Awin         1
+Bank         21000000
+Weapons      1180 1080 1080 1080 1080 1080 1080 1080 1080 1080 1080 1080 1080
+Spells       213 203 203 203 222
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 1040 1060 2212 2124 19023
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   166811 166811 93835 93835 93699 93699
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          31689952878
+Act          100681706
+Act2         4445
+Special      0
+Bones        633473
+Newbits      33554432
+Newbits2     2195456
+Sohbits      0
+Extra        12
+AffectedBy   1572992
+AffectedBy2   0
+Position     9
+Practice     0
+SavingThrow  0
+Alignment    0
+Hitroll      4979
+Damroll      4502
+Armor        -4277
+Wimpy        0
+Deaf         64
+WpnResist     501 56 0 12 0 0 0 0 0 0 1 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     SqOs/o0HCoDsg~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Luthvar~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    36
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     110 110 110 110 110
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        1881868080 173733 8799642 677 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 21 20 20 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1259460275
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1260318371 Ideas 0 Announce 1284909504 Bugs 1285853023 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         backpack leather~
+OwnerID      2447
+ShortDescr   a leather backpack~
+Description  A leather backpack is here.~
+Questowner   Squirt~
+Vnum         1345
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17409
+WearLoc      -1
+ItemType     15
+Weight       9
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        4096
+Level        3
+Timer        0
+Cost         750
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       750 0 -1 0
+End
+
+#OBJECT
+Nest         1
+Name         ring seashell~
+OwnerID      0
+ShortDescr   a seashell ring~
+Description  A small seashell has been left here.~
+Vnum         1344
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     22
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         6500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         pack~
+OwnerID      2447
+ShortDescr   a leather backpack~
+Description  A leather backpack is here.~
+Questmaker   Squirt~
+Questowner   Squirt~
+Vnum         1345
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17409
+WearLoc      -1
+ItemType     15
+Weight       9
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        3
+Timer        0
+Cost         750
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       750 0 -1 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         2
+Name         ring seashell~
+OwnerID      0
+ShortDescr   a seashell ring~
+Description  A small seashell has been left here.~
+Vnum         1344
+ExtraFlags   64
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     22
+Weight       2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        1
+Timer        0
+Cost         6500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil accuracy~
+OwnerID      0
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil speed~
+OwnerID      0
+ShortDescr   #WSigil of #LS#Cp#We#Ce#Ld#n~
+Description  #WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+Vnum         11062
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 0 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil water~
+OwnerID      0
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil damage~
+OwnerID      0
+ShortDescr   #WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+Description  #WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+Vnum         11061
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 0 100 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil fire~
+OwnerID      0
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         sigil lightning~
+OwnerID      0
+ShortDescr   #WSigil of #YL#oightning#n~
+Description  #WA Sigil of #YL#oightning#W lies here.#n~
+Vnum         11065
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         bag~
+OwnerID      2447
+ShortDescr   a leather backpack~
+Description  A leather backpack is here.~
+Questmaker   Squirt~
+Questowner   Squirt~
+Vnum         1345
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17409
+WearLoc      -1
+ItemType     15
+Weight       9
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        3
+Timer        0
+Cost         750
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       750 0 -1 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Pads~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Questmaker   Squirt~
+Questowner   Squirt~
+Vnum         78006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training bucket~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questowner   Squirt~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       99 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Cape~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questowner   Squirt~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Sleeves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Questowner   Squirt~
+Vnum         78012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       16 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Plate~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questowner   Squirt~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Helm~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questowner   Squirt~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Leg Guards~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questowner   Squirt~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Boots~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questowner   Squirt~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Belt~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questowner   Squirt~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Mask~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questowner   Squirt~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Squirt~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Necklace~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questowner   Squirt~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Squirt~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Ring~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questowner   Squirt~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training gloves~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questowner   Squirt~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Squirt~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Bracer~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questowner   Squirt~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       19 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training Medal~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questowner   Squirt~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       54 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Medicine ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questowner   Squirt~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       39 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         Training mark~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questowner   Squirt~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       107 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         train~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questmaker   Squirt~
+Questowner   Squirt~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        196608
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         2
+Name         train~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questmaker   Squirt~
+Questowner   Squirt~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        196608
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 45 150 1
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Rapier #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Rapier lies on the ground.#n~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   1536
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     1074266120
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        67584
+Quest2        3
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 187 219 11
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 5 19
+AffectData   -1 11 18
+AffectData   -1 -113 17
+AffectData   -1 2036 14
+AffectData   -1 2026 12
+AffectData   -1 1546 13
+AffectData   -1 442 19
+AffectData   -1 488 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Katana #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Katana lies on the ground.#n~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   1536
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     1074266120
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        67584
+Quest2        3
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 175 225 1
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 5 19
+AffectData   -1 11 18
+AffectData   -1 -126 17
+AffectData   -1 2610 14
+AffectData   -1 2722 12
+AffectData   -1 2733 13
+AffectData   -1 575 19
+AffectData   -1 415 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Belt#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Belt#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 -268 17
+AffectData   -1 477 14
+AffectData   -1 331 12
+AffectData   -1 344 13
+AffectData   -1 183 19
+AffectData   -1 183 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Helmet#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Helmet#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 -216 17
+AffectData   -1 315 14
+AffectData   -1 399 12
+AffectData   -1 325 13
+AffectData   -1 199 19
+AffectData   -1 196 18
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Squirt~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 56 75 0 98 11927392 140 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Cloak#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Cloak#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 -212 17
+AffectData   -1 484 14
+AffectData   -1 448 12
+AffectData   -1 304 13
+AffectData   -1 183 19
+AffectData   -1 199 18
+End
+
+#OBJECT
+Nest         0
+Name         blademaster mastery~
+OwnerID      2447
+ShortDescr   #0|#c[#0-#c=#gB#0lad#geM#0aste#gr M#0aster#gy#c=#0-#c]#0|#n~
+Description  #0|#c[#0-#c=#gB#0lad#geM#0aste#gr #gM#0aster#gy#c=#0-#c]#0|#n is here.~
+Questowner   Squirt~
+Vnum         401
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest2        1
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       60 0 0 21
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Boots#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 3
+AffectData   -1 185 18
+AffectData   -1 194 19
+AffectData   -1 338 13
+AffectData   -1 431 12
+AffectData   -1 363 14
+AffectData   -1 -300 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Ring#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Ring#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 200 18
+AffectData   -1 190 19
+AffectData   -1 410 13
+AffectData   -1 481 12
+AffectData   -1 391 14
+AffectData   -1 -272 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Sleeves#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Sleeves#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 189 18
+AffectData   -1 200 19
+AffectData   -1 362 13
+AffectData   -1 411 12
+AffectData   -1 400 14
+AffectData   -1 -233 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Necklace#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Necklace#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 181 18
+AffectData   -1 190 19
+AffectData   -1 413 13
+AffectData   -1 317 12
+AffectData   -1 409 14
+AffectData   -1 -248 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 187 18
+AffectData   -1 180 19
+AffectData   -1 300 13
+AffectData   -1 449 12
+AffectData   -1 448 14
+AffectData   -1 -204 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Leggings#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Leggings#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 6
+AffectData   -1 196 18
+AffectData   -1 193 19
+AffectData   -1 311 13
+AffectData   -1 311 12
+AffectData   -1 493 14
+AffectData   -1 -249 17
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Squirt~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       150 0 0 8
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 -222 17
+AffectData   -1 321 14
+AffectData   -1 420 12
+AffectData   -1 439 13
+AffectData   -1 183 19
+AffectData   -1 195 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2447
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Squirt~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 0 0 16
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 185 18
+AffectData   -1 182 19
+AffectData   -1 420 13
+AffectData   -1 321 12
+AffectData   -1 344 14
+AffectData   -1 -253 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Shield ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Shield#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 -271 17
+AffectData   -1 421 14
+AffectData   -1 334 12
+AffectData   -1 500 13
+AffectData   -1 193 19
+AffectData   -1 191 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Mask#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Mask#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 183 18
+AffectData   -1 196 19
+AffectData   -1 311 13
+AffectData   -1 491 12
+AffectData   -1 426 14
+AffectData   -1 -209 17
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Ring#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Ring#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 184 18
+AffectData   -1 198 19
+AffectData   -1 359 13
+AffectData   -1 466 12
+AffectData   -1 361 14
+AffectData   -1 -254 17
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Bracelet#n lies on the ground.~
+Questowner   Squirt~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1074266113
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       80 0 0 0
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 180 18
+AffectData   -1 191 19
+AffectData   -1 396 13
+AffectData   -1 477 12
+AffectData   -1 400 14
+AffectData   -1 -227 17
+End
+
+#END

@@ -1,0 +1,2711 @@
+#PLAYERS
+Name         Yasin~
+Switchname   Yasin~
+PlayerID     2831
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     2
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        17
+Morph        ~
+Createtime   Tue Sep 28 17:44:17 2010~
+Lasttime     Fri Oct  1 14:19:52 2010~
+Lasthost     host86-173-208-81.range86-173.btcentralplus.com~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       77696
+Sex          1
+Timetick     30
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 92 4
+BankMem 0
+Faith        28
+Currentfaith 28
+Relpowers    0
+Immune       39783423
+Polyaff      0
+PlayerRank   2
+PlayerRace   15
+PlayerRaceLevel 128
+PcPractice   665
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 3
+Pc_eyes 2
+Pc_hair 10
+Pc_looks 2
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   10
+Symbioteaff  0
+Symbiotedc   260
+Symbiotedr   70
+Symbiotehr   50
+Symbiotelvl  0
+Symbiotepoints   1
+Symbiotetype   1
+Symbiotemkills 175
+Itemaffect   0
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         93490
+Level        3
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       24775
+Room         3054
+PkPdMkMd     2 3 52387 1
+Alos         4
+Awin         0
+Bank         0
+Weapons      480 480 480 480 480 480 480 480 440 480 480 480 480
+Spells       202 200 203 200 202
+Combat       0 0 0 0 0 0 0 0
+Stance       17 200 200 200 200 200 200 200 200 200 200 0
+Stance2      17 200 200 200 200 200 0 25 2068 1068 16431 18767
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   114291 114291 63418 63418 63753 63753
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          2486348433
+Act          18424
+Act2         4607
+Special      2
+Bones        65450
+Newbits      33554432
+Newbits2     134217728
+Sohbits      0
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     28
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+WpnResist     501 197 0 36 0 0 0 0 0 0 0 5 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     YaCo4jtd52aZ6~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Gilo~
+Lastdecap2      Thiefs~
+Retaliation     Mackie~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     100 13 12 100 100
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        1301729165 187561 5763678 516 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        5 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 1000000 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1285713857
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Bracelet#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     392
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 186 18
+AffectData   -1 196 19
+AffectData   -1 449 13
+AffectData   -1 406 12
+AffectData   -1 449 14
+AffectData   -1 -220 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Bracelet ~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Bracelet#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Bracelet#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     324
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 195 18
+AffectData   -1 180 19
+AffectData   -1 484 13
+AffectData   -1 372 12
+AffectData   -1 467 14
+AffectData   -1 -244 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare Belt ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Belt#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Belt#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2588
+WeaponLvL     10
+WeaponTotalxp     0
+Values       130 0 0 0
+AffectData   -1 187 18
+AffectData   -1 186 19
+AffectData   -1 310 13
+AffectData   -1 488 12
+AffectData   -1 460 14
+AffectData   -1 -219 17
+End
+
+#OBJECT
+Nest         0
+Name         Ancient Armor~
+OwnerID      2831
+ShortDescr   #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questowner   Yasin~
+Vnum         40026
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1073741824
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 0 0 16
+AffectData   -1 1000 13
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Ring#n~
+Description  #RCh#ra#no#0t#ri#7c #rI#0m#nb#ru#Red#n #7Ring#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1090
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 0 0 0
+AffectData   -1 196 18
+AffectData   -1 188 19
+AffectData   -1 439 13
+AffectData   -1 497 12
+AffectData   -1 455 14
+AffectData   -1 -270 17
+End
+
+#OBJECT
+Nest         0
+Name         ghoul claws~
+OwnerID      2831
+ShortDescr   #GG#choul #GC#claws#n~
+Description  Some ghoulish claws lie here a bloody mess.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         33015
+ExtraFlags   17920
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     67633152
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        72608
+Quest2        3
+Points       30528
+Level        50
+Timer        0
+Cost         500
+AttackLvL    1
+FireLvL      1
+WaterLvL     1
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     2630
+WeaponLvL     100
+WeaponTotalxp     0
+Values       53 400 500 5
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1 19
+AffectData   -1 3 18
+AffectData   -1 1000 14
+AffectData   -1 1000 12
+AffectData   -1 1000 13
+AffectData   -1 100 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Sleeves ~
+OwnerID      0
+ShortDescr   #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Sleeves#n~
+Description  #7S#nh#7a#nt#7t#ne#7r#ne#7d #CC#cr#7y#Cs#ct#7a#Cl#ci#7n#Ce#n #7Sleeves#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        1
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1105
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 0 0 0
+AffectData   -1 -260 17
+AffectData   -1 434 14
+AffectData   -1 448 12
+AffectData   -1 339 13
+AffectData   -1 190 19
+AffectData   -1 191 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Gauntlets#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1519
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 -239 17
+AffectData   -1 465 14
+AffectData   -1 457 12
+AffectData   -1 344 13
+AffectData   -1 190 19
+AffectData   -1 193 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Ring ~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Ring#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Ring#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1319
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 -232 17
+AffectData   -1 454 14
+AffectData   -1 470 12
+AffectData   -1 463 13
+AffectData   -1 189 19
+AffectData   -1 185 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Boots ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Boots#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1067
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 -296 17
+AffectData   -1 361 14
+AffectData   -1 330 12
+AffectData   -1 498 13
+AffectData   -1 180 19
+AffectData   -1 189 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Necklace#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Necklace#n lies on the ground.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     867
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 9
+AffectData   -1 200 18
+AffectData   -1 199 19
+AffectData   -1 360 13
+AffectData   -1 400 12
+AffectData   -1 419 14
+AffectData   -1 -247 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Cloak ~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Cloak#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Cloak#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     348
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 191 18
+AffectData   -1 187 19
+AffectData   -1 400 13
+AffectData   -1 457 12
+AffectData   -1 315 14
+AffectData   -1 -214 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Helmet ~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Helmet#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Helmet#n lies on the ground.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     23
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 3
+AffectData   -1 183 18
+AffectData   -1 197 19
+AffectData   -1 439 13
+AffectData   -1 390 12
+AffectData   -1 383 14
+AffectData   -1 -207 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Mask ~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Mask#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Mask#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     16777217
+Condition    98
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     495
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 6
+AffectData   -1 196 18
+AffectData   -1 196 19
+AffectData   -1 402 13
+AffectData   -1 325 12
+AffectData   -1 437 14
+AffectData   -1 -283 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Necklace ~
+OwnerID      0
+ShortDescr   #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Necklace#n~
+Description  #pCra#Pck#7e#nd #0A#nm#7e#Pth#pyst#n #7Necklace#n lies on the ground.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     288
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 11
+AffectData   -1 187 18
+AffectData   -1 196 19
+AffectData   -1 383 13
+AffectData   -1 465 12
+AffectData   -1 408 14
+AffectData   -1 -275 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Leggings ~
+OwnerID      0
+ShortDescr   #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Leggings#n~
+Description  #gVe#Gn#7o#nm #0St#na#7i#Gn#ged#n #7Leggings#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2037
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 0
+AffectData   -1 180 18
+AffectData   -1 192 19
+AffectData   -1 371 13
+AffectData   -1 311 12
+AffectData   -1 441 14
+AffectData   -1 -206 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2831
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         40033
+ExtraFlags   1024
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     1141374976
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        72608
+Quest2        7
+Points       -32160
+Level        50
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     2697
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17034 445 470 1
+AffectData   -1 100 18
+AffectData   -1 1000 13
+AffectData   -1 5 19
+AffectData   -1 10 18
+AffectData   -1 1000 14
+AffectData   -1 1000 12
+AffectData   -1 1000 13
+AffectData   -1 100 18
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 100 18
+AffectData   -1 1000 13
+AffectData   -1 1000 12
+AffectData   -1 1000 14
+End
+
+#OBJECT
+Nest         0
+Name         ghoul mark mastery~
+OwnerID      2831
+ShortDescr   #nx#GX#cMark of the Ghoul#GX#nx~
+Description  A very ugly tattoo is here waiting to jump on you.~
+Questowner   Yasin~
+Vnum         6216
+ExtraFlags   4224
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       50 0 0 15
+End
+
+#OBJECT
+Nest         0
+Name         badger~
+OwnerID      0
+ShortDescr   #0a #rcrazy #YBad#yger#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questowner   Yasin~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 41 70 0 94 22492333 133 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil accuracy~
+OwnerID      2831
+ShortDescr   #WSigil of #rA#Rccuracy#n~
+Description  #WA Sigil of #rA#Rccuracy #W lies here.#n~
+Questowner   Yasin~
+Vnum         11060
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 0 100 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil water~
+OwnerID      2831
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Questowner   Yasin~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil earth~
+OwnerID      2831
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Questowner   Yasin~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil earth~
+OwnerID      2831
+ShortDescr   #WSigil of #GE#garth#n~
+Description  #WA Sigil of #GE#garth#W lies here.#n~
+Questowner   Yasin~
+Vnum         11066
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 1 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil fire~
+OwnerID      2831
+ShortDescr   #WSigil of #RF#rire#n~
+Description  #WA Sigil of #RF#rire#W lies here.#n~
+Questowner   Yasin~
+Vnum         11063
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 1 0 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sigil water~
+OwnerID      2831
+ShortDescr   #WSigil of #LW#later#n~
+Description  #WA Sigil of #LW#later#W lies here.#n~
+Questowner   Yasin~
+Vnum         11064
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 1 0 0 0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #gC#Gr#7y#np#7t#Gi#gc #7Katana #n~
+Description  #gC#Gr#7y#np#7t#Gi#gc #7Katana lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 99 112 1
+AffectData   -1 413 18
+AffectData   -1 569 19
+AffectData   -1 2842 13
+AffectData   -1 2911 12
+AffectData   -1 1036 14
+AffectData   -1 -339 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Katana ~
+OwnerID      0
+ShortDescr   #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Katana #n~
+Description  #0E#nb#0o#nn#0y #CC#cr#ne#7sc#ne#cn#Ct #7Katana lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 85 112 1
+AffectData   -1 -307 17
+AffectData   -1 2082 14
+AffectData   -1 1623 12
+AffectData   -1 1586 13
+AffectData   -1 468 19
+AffectData   -1 507 18
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Kama ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Kama #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Kama lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        3
+Level        50
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     266388
+WeaponLvL     61
+WeaponTotalxp     0
+Values       17000 319 329 3
+AffectData   -1 532 18
+AffectData   -1 403 19
+AffectData   -1 2134 13
+AffectData   -1 2582 12
+AffectData   -1 2672 14
+AffectData   -1 -147 17
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Rapier ~
+OwnerID      0
+ShortDescr   #GO#gr#ng#7a#nn#gi#Gc #7Rapier #n~
+Description  #GO#gr#ng#7a#nn#gi#Gc #7Rapier lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 100 130 11
+AffectData   -1 466 18
+AffectData   -1 474 19
+AffectData   -1 1802 13
+AffectData   -1 2079 12
+AffectData   -1 1486 14
+AffectData   -1 -36 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Talon #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Talon lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 101 124 5
+AffectData   -1 425 18
+AffectData   -1 411 19
+AffectData   -1 2877 13
+AffectData   -1 1789 12
+AffectData   -1 2008 14
+AffectData   -1 -13 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Talon #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Talon lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 119 122 5
+AffectData   -1 519 18
+AffectData   -1 418 19
+AffectData   -1 2708 13
+AffectData   -1 1233 12
+AffectData   -1 2900 14
+AffectData   -1 -87 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare Gauntlets ~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Gauntlets#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Gauntlets#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 20 20 0
+AffectData   -1 196 18
+AffectData   -1 182 19
+AffectData   -1 323 13
+AffectData   -1 370 12
+AffectData   -1 350 14
+AffectData   -1 -201 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #YS#yu#np#7r#ne#ym#Ye #7Flail #n~
+Description  #YS#yu#np#7r#ne#ym#Ye #7Flail lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 104 132 8
+AffectData   -1 553 18
+AffectData   -1 534 19
+AffectData   -1 2157 13
+AffectData   -1 1152 12
+AffectData   -1 1788 14
+AffectData   -1 -290 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Claw ~
+OwnerID      0
+ShortDescr   #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Claw #n~
+Description  #7D#ni#7m#no#7n#nd#7e#nd #LE#ld#7g#le#Ld #7Claw lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       17000 95 128 5
+AffectData   -1 -461 17
+AffectData   -1 1709 14
+AffectData   -1 2146 12
+AffectData   -1 2688 13
+AffectData   -1 592 19
+AffectData   -1 497 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Dagger #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Dagger lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     205109
+WeaponLvL     48
+WeaponTotalxp     0
+Values       17000 197 240 2
+AffectData   -1 449 18
+AffectData   -1 470 19
+AffectData   -1 2665 13
+AffectData   -1 1693 12
+AffectData   -1 1760 14
+AffectData   -1 -383 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Dagger ~
+OwnerID      0
+ShortDescr   #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Dagger #n~
+Description  #CCr#cy#0s#nt#7a#nl#0l#ci#Cne #0D#re#Rm#ro#0n #7Dagger lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     78690
+WeaponLvL     48
+WeaponTotalxp     0
+Values       17000 192 233 2
+AffectData   -1 473 18
+AffectData   -1 479 19
+AffectData   -1 2663 13
+AffectData   -1 2251 12
+AffectData   -1 2896 14
+AffectData   -1 -174 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Whip ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Whip #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Whip lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     50758
+WeaponLvL     50
+WeaponTotalxp     0
+Values       18000 197 230 4
+AffectData   -1 420 18
+AffectData   -1 487 19
+AffectData   -1 2674 13
+AffectData   -1 1305 12
+AffectData   -1 1873 14
+AffectData   -1 -274 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Mace ~
+OwnerID      0
+ShortDescr   #LAt#ll#na#7n#nt#le#Lan #7Mace #n~
+Description  #LAt#ll#na#7n#nt#le#Lan #7Mace lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       18000 96 123 7
+AffectData   -1 -369 17
+AffectData   -1 1433 14
+AffectData   -1 1224 12
+AffectData   -1 2861 13
+AffectData   -1 496 19
+AffectData   -1 584 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Revolver ~
+OwnerID      0
+ShortDescr   #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Revolver #n~
+Description  #RBl#ro#7o#rd#Rly #7O#nn#0y#7x #7Revolver lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     120306
+WeaponLvL     56
+WeaponTotalxp     0
+Values       17000 232 235 6
+AffectData   -1 474 18
+AffectData   -1 467 19
+AffectData   -1 1103 13
+AffectData   -1 2495 12
+AffectData   -1 1807 14
+AffectData   -1 -54 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Talon ~
+OwnerID      0
+ShortDescr   #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Talon #n~
+Description  #PD#pe#0a#nt#7h#ns#0o#pn#Pg #7Talon lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     45354
+WeaponLvL     39
+WeaponTotalxp     0
+Values       17000 174 204 5
+AffectData   -1 591 18
+AffectData   -1 403 19
+AffectData   -1 2745 13
+AffectData   -1 1477 12
+AffectData   -1 1842 14
+AffectData   -1 -448 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Rare weapon Flail ~
+OwnerID      0
+ShortDescr   #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Flail #n~
+Description  #7Mi#nd#0ni#ng#7ht #RH#re#0l#Rl#rf#0i#Rr#re #7Flail lies on the ground.#n~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     8
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        4
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     41545
+WeaponLvL     39
+WeaponTotalxp     0
+Values       18000 185 206 8
+AffectData   -1 544 18
+AffectData   -1 550 19
+AffectData   -1 1663 13
+AffectData   -1 2949 12
+AffectData   -1 2678 14
+AffectData   -1 -206 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Bag Blood~
+OwnerID      0
+ShortDescr   #RBag #yof #RB#rlood#n~
+Description  #RBag #yof #RB#rlood#n~
+Questowner   Yasin~
+Vnum         40027
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     34
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         25000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 40028 40032 0
+End
+
+#OBJECT
+Nest         0
+Name         Evil Sword Plague~
+OwnerID      2831
+ShortDescr   #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Spectype     67633152
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65632
+Quest2        3
+Points       10176
+Level        50
+Timer        0
+Cost         1000000
+AttackLvL    1
+FireLvL      1
+WaterLvL     0
+LightningLvL 1
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     2496
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17053 425 450 1
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 100 19
+AffectData   -1 100 18
+End
+
+#OBJECT
+Nest         0
+Name         Owl~
+OwnerID      0
+ShortDescr   #0Owl#n~
+Description  #0Owl#n~
+Questowner   Yasin~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Quest2        5
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       150 20 20 8
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         Basic Shield ~
+OwnerID      0
+ShortDescr   #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n~
+Description  #LSp#ll#0i#nn#7tered #nS#0t#le#Lel#n #7Shield#n lies on the ground.~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Spectype     2
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       30 0 0 0
+AffectData   -1 55 18
+AffectData   -1 87 19
+AffectData   -1 137 13
+AffectData   -1 131 12
+AffectData   -1 102 14
+AffectData   -1 135 17
+End
+
+#OBJECT
+Nest         0
+Name         all light~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131136
+Points       6000
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 -1 0
+AffectData   -1 2 19
+End
+
+#OBJECT
+Nest         0
+Name         slab mithril~
+OwnerID      0
+ShortDescr   #0/#n__#0]#cMithril#0[#n__#0\#n~
+Description  #cA slab of #0/#n__#0]#cMithril#0[#n__#0\#c lies here.#n~
+Questowner   Yasin~
+Vnum         30048
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     35
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         30000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         short slice~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     305485
+WeaponLvL     70
+WeaponTotalxp     0
+Values       0 160 170 10
+End
+
+#OBJECT
+Nest         0
+Name         short slice~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     265932
+WeaponLvL     74
+WeaponTotalxp     0
+Values       0 168 178 10
+End
+
+#OBJECT
+Nest         0
+Name         sword small~
+OwnerID      2831
+ShortDescr   a small sword~
+Description  A small sword lies here.~
+Questowner   Yasin~
+Vnum         3021
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        2
+Timer        0
+Cost         60
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     37476
+WeaponLvL     14
+WeaponTotalxp     0
+Values       0 30 32 9
+End
+
+#OBJECT
+Nest         0
+Name         short pound~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     43167
+WeaponLvL     38
+WeaponTotalxp     0
+Values       0 96 106 7
+End
+
+#OBJECT
+Nest         0
+Name         short pound~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     46804
+WeaponLvL     38
+WeaponTotalxp     0
+Values       0 96 106 7
+End
+
+#OBJECT
+Nest         0
+Name         short pierce~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     205406
+WeaponLvL     41
+WeaponTotalxp     0
+Values       0 102 112 11
+End
+
+#OBJECT
+Nest         0
+Name         short pierce~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3254
+WeaponLvL     42
+WeaponTotalxp     0
+Values       0 104 114 11
+End
+
+#OBJECT
+Nest         0
+Name         short whip~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     79251
+WeaponLvL     37
+WeaponTotalxp     0
+Values       0 94 104 4
+End
+
+#OBJECT
+Nest         0
+Name         short suck~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     244041
+WeaponLvL     49
+WeaponTotalxp     0
+Values       0 118 128 12
+End
+
+#OBJECT
+Nest         0
+Name         short suck~
+OwnerID      2831
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Yasin~
+Questowner   Yasin~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131072
+Level        50
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     3736
+WeaponLvL     50
+WeaponTotalxp     0
+Values       0 120 130 12
+End
+
+#OBJECT
+Nest         0
+Name         ghoul claws~
+OwnerID      2831
+ShortDescr   #GG#choul #GC#claws#n~
+Description  Some ghoulish claws lie here a bloody mess.~
+Questowner   Yasin~
+Vnum         33015
+ExtraFlags   17920
+ExtraFlags2  0
+WeapFlags    1
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        71680
+Quest2        1
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     199750
+WeaponLvL     54
+WeaponTotalxp     0
+Values       53 308 408 5
+AffectData   -1 1 19
+AffectData   -1 3 18
+End
+
+#END

@@ -1,0 +1,274 @@
+==27593== Memcheck, a memory error detector.
+==27593== Copyright (C) 2002-2007, and GNU GPL'd, by Julian Seward et al.
+==27593== Using LibVEX rev 1854, a library for dynamic binary translation.
+==27593== Copyright (C) 2004-2007, and GNU GPL'd, by OpenWorks LLP.
+==27593== Using valgrind-3.3.1, a dynamic binary instrumentation framework.
+==27593== Copyright (C) 2000-2007, and GNU GPL'd, by Julian Seward et al.
+==27593== For more details, rerun with: -v
+==27593== 
+Thu Aug 26 18:48:57 2010 :: Init data space.
+Thu Aug 26 18:48:57 2010 :: Setting time and weather.
+Thu Aug 26 18:48:57 2010 :: Assigning GSN's.
+Thu Aug 26 18:48:57 2010 :: Reading Area List.
+Thu Aug 26 18:48:57 2010 :: loading help.are
+Thu Aug 26 18:48:57 2010 :: loading kavir.are
+Thu Aug 26 18:48:57 2010 :: loading limbo.are
+Thu Aug 26 18:48:57 2010 :: loading fortress.are
+Thu Aug 26 18:48:57 2010 :: loading plains.are
+Thu Aug 26 18:48:57 2010 :: loading ofcol2.are
+Thu Aug 26 18:48:57 2010 :: loading forest.are
+Thu Aug 26 18:48:57 2010 :: loading olympus.are
+Thu Aug 26 18:48:57 2010 :: loading air.are
+Thu Aug 26 18:48:57 2010 :: loading hitower.are
+Thu Aug 26 18:48:57 2010 :: loading gnome.are
+Thu Aug 26 18:48:57 2010 :: loading wyvern.are
+Thu Aug 26 18:48:57 2010 :: loading catacomb.are
+Thu Aug 26 18:48:57 2010 :: loading hood.are
+Thu Aug 26 18:48:57 2010 :: loading draconia.are
+Thu Aug 26 18:48:57 2010 :: loading mahntor.are
+Thu Aug 26 18:48:57 2010 :: loading ultima.are
+Thu Aug 26 18:48:57 2010 :: loading trollden.are
+Thu Aug 26 18:48:57 2010 :: loading firenewt.are
+Thu Aug 26 18:48:57 2010 :: loading midgaard.are
+Thu Aug 26 18:48:57 2010 :: loading chapel.are
+Thu Aug 26 18:48:57 2010 :: loading midennir.are
+Thu Aug 26 18:48:57 2010 :: loading grave.are
+Thu Aug 26 18:48:57 2010 :: loading school.are
+Thu Aug 26 18:48:57 2010 :: loading moria.are
+Thu Aug 26 18:48:57 2010 :: loading juargan.are
+Thu Aug 26 18:48:57 2010 :: loading eastern.are
+Thu Aug 26 18:48:57 2010 :: loading drow.are
+Thu Aug 26 18:48:57 2010 :: loading thalos.are
+Thu Aug 26 18:48:57 2010 :: loading mirror.are
+Thu Aug 26 18:48:57 2010 :: loading ofcol.are
+Thu Aug 26 18:48:57 2010 :: loading arachnos.are
+Thu Aug 26 18:48:57 2010 :: loading daycare.are
+Thu Aug 26 18:48:57 2010 :: loading sewer.are
+Thu Aug 26 18:48:57 2010 :: loading astral.are
+Thu Aug 26 18:48:57 2010 :: loading valley.are
+Thu Aug 26 18:48:57 2010 :: loading mega1.are
+Thu Aug 26 18:48:57 2010 :: loading atlantis.are
+Thu Aug 26 18:48:57 2010 :: loading dream.are
+Thu Aug 26 18:48:57 2010 :: loading marsh.are
+Thu Aug 26 18:48:57 2010 :: loading dylan.are
+Thu Aug 26 18:48:57 2010 :: loading canyon.are
+Thu Aug 26 18:48:57 2010 :: loading galaxy.are
+Thu Aug 26 18:48:57 2010 :: loading mobfact.are
+Thu Aug 26 18:48:57 2010 :: loading doom.are
+Thu Aug 26 18:48:57 2010 :: loading eoeasy.are
+Thu Aug 26 18:48:57 2010 :: loading dragon2.are
+Thu Aug 26 18:48:57 2010 :: loading dragonheart.are
+Thu Aug 26 18:48:57 2010 :: loading sunyata.are
+Thu Aug 26 18:48:57 2010 :: loading eohard.are
+Thu Aug 26 18:48:57 2010 :: loading pyramid.are
+Thu Aug 26 18:48:57 2010 :: loading start.are
+Thu Aug 26 18:48:57 2010 :: loading quest.are
+Thu Aug 26 18:48:57 2010 :: loading Vallanda.are
+Thu Aug 26 18:48:57 2010 :: loading weed.are
+Thu Aug 26 18:48:57 2010 :: loading hell.are
+Thu Aug 26 18:48:57 2010 :: loading heaven.are
+Thu Aug 26 18:48:57 2010 :: loading dystopia.are
+Thu Aug 26 18:48:57 2010 :: loading dawnjobo.are
+Thu Aug 26 18:48:57 2010 :: loading classeq.are
+Thu Aug 26 18:48:57 2010 :: loading domeship.are
+Thu Aug 26 18:48:57 2010 :: loading disney.are
+Thu Aug 26 18:48:57 2010 :: loading classhq.are
+Thu Aug 26 18:48:57 2010 :: loading willaz1.are
+Thu Aug 26 18:48:57 2010 :: loading workshop.are
+Thu Aug 26 18:48:57 2010 :: loading jatr1.are
+Thu Aug 26 18:48:57 2010 :: loading palmer.are
+Thu Aug 26 18:48:57 2010 :: loading jungle.are
+Thu Aug 26 18:48:57 2010 :: loading den.are
+Thu Aug 26 18:48:57 2010 :: loading zarius.are
+Thu Aug 26 18:48:57 2010 :: loading area75.are
+Thu Aug 26 18:48:57 2010 :: loading kingone.are
+Thu Aug 26 18:48:57 2010 :: loading area77.are
+Thu Aug 26 18:48:57 2010 :: loading area78.are
+Thu Aug 26 18:48:57 2010 :: loading area79.are
+Thu Aug 26 18:48:57 2010 :: loading area80.are
+Thu Aug 26 18:48:57 2010 :: loading area81.are
+Thu Aug 26 18:48:57 2010 :: loading area82.are
+Thu Aug 26 18:48:57 2010 :: loading area83.are
+Thu Aug 26 18:48:57 2010 :: loading area84.are
+Thu Aug 26 18:48:57 2010 :: loading mobprogs.are
+Thu Aug 26 18:48:57 2010 :: loading area85.are
+Thu Aug 26 18:48:57 2010 :: loading darklady.are
+Thu Aug 26 18:48:57 2010 :: loading crypt.are
+Thu Aug 26 18:48:57 2010 :: loading deathgld.are
+Thu Aug 26 18:48:57 2010 :: loading darthae.are
+Thu Aug 26 18:48:57 2010 :: loading tportal.are
+Thu Aug 26 18:48:57 2010 :: loading undertun.are
+Thu Aug 26 18:48:57 2010 :: loading area89.are
+Thu Aug 26 18:48:57 2010 :: loading applwood.are
+Thu Aug 26 18:48:57 2010 :: loading sigil.are
+Thu Aug 26 18:48:57 2010 :: loading classes.are
+Thu Aug 26 18:48:57 2010 :: loading arena.are
+Thu Aug 26 18:48:57 2010 :: loading area92.are
+Thu Aug 26 18:48:57 2010 :: loading misty.are
+Thu Aug 26 18:48:57 2010 :: loading area94.are
+Thu Aug 26 18:48:57 2010 :: Fixing exits.
+Thu Aug 26 18:48:57 2010 :: Loading Bans
+Thu Aug 26 18:48:57 2010 :: Loading Topboard
+Thu Aug 26 18:48:57 2010 :: Loading Religions
+Thu Aug 26 18:48:57 2010 :: Loading Leaderboard
+Thu Aug 26 18:48:57 2010 :: Loading Kingdoms
+Thu Aug 26 18:48:57 2010 :: Loading Religions
+Thu Aug 26 18:48:57 2010 :: Loading Wars
+Thu Aug 26 18:48:57 2010 :: Loading Boards
+Thu Aug 26 18:48:57 2010 :: Loading Notes
+Thu Aug 26 18:48:57 2010 :: Loading Disabled
+Thu Aug 26 18:48:57 2010 :: Loading Mudinfo
+Thu Aug 26 18:48:57 2010 :: Loading CCenter
+Thu Aug 26 18:48:57 2010 :: Loading Projects
+Thu Aug 26 18:48:57 2010 :: Loading Coreinfo
+Thu Aug 26 18:48:57 2010 :: Loading Changes
+Thu Aug 26 18:48:57 2010 :: Loading Wizlist.
+Thu Aug 26 18:48:57 2010 :: Loading Classes.
+Thu Aug 26 18:48:57 2010 :: Loading Socials
+Thu Aug 26 18:48:57 2010 :: Loading Xcenter
+Thu Aug 26 18:48:57 2010 :: Fixing Mob/Obj/room progs
+Thu Aug 26 18:48:57 2010 :: Loading Artifacts
+Thu Aug 26 18:48:57 2010 :: Cotn 4 is ready to rock on port 2851.
+New_descriptor: getpeername: Transport endpoint is not connected
+Read_from_descriptor: Connection reset by peer
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037AE8: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037A7E: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037B1F: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037B14: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037B09: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037AF3: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037ADD: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037AFE: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== Conditional jump or move depends on uninitialised value(s)
+==27593==    at 0x4037B2A: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403766C: (within /usr/lib/libz.so.1.2.3)
+==27593==    by 0x403589A: deflate (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5C1B: writeCompressed (mccp.c:242)
+==27593==    by 0x80C337F: write_to_descriptor (comm.c:2590)
+==27593==    by 0x80BF8C0: process_output (comm.c:1941)
+==27593==    by 0x80BCA64: game_loop_unix (comm.c:920)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+Write_to_descriptor: Connection reset by peer
+Write_to_descriptor: Connection reset by peer
+==27593== 
+==27593== Invalid write of size 1
+==27593==    at 0x401EDDA: strcpy (mc_replace_strmem.c:268)
+==27593==    by 0x80D813E: str_dup (db.c:3544)
+==27593==    by 0x80F5E18: make_part (fight.c:7282)
+==27593==    by 0x812190B: critical_hit (kav_fight.c:2807)
+==27593==    by 0x80FA9EA: dam_message (fight.c:8722)
+==27593==    by 0x80EDCB2: damage (fight.c:4372)
+==27593==    by 0x80EA544: one_hit (fight.c:3171)
+==27593==    by 0x80E3EF7: multi_hit (fight.c:1178)
+==27593==    by 0x826A1EF: do_superberserk (races.c:970)
+==27593==    by 0x8138FDE: interpret (interp.c:2985)
+==27593==    by 0x80BC99B: game_loop_unix (comm.c:893)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593==  Address 0x59dbf20 is 0 bytes after a block of size 96 alloc'd
+==27593==    at 0x401C909: malloc (vg_replace_malloc.c:207)
+==27593==    by 0x826EEBD: mwMalloc (memwatch.c:895)
+==27593==    by 0x826F77E: mwCalloc (memwatch.c:1159)
+==27593==    by 0x80A5773: compressStart (mccp.c:74)
+==27593==    by 0x80BDB25: read_from_buffer (comm.c:1479)
+==27593==    by 0x80BC8A7: game_loop_unix (comm.c:878)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+Thu Aug 26 18:54:21 2010 :: Normal termination of game.
+==27593== 
+==27593== ERROR SUMMARY: 28640 errors from 10 contexts (suppressed: 39 from 8)
+==27593== malloc/free: in use at exit: 1,080,420 bytes in 24 blocks.
+==27593== malloc/free: 5,658 allocs, 5,634 frees, 41,960,065 bytes allocated.
+==27593== For counts of detected errors, rerun with: -v
+==27593== searching for pointers to 24 not-freed blocks.
+==27593== checked 867,112 bytes.
+==27593== 
+==27593== 
+==27593== 1,071,872 (23,296 direct, 1,048,576 indirect) bytes in 4 blocks are definitely lost in loss record 4 of 5
+==27593==    at 0x401C909: malloc (vg_replace_malloc.c:207)
+==27593==    by 0x4039DCF: zcalloc (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x40350C8: deflateInit2_ (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x4034FBD: deflateInit_ (in /usr/lib/libz.so.1.2.3)
+==27593==    by 0x80A5836: compressStart (mccp.c:88)
+==27593==    by 0x80BDB25: read_from_buffer (comm.c:1479)
+==27593==    by 0x80BC8A7: game_loop_unix (comm.c:878)
+==27593==    by 0x80BC2AE: main (comm.c:490)
+==27593== 
+==27593== LEAK SUMMARY:
+==27593==    definitely lost: 23,296 bytes in 4 blocks.
+==27593==    indirectly lost: 1,048,576 bytes in 16 blocks.
+==27593==      possibly lost: 0 bytes in 0 blocks.
+==27593==    still reachable: 388 bytes in 3 blocks.
+==27593==         suppressed: 8,160 bytes in 1 blocks.
+==27593== Reachable blocks (those to which a pointer was found) are not shown.
+==27593== To see them, rerun with: --leak-check=full --show-reachable=yes

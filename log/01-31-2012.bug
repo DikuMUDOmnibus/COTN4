@@ -1,0 +1,648 @@
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:06:25 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:06:25 2012 :: Copyover recovery initiated
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:37 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 02:07:56 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 02:07:56 2012 :: Copyover recovery initiated
+Tue Jan 31 04:55:26 2012 :: Burningrush@S01060026f3c5bf18.ca.shawcable.net new player.
+Tue Jan 31 05:01:59 2012 :: Do_help: Burningrush tried 'phoenix'
+Tue Jan 31 05:04:56 2012 :: Do_help: Burningrush tried 'race power'
+Tue Jan 31 05:05:05 2012 :: Do_help: Burningrush tried 'superberserk'
+Tue Jan 31 05:13:37 2012 :: Do_help: Burningrush tried 'cotm'
+Tue Jan 31 05:16:06 2012 :: BurningRush@S01060026f3c5bf18.ca.shawcable.net new player.
+Tue Jan 31 05:25:06 2012 :: Do_help: BurningRush tried 'qp'
+Tue Jan 31 05:29:48 2012 :: Do_help: BurningRush tried 'rares'
+Tue Jan 31 05:58:02 2012 :: Do_help: BurningRush tried 'noob'
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 11:58:58 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 12:10:00 2012 :: Do_help: Juffalo tried 'inteli'
+Tue Jan 31 12:12:54 2012 :: Do_help: Juffalo tried 'aoa'
+Tue Jan 31 12:18:41 2012 :: [*****] BUG: Char_to_room: Rodney -> NULL room!  Putting char in limbo (2)
+Tue Jan 31 12:53:44 2012 :: Adynn@99.197.216.118 new player.
+Tue Jan 31 12:54:14 2012 :: Do_help: Adynn tried 'gifts'
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 13:02:45 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 13:16:30 2012 :: Do_help: Adynn tried 'hellfire'
+Tue Jan 31 13:37:25 2012 :: Do_help: Adynn tried 'attack'
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 32 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 34 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 308 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 1365 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3139 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3140 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3134 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 3610 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 5012 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 5011 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 5013 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 7306 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14029 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14024 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14012 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14028 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14023 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 14022 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31062 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31058 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31059 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31060 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31061 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 31063 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 30318 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101510 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101507 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101508 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101509 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101506 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101502 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101501 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101503 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101504 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: Read_object: vnum 101505 bad type.
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: Min_Damcap
+Tue Jan 31 16:40:53 2012 :: [*****] BUG: load_class_file: no match: 0

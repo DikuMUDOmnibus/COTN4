@@ -1,0 +1,2812 @@
+#PLAYERS
+Name         Mackie~
+Switchname   Mackie~
+PlayerID     2775
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     1
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        29
+Morph        ~
+Createtime   Sun Sep 19 23:00:11 2010~
+Lasttime     Fri Oct 15 01:52:58 2010~
+Lasthost     adsl-76-199-174-204.dsl.milwwi.sbcglobal.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       110464
+Sex          1
+Timetick     7
+Race         7
+TCol         0
+Relrank      4
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    -1
+Revision     1
+Pagelen      0
+DamRed 50 0
+BankMem 0
+Faith        1390
+Currentfaith 6
+Relpowers    8104895
+Immune       39816191
+Polyaff      0
+PlayerRank   21
+PlayerRace   25
+PlayerRaceLevel 200
+PcPractice   1025
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 2
+Pc_eyes 4
+Pc_hair 8
+Pc_looks 2
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   2000
+Symbioteaff  0
+Symbiotedc   2000
+Symbiotedr   200
+Symbiotehr   485
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   1
+Symbiotemkills 675
+Itemaffect   536871311
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        3
+Trust        0
+Security     0
+Paradox      1 1 30
+Played       288275
+Room         3005
+PkPdMkMd     28 20 747846 2
+Alos         17
+Awin         12
+Bank         150000
+Weapons      720 720 720 720 720 720 720 720 720 720 720 720 720
+Spells       222 222 222 222 222
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200 0
+Stance2      -1 200 200 200 200 200 0 9245 10397 18589 20781 20815
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   61774 256028 169330 169330 169857 169857
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          1
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          161056490221
+Act          18410
+Act2         4607
+Special      2
+Bones        3254546
+Newbits      1107296256
+Newbits2     1075840000
+Sohbits      0
+Extra        12
+AffectedBy   1613954
+AffectedBy2   2048
+Position     9
+Practice     32187
+SavingThrow  -2
+Alignment    1000
+Hitroll      9446
+Damroll      9484
+Armor        -5598
+Wimpy        0
+Deaf         64
+WpnResist     501 501 104 501 501 501 179 69 0 237 82 56 42 
+MagResist     0 0 0 0 0 0 0 0 
+Password     MaeKSOHYrk/nk~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      Antipal~
+Lastdecap2      Antipal~
+Retaliation     Covenant~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     110 110 110 110 110
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        -1244618612 2720898 76409268 5693 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        1 5 5 10 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1284955211
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'resistance'
+Skill        100 'improve'
+Skill        100 'group heal'
+Alias      p~ train primal 500~
+Alias      a~ holyword~
+Alias      8~ darmor~
+Alias      7~ gzone~
+Alias      6~ gaia~
+Alias      1~ superberserk~
+Alias      q~ holyw~
+Alias      2~ retr~
+Alias      0~ pblade ~
+Alias      z~ callwild~
+AffectData2   'darmor'   1 -100  17       2048
+End
+
+#OBJECT
+Nest         0
+Name         hiv infected sword jason~
+OwnerID      2775
+ShortDescr   #r H#W.#0i#W.#rV#W. I#Bn#Wf#Be#Wc#Bt#We#Bd #0Sword#n ~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    131
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       1
+Spectype     1174929408
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134416352
+Quest2        7
+Points       -31608
+Level        50
+Timer        -1
+Cost         1000000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     717
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17034 449 474 1
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -30 17
+AffectData   -1 50 13
+AffectData   -1 50 12
+AffectData   -1 50 14
+AffectData   -1 10 18
+AffectData   -1 10 19
+End
+
+#OBJECT
+Nest         0
+Name         m4a1 silent death jason~
+OwnerID      2775
+ShortDescr   #0 S#Bi#0l#Be#0n#Bt #0D#Be#0a#Bt#0h #0M#W4#0A#W1#0-#WS#0D#n~
+Description  #C<#u============#n#0|#yXXXX#0D #R-#r=#WP#wl#0ag#wu#We#r=#R-#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         40033
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    131
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       1
+Spectype     1174929408
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        134416256
+Quest2        7
+Points       -6072
+Level        50
+Timer        -1
+Cost         1000000
+AttackLvL    5
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     5
+WeaponCurrentxp     147
+WeaponLvL     100
+WeaponTotalxp     0
+Values       17034 454 479 1
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 -50 17
+AffectData   -1 50 13
+AffectData   -1 50 14
+AffectData   -1 50 12
+End
+
+#OBJECT
+Nest         0
+Name         lindsay lohan naked jason~
+OwnerID      0
+ShortDescr   #PL#Ci#Pn#Cd#Ps#Ca#Py #CL#Po#Ch#Pa#Cn #YN#ya#Yk#ye#Yd#n~
+Description  #0Owl#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         40039
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      24
+ItemType     9
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637312
+Quest2        5
+Points       30000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       150 20 20 7
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 1000 13
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -25 17
+AffectData   -1 10 13
+End
+
+#OBJECT
+Nest         0
+Name         jason bracelet~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Bracelet#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Bracelet#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     511
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 -286 17
+AffectData   -1 348 14
+AffectData   -1 332 12
+AffectData   -1 337 13
+AffectData   -1 184 19
+AffectData   -1 192 18
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         rare jason shield~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Shield#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Shield#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     772
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 10
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 196 18
+AffectData   -1 191 19
+AffectData   -1 362 13
+AffectData   -1 328 12
+AffectData   -1 446 14
+AffectData   -1 -229 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason cloak~
+OwnerID      0
+ShortDescr   #LS#lk#ny #7Gu#na#lr#Ld#n #7Cloak#n~
+Description  #LS#lk#ny #7Gu#na#lr#Ld#n #7Cloak#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2009
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 13
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 197 18
+AffectData   -1 196 19
+AffectData   -1 482 13
+AffectData   -1 396 12
+AffectData   -1 384 14
+AffectData   -1 -225 17
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason belt~
+OwnerID      0
+ShortDescr   #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Belt#n~
+Description  #CS#ca#ncr#ce#Cd #7M#ni#0d#nn#7i#ng#0h#nt#n #7Belt#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2264
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 10
+AffectData   -1 196 18
+AffectData   -1 191 19
+AffectData   -1 432 13
+AffectData   -1 495 12
+AffectData   -1 488 14
+AffectData   -1 -295 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+AffectData   -1 -50 17
+AffectData   -1 500 13
+End
+
+#OBJECT
+Nest         0
+Name         jason mask~
+OwnerID      0
+ShortDescr   #7Q#nu#0i#7l#nt#0e#7d#n #7Mask#n~
+Description  #7Q#nu#0i#7l#nt#0e#7d#n #7Mask#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      20
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    95
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2979
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 11
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 193 18
+AffectData   -1 197 19
+AffectData   -1 493 13
+AffectData   -1 450 12
+AffectData   -1 477 14
+AffectData   -1 -250 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason sleeve~
+OwnerID      0
+ShortDescr   #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Sleeves#n~
+Description  #yW#0o#yo#nd#ye#0n #yP#nl#ya#0t#ye#nd #7Sleeves#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     329
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 12
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -209 17
+AffectData   -1 352 14
+AffectData   -1 392 12
+AffectData   -1 356 13
+AffectData   -1 193 19
+AffectData   -1 192 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason  boot~
+OwnerID      0
+ShortDescr   #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#7 Boots#n~
+Description  #GDa#gr#0k #nE#7m#ne#0r#ga#Gld#n #7Boots#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    98
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     532
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 3
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -293 17
+AffectData   -1 392 14
+AffectData   -1 371 12
+AffectData   -1 409 13
+AffectData   -1 195 19
+AffectData   -1 182 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason legging~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Leggings#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Leggings#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    95
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2023
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 6
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -271 17
+AffectData   -1 402 14
+AffectData   -1 393 12
+AffectData   -1 471 13
+AffectData   -1 195 19
+AffectData   -1 180 18
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason necklace~
+OwnerID      0
+ShortDescr   #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n~
+Description  #rBl#Ro#7o#nd S#7t#Ro#rne#n #7Necklace#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     512
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 1000 13
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 -227 17
+AffectData   -1 374 14
+AffectData   -1 482 12
+AffectData   -1 492 13
+AffectData   -1 183 19
+AffectData   -1 198 18
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason necklace~
+OwnerID      0
+ShortDescr   #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Necklace#n~
+Description  #sPe#sr#sf#se#sct #sP#sr#si#ssm#n #7Necklace#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268633088
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     2649
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 9
+AffectData   -1 1000 13
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 181 18
+AffectData   -1 193 19
+AffectData   -1 494 13
+AffectData   -1 469 12
+AffectData   -1 483 14
+AffectData   -1 -260 17
+AffectData   -1 -10 17
+AffectData   -1 -50 17
+AffectData   -1 500 13
+End
+
+#OBJECT
+Nest         0
+Name         jason helmet~
+OwnerID      0
+ShortDescr   #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Helmet#n~
+Description  #RP#ru#0r#ne #RH#re#0l#nl#Rf#ri#0r#ne #7Helmet#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268652544
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1813
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 -205 17
+AffectData   -1 318 14
+AffectData   -1 363 12
+AffectData   -1 321 13
+AffectData   -1 194 19
+AffectData   -1 180 18
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason bracelet~
+OwnerID      0
+ShortDescr   #RRu#rn#ne #7pl#na#rt#Red#n #7Bracelet#n~
+Description  #RRu#rn#ne #7pl#na#rt#Red#n #7Bracelet#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     575
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 16 19
+AffectData   -1 16 18
+AffectData   -1 1000 13
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -277 17
+AffectData   -1 500 14
+AffectData   -1 309 12
+AffectData   -1 375 13
+AffectData   -1 191 19
+AffectData   -1 183 18
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason ring~
+OwnerID      0
+ShortDescr   #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Ring#n~
+Description  #GLi#gm#0e#ns#yt#7o#yn#ne #0O#gp#Gal#n #7Ring#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     1104
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 5
+AffectData   -1 181 18
+AffectData   -1 188 19
+AffectData   -1 399 13
+AffectData   -1 434 12
+AffectData   -1 390 14
+AffectData   -1 -291 17
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 -10 17
+AffectData   -1 -50 17
+AffectData   -1 500 13
+End
+
+#OBJECT
+Nest         0
+Name         jason gauntlet~
+OwnerID      0
+ShortDescr   #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Gauntlets#n~
+Description  #YA#yn#nc#7i#ne#yn#Yt #7S#nh#0a#nd#7ow#n #7Gauntlets#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    94
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     607
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 13
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -219 17
+AffectData   -1 477 14
+AffectData   -1 358 12
+AffectData   -1 494 13
+AffectData   -1 186 19
+AffectData   -1 188 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         jason ring~
+OwnerID      0
+ShortDescr   #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Ring#n~
+Description  #7O#nb#0s#ni#7d#ni#0a#nn #7P#nl#0a#nt#7e#nd #7Ring#n lies on the ground.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Spectype     1091043329
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268637184
+Quest2        5
+Points       10000
+Level        52
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     409
+WeaponLvL     10
+WeaponTotalxp     0
+Values       180 20 20 8
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 19
+AffectData   -1 200 18
+AffectData   -1 -289 17
+AffectData   -1 341 14
+AffectData   -1 498 12
+AffectData   -1 356 13
+AffectData   -1 199 19
+AffectData   -1 199 18
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -10 17
+End
+
+#OBJECT
+Nest         0
+Name         armor pestilence jason~
+OwnerID      2775
+ShortDescr   #CA#cr#Cm#co#Cr #co#Cf #cP#Ce#cs#Ct#ci#Cl#ce#Cn#cc#Ce#n~
+Description  #G0#g0.#G0 #cArmor #pof the #cAncients #G0#g.0#G0#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         40026
+ExtraFlags   16385
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    99
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        285414528
+Quest2        5
+Points       30000
+Level        3
+Timer        0
+Cost         1000000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       250 20 20 16
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 10 13
+AffectData   -1 -25 17
+AffectData   -1 -50 17
+AffectData   -1 500 13
+End
+
+#OBJECT
+Nest         0
+Name         halloween pumpkin jason~
+OwnerID      2775
+ShortDescr   #W (#0W#pi#0c#pk#0e#pd#W) #YH#Ra#Yl#Rl#Yo#Rw#Ye#Re#Yn #RP#Yu#Rm#Yp#Rk#Yi#Rn#n~
+Description  A golden holy symbol is here.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      25
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        537003136
+Quest2        4
+Points       30000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 20 20 0
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -25 17
+AffectData   -1 10 13
+End
+
+#OBJECT
+Nest         0
+Name         anime annie blowup doll jason~
+OwnerID      2775
+ShortDescr   #CA#Bn#Ci#Bm#Ce #GA#Yn#Gn#Yi#Ge #RB#Pl#Ro#Pw#Ru#Pp#0-#RD#Po#Rl#Pl#n~
+Description  A golden holy symbol is here.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         2220
+ExtraFlags   1
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      23
+ItemType     36
+Weight       2
+Spectype     1074266112
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        537003392
+Quest2        4
+Points       30000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       1 20 20 0
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -25 17
+AffectData   -1 5 13
+AffectData   -1 5 12
+End
+
+#OBJECT
+Nest         0
+Name         hiltons night vison cam jason~
+OwnerID      2775
+ShortDescr   #BH#Ci#Bl#Ct#Bo#Cn#0'#Bs #0N#Gi#0g#Gh#0t#W-#0V#Gi#0s#Gi#0o#Gn #0C#Ga#0m#n~
+Description  A war banner is on the floor here.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         3365
+ExtraFlags   65
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      0
+ItemType     1
+Weight       1
+Spectype     1091043328
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16913408
+Quest2        4
+Points       25000
+Level        3
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 20 19 0
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 1000 13
+AffectData   -1 -25 17
+End
+
+#OBJECT
+Nest         0
+Name         tattoo kat von d jason~
+OwnerID      2775
+ShortDescr   #0A #cT#Ca#ct#Ct#co#Co #0by #0K#ra#0t #rV#0o#rn #0D#n~
+Description  #w<#g*#w>#7Paladin Mastery#w<#g*#w>#n is here.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         405
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      26
+ItemType     9
+Weight       1
+Spectype     1074266112
+Condition    100
+Toughness    100
+Resistance   1
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        268567680
+Quest2        5
+Points       30000
+Level        50
+Timer        0
+Cost         25000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       209 20 20 54
+AffectData   -1 500 13
+AffectData   -1 -50 17
+AffectData   -1 200 18
+AffectData   -1 200 19
+AffectData   -1 1000 13
+AffectData   -1 16 18
+AffectData   -1 16 19
+AffectData   -1 -25 17
+AffectData   -1 10 13
+End
+
+#OBJECT
+Nest         0
+Name         olsen twins jason~
+OwnerID      0
+ShortDescr   #0(#rS#Re#rx#RY#0) The #CO#cl#Cs#ce#Cn #cT#Cw#ci#Cn#cs#n~
+Description  #wa #rcrazy #YBad#yger #w is running in circles.#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78108
+ExtraFlags   16512
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      27
+ItemType     58
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  $p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2CharHitMsg  $p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+Quest        16914048
+Points       30000
+Level        50
+Timer        0
+Cost         2000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       2 200 177 0 178 0 236 0
+AffectData   -1 -20 17
+AffectData   -1 10 13
+AffectData   -1 10 14
+End
+
+#OBJECT
+Nest         0
+Name         bag~
+OwnerID      2775
+ShortDescr   #0A Bag of Extra #GR#gar#Ge#0 Eq#n~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16912384
+Quest2        4
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 20 20 0
+AffectData   -1 200 18
+AffectData   -1 200 19
+End
+
+#OBJECT
+Nest         0
+Name         sigil vitality~
+OwnerID      2775
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Questowner   Mackie~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Mackie~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       600 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         0
+Name         fairy dust~
+OwnerID      0
+ShortDescr   #GF#ga#Gi#gr#Gy #YD#yus#Yt#n~
+Description  There is a capusle of #GF#ga#Gi#gr#Gy #YD#yus#Yt#n here.~
+Questowner   Mackie~
+Vnum         50507
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       601 60 61 2
+Spell 3      'armor'
+End
+
+#OBJECT
+Nest         0
+Name         speed ~
+OwnerID      0
+ShortDescr   #pS#Pp#pe#Pe#pd#n ~
+Description  Some yummy #pS#Pp#pe#Pe#pd#n is here...~
+Questowner   Mackie~
+Vnum         50504
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     26
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         50
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       321 98 97 42
+Spell 3      'giant strength'
+End
+
+#OBJECT
+Nest         0
+Name         Pill Bottle~
+OwnerID      0
+ShortDescr   #0(#r|#p-#RA #pP#Pil#pl #GB#got#Gt#gle#p-#r|#0)#n~
+Description  A pill bottle lays here.~
+Questowner   Mackie~
+Vnum         50506
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        4096
+Level        50
+Timer        0
+Cost         10
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       100 1 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         sigil vitality~
+OwnerID      0
+ShortDescr   #WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+Description  #WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+Vnum         11059
+ExtraFlags   256
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    16385
+WearLoc      -1
+ItemType     59
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        0
+Timer        0
+Cost         0
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       0 0 0 0 0 1000 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         negg bottle~
+OwnerID      2775
+ShortDescr   #0(#r|#p-#RA #pN#Peg#pg #GB#got#Gt#gle#p-#r|#0)#n ~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         30037
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16912384
+Level        25
+Timer        0
+Cost         1000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       999 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         shield training~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YS#Ch#Yi#Ce#Yl#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        16908672
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       20 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 12
+End
+
+#OBJECT
+Nest         1
+Name         training pads~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78006
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78018
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    262145
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       137 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       13 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78000
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       23 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78001
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78002
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78003
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78004
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78005
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78007
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78008
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    33
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78009
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Description  #CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78010
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       10 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Description  #CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78012
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       14 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Description  #CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78013
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       16 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78014
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    65537
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       116 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         train~
+OwnerID      0
+ShortDescr   #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Description  #CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78016
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    131073
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       57 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         ball training~
+OwnerID      0
+ShortDescr   #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Description  #CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        131712
+Points       25000
+Level        50
+Timer        0
+Cost         50000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     0
+WeaponLvL     0
+WeaponTotalxp     0
+Values       67 0 0 0
+AffectData   -1 -25 13
+AffectData   -1 -25 14
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity training~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        198528
+Points       -6072
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     4585
+WeaponLvL     1
+WeaponTotalxp     0
+Values       0 47 152 1
+AffectData   -1 -50 13
+AffectData   -1 -50 14
+AffectData   -1 -50 12
+AffectData   -1 -50 17
+End
+
+#OBJECT
+Nest         1
+Name         sword prosperity training~
+OwnerID      0
+ShortDescr   #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Description  #sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+Questmaker   Mackie~
+Questowner   Mackie~
+Vnum         78015
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        198597
+Points       -25608
+Level        50
+Timer        0
+Cost         75000
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+WeaponCurrentxp     4579
+WeaponLvL     1
+WeaponTotalxp     0
+Values       0 47 152 1
+AffectData   -1 -50 13
+AffectData   -1 -50 14
+AffectData   -1 -50 12
+AffectData   -1 -50 17
+AffectData   -1 5 1
+AffectData   -1 3 3
+AffectData   -1 10 19
+End
+
+#END

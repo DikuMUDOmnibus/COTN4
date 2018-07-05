@@ -1,0 +1,17 @@
+Fri Sep 23 10:01:56 2011 :: Jasa@adsl new player.
+Fri Sep 23 12:54:23 2011 :: Turgon@75 new player.
+Fri Sep 23 12:59:55 2011 :: Azhrei@75 new player.
+Fri Sep 23 14:12:07 2011 :: Do_help: Azhrei tried 'weapon'
+Fri Sep 23 14:12:19 2011 :: Do_help: Azhrei tried 'slash'
+Fri Sep 23 15:22:47 2011 :: Do_help: Azhrei tried 'dragonpowers'
+Fri Sep 23 15:27:23 2011 :: Do_help: Azhrei tried 'dragondisc'
+Fri Sep 23 15:31:40 2011 :: Do_help: Azhrei tried 'age'
+Fri Sep 23 15:36:35 2011 :: Do_help: Azhrei tried 'fb'
+Fri Sep 23 15:54:18 2011 :: Do_help: Azhrei tried 'breathforge'
+Fri Sep 23 15:55:15 2011 :: Do_help: Azhrei tried 'dragon_guide'
+Fri Sep 23 15:55:26 2011 :: Do_help: Azhrei tried 'dragons_guide'
+Fri Sep 23 15:55:35 2011 :: Do_help: Azhrei tried 'dragequipment'
+Fri Sep 23 16:01:09 2011 :: [*****] BUG: Item_type_name: unknown type 51.
+Fri Sep 23 16:07:11 2011 :: [*****] BUG: Read_object: vnum 9201 bad type.
+Fri Sep 23 16:30:54 2011 :: Do_help: Azhrei tried 'classpoints'
+Fri Sep 23 16:38:37 2011 :: [*****] BUG: Char_to_room: Jasa -> NULL room!  Putting char in limbo (2)

@@ -1,0 +1,364 @@
+Sender  Silvermane~
+Date    Thu Sep  3 16:24:39 2009~
+Stamp   1252009596
+Expire  1257193488
+To      imm~
+Subject soul weaps~
+Text
+I think soul weaps are messed up. I'm using them to weapon train
+and I keep getting this message.. You are unable to enchant this weapon.
+it shows up a ton when using superberserk and it wasn't
+showing up before I used soul weaps, so I figure
+they are the reason.
+~
+
+Sender  Silvermane~
+Date    Tue Sep  8 15:28:22 2009~
+Stamp   1252438211
+Expire  1257622118
+To      imm~
+Subject buggy superberserk~
+Text
+I can superberserk just fine when I wear weaps, but
+when I go unarmed, the mud crashes. can someone take
+a look and see if its my char thats the problem, or 
+if its something with superberserk?
+~
+
+Sender  Dagon~
+Date    Mon Sep 28 05:06:41 2009~
+Stamp   1254128923
+Expire  1259312814
+To      immortal imm~
+Subject Weaponenhance~
+Text
+That item has already been oset by someone else.
+That item has already been oset by someone else.
+You bestow power into <============|XXXXD -=Plague=- through the Dark Ritual.
+You should change it to just adding the hit and dam
+to the item instead of osetting
+thats what i did on the last mcloud i worked at
+works better :D
+~
+
+Sender  Sejik~
+Date    Thu Oct  1 08:44:32 2009~
+Stamp   1254401139
+Expire  1259585080
+To      all imm~
+Subject curse~
+Text
+So anyways, a while ago I forged ivory hilts on to my weapons and got
+Cure Serious on them.  I dealt with it but just realized I am now
+cursing myself... :)
+ 
+Curse.
+You are affected by:
+Spell: 'cure serious' modifies save vs spell by 1 for 227 hours with bits curse.
+Spell: 'cure serious' modifies hit roll by -1 for 227 hours with bits curse.
+ 
+ 
+Just a small bug, probably a skill_table[] error...
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 09:32:36 2009~
+Stamp   1255354442
+Expire  1260538361
+To      imm~
+Subject exp~
+Text
+I think you might want to check the exp given again. I've
+been exping for at least 30 minutes and haven't made enough for a single
+convert yet, even with double exp on.
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 09:51:01 2009~
+Stamp   1255355637
+Expire  1260539466
+To      imm~
+Subject exp cont.~
+Text
+ok, now I'm suddenly getting good exp. In rooms where
+I was getting about 300k-350k average exp a room, I'm
+now suddenly getting about 750k. Not sure what changed
+or why I'm getting exp like that now.
+Maybe it was giving the minimum amount of exp for awhile
+or no double exp or something?
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 10:27:25 2009~
+Stamp   1255357732
+Expire  1260541656
+To      imm~
+Subject exp again~
+Text
+hmmm, now I'm getting about 250k-270k exp a room. Seems like
+it fluctuates a bunch and can't make up its mind where its
+going to settle at. Not really sure if its supposed
+to be like this or not, so figured I'd post one last
+time about it.
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 14:52:32 2009~
+Stamp   1255373631
+Expire  1260557555
+To      imm~
+Subject discipline~
+Text
+seems to have something wrong with it. Seth tried using
+it on wolf and demon, and couldn't get it to work so I
+made a test demon to check and it wouldn't work
+for me either. you can research, but it never goes up any
+so you are unable to train it.
+~
+
+Sender  Squirt~
+Date    Thu Nov 19 20:06:18 2009~
+Stamp   1258679189
+Expire  1263863184
+To      all imm~
+Subject dbl exp~
+Text
+dun work.....
+~
+
+Sender  Oni~
+Date    Wed Dec  9 19:56:33 2009~
+Stamp   1260406625
+Expire  1265590599
+To      all imm~
+Subject er......~
+Text
+i have curse on me but its listed as cure serious
+and as a result i cant dispel it.......i'm stuck now:)
+l
+~
+
+Sender  Aeryn~
+Date    Sun Dec 27 17:20:24 2009~
+Stamp   1261952497
+Expire  1267136436
+To      all imm~
+Subject Magespells Sorcery bug~
+Text
+I began training in Magespells sorcery, and it started 
+at -100...I RECIEVED exp for training this first negative 
+100 levels in this...and once it decremented to 0, I could
+actually train it correctly...
+~
+
+Sender  Aeryn~
+Date    Sun Dec 27 17:51:07 2009~
+Stamp   1261954291
+Expire  1267138271
+To      all imm~
+Subject Mage armor~
+Text
+The mage armor you can buy from class recall does
+not include a belt...
+~
+
+Sender  Mango~
+Date    Sat Aug 28 11:05:59 2010~
+Stamp   1283011597
+Expire  1288195566
+To      imm~
+Subject vamp power~
+Text
+all of the vamp powers and discipline dont
+show up when you type power for vamps
+i trained my disciplines so i know
+~
+
+Sender  Noah~
+Date    Sun Aug 29 21:13:43 2010~
+Stamp   1283134438
+Expire  1288318429
+To      imm~
+Subject elemental earthshatter~
+Text
+that attack earthshatter for elementals dont work
+~
+
+Sender  Noah~
+Date    Mon Aug 30 16:42:15 2010~
+Stamp   1283204571
+Expire  1288388544
+To      imm~
+Subject elementals again~
+Text
+their kinda bugged
+cant fight in fireform or it crashes the mud
+no autos
+and some other things i probably gotta check out
+~
+
+Sender  Cove~
+Date    Thu Sep 16 07:23:32 2010~
+Stamp   1284639997
+Expire  1289823823
+To      all imm~
+Subject Pkready~
+Text
+1st of all there is no pkready command , and a person who passed 4 hours period
+can attack a person who hasnt
+and a person who hasnt passed that period cant attack
+it says : You cannot attack other chars till you have 4 hours.
+~
+
+Sender  Infinit~
+Date    Sun Sep 26 17:05:48 2010~
+Stamp   1285538781
+Expire  1290722761
+To      imm immortal xrakisis~
+Subject forging sigils~
+Text
+you can't forge sigils onto weapons that have been breathforged for some reason
+was wondering if you could change this
+thanks
+~
+
+Sender  Ulaen~
+Date    Mon Sep 27 14:12:48 2010~
+Stamp   1285614825
+Expire  1290798775
+To      all imm~
+Subject Prompts~
+Text
+At the moment there seem to be a lot of bugs with prompts, 
+most importantly %x or xp, it only shows up as the words exp.
+Also a lot of the class modifier's don't add well to the combat prompts.
+~
+
+Sender  Metatron~
+Date    Thu Sep 30 07:52:20 2010~
+Stamp   1285851266
+Expire  1291035152
+To      all imm~
+Subject Angels Touchofgod~
+Text
+Waitstate for angels touch of god is bugged
+xrak and zarius you should check that and fix
+ 
+~
+
+Sender  Metatron~
+Date    Thu Sep 30 08:23:23 2010~
+Stamp   1285853023
+Expire  1291037012
+To      All imm~
+Subject Dscry~
+Text
+Dscry is not working
+You should fix that
+~
+
+Sender  Inaba~
+Date    Mon Dec  6 01:24:10 2010~
+Stamp   1291616774
+Expire  1296800660
+To      imm~
+Subject Ability (Agility)~
+Text
+[ Ability   Level   Exp   Exp needed      Mods]
+  Toughness   21     78411164     362588836    Resist: 0/HP: 2100
+  Power       100    536182       2099463818   Damage: 400/DR: 1000
+  Skill       100    1145544      2098854456   Attacks: 1510/HR: 1000
+  Prowess     1      0            21000000     AC: 0/Parry: 0
+  Agility     30108    -1           907807489    Attack: 1510/Dodge 3010
+portal class
+superber
+^Ignore that, hit F1 by accident.
+Yup. -1 EXP level 30k and I've never even trained it.
+It also seems to affect my attacks on skill, though I do not
+get 1510 attacks per round. Or at least, if I do, most are parry
+and blocked.
+~
+
+Sender  Inaba~
+Date    Mon Dec  6 06:58:48 2010~
+Stamp   1291636838
+Expire  1296820732
+To      imm~
+Subject sigils~
+Text
+Your eyes glow bright yellow for a moment.
+You examine Dimonded Edged Katana  carefully.
+Sigil Affects: AtkLvl | FireLvl | WaterLvl | LightningLvl | EarthLvl
+Sigil Levels :    4   |    0    |     0    |       1      |     0
+Number of Sigils Applied:  5.
+Object 'Rare weapon Katana ' is type weapon, extra flags none.
+Weight is 1, value is 0.
+This object is owned by Inaba.
+ 
+Normal, right? Well, let's look at Kenro's short sword.
+Your eyes glow bright yellow for a moment.
+You examine Bloodly Onyx Shortsword  carefully.
+Sigil Affects: AtkLvl | FireLvl | WaterLvl | LightningLvl | EarthLvl
+Sigil Levels :    0   |    126    |     126    |       0      |     5
+Number of Sigils Applied:  5.
+Object 'Rare weapon Shortsword ' is type weapon, extra flags none.
+Weight is 1, value is 0.
+This object is owned by Kenro.
+ 
+ 
+Wait. What the hell is this? He put 5 earth sigils in it, and
+it bumped his fire and water levels to 126. Pretty sure being new
+to godwars in general he didn't mean to do it, but uhh.. Yea.
+-!
+~
+
+Sender  Inaba~
+Date    Tue Dec 14 14:02:05 2010~
+Stamp   1292353376
+Expire  1297537352
+To      Xrak imm~
+Subject Objsell~
+Text
+\___________/ 
+A Blacksmith Stands Here.
+-=Exp:672128288=- -=Hp:136,526 Mana:82,801 Move:81,493=- objsell longs
+%%% Disconnected from server.
+ 
+ 
+Did it twice.
+~
+
+Sender  McCannus~
+Date    Fri Feb 11 04:50:50 2011~
+Stamp   1297417930
+Expire  1302601855
+To      imm~
+Subject gainlevel~
+Text
+It requires QP's instead of Bones to gain race levels.  Also
+if you don't gainlevel like i inadvertenly did you can change
+races when ever you want.
+Not sure if that was intentional?
+~
+
+Sender  Inaba~
+Date    Sat Jan 28 21:38:56 2012~
+Stamp   1327804759
+Expire  1332988747
+To      imm~
+Subject Identify~
+Text
+Using Caine to identify rare eq crashes the MUD.
+~
+
+Sender  Inaba~
+Date    Sat Jan 28 21:39:51 2012~
+Stamp   1327804833
+Expire  1332988799
+To      imm~
+Subject Amendment~
+Text
+Doing anything to do with randomly loaded eq
+be is ident or objsell crashes it.
+~
+

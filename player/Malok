@@ -1,0 +1,241 @@
+#PLAYERS
+Name         Malok~
+Switchname   Malok~
+PlayerID     2368
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        0
+Morph        ~
+Createtime   Wed Oct  7 01:03:58 2009~
+Lasttime     Mon Oct 12 15:33:02 2009~
+Lasthost     173-80-184-110-stal.atw.dyn.suddenlink.net~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       8192
+Sex          1
+Timetick     22
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       33554432
+Polyaff      0
+PlayerRank   1
+PlayerRace   0
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 0
+Pc_eyes 0
+Pc_hair 0
+Pc_looks 0
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   6
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   0
+Symbiotemkills 0
+Itemaffect   0
+Chakra       0
+Form         1048575
+Beast        15
+Spectype     0
+Specpower    0
+Home         3005
+Level        2
+Trust        0
+Security     0
+Paradox      0 0 0
+Played       2579
+Room         3054
+PkPdMkMd     0 0 30 2
+Alos         0
+Awin         0
+Bank         0
+Weapons      0 0 0 102 0 0 0 0 0 0 0 0 0
+Spells       0 0 0 0 12
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 81 0 0 0 0 0 0
+Stance2      5 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   1000 1000 1000 1000 1000 1000
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          496918
+Act          17952
+Act2         4605
+Special      0
+Bones        3
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Position     9
+Practice     0
+SavingThrow  0
+Alignment    1000
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         0
+WpnResist     7 0 3 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     MaZ6UJ4tywhvA~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        ~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     15 14 11 11 16
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        1038 251 521 67 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1254891838
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 0 Ideas 0 Announce 1254863685 Bugs 0 Personal 1255347901 Immortal 0 Builder 0 Kingdom 0 Religion 0 
+Skill        32 'identify'
+Skill        100 'berserk'
+End
+
+#OBJECT
+Nest         0
+Name         a tiny faerie floater~
+OwnerID      0
+ShortDescr   #Y=#y>#WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y<#Y=#n~
+Description  #WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y#n is here about to pass out.~
+Questowner   Malok~
+Vnum         50852
+ExtraFlags   262155
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Quest        65536
+Level        50
+Timer        0
+Cost         200
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         n newbie mark face ~
+OwnerID      0
+ShortDescr   #GN#n~
+Description  #GN#n is here vibratating with Super Newbie powers!~
+Questowner   Malok~
+Vnum         50851
+ExtraFlags   262147
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    32769
+WearLoc      -1
+ItemType     9
+Weight       40
+Condition    100
+Toughness    5
+Resistance   0
+2VictHitMsg  none~
+2CharHitMsg  none~
+Level        50
+Timer        0
+Cost         500
+AttackLvL    0
+FireLvL      0
+WaterLvL     0
+LightningLvL 0
+EarthLvL     0
+SigilLvL     0
+Values       21 0 0 16
+End
+
+#END

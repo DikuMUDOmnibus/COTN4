@@ -1,0 +1,423 @@
+#PLAYERS
+Name         Korax~
+Switchname   Korax~
+PlayerID     2716
+ShortDescr   ~
+LongDescr    ~
+ObjDesc      (null)~
+Description  ~
+Lord         ~
+Religion     0
+Kingdom      0
+KingRank	  0
+CPower -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 0 0 0 0 0 0 0 0 0 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2
+DiscRese     -1
+DiscPoin     0
+Class        9
+Morph        ~
+Createtime   Thu Sep  2 14:43:25 2010~
+Lasttime     Thu Dec 30 07:04:00 2010~
+Lasthost     bas1-toronto07-1176122656.dsl.bell.ca~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Decapmessage  ~
+Loginmessage  ~
+Logoutmessage ~
+Avatarmessage ~
+Tiemessage    ~
+Jflags       65536
+Sex          1
+Timetick     0
+Race         0
+TCol         0
+Relrank      0
+Aggcounter   0
+Bullypoints  0
+Bullycounter 0
+Aggresstowards  0
+Aggressfrom     0
+Runecount    0
+Revision     1
+Pagelen      0
+DamRed 100 0
+BankMem 0
+Faith        0
+Currentfaith 0
+Relpowers    0
+Immune       33554432
+Polyaff      0
+PlayerRank   1
+PlayerRace   10
+PlayerRaceLevel 0
+PcPractice   0
+Pcwpnprof    0
+Pcmaxwpnprof 0
+PlayerPotentia   0
+Bladeexp	  0
+Pc_build 2
+Pc_eyes 7
+Pc_hair 10
+Pc_looks 2
+Gnosis       0
+Clan         (null)~
+Rage         0
+Generation   1
+Genexp       0
+Flag2       0
+Flag3       0
+Flag4       0
+SilTol      0
+Souls	      0
+Symbioteac   0
+Symbioteaff  0
+Symbiotedc   0
+Symbiotedr   0
+Symbiotehr   0
+Symbiotelvl  0
+Symbiotepoints   0
+Symbiotetype   2
+Symbiotemkills 0
+Ability   1 1 1 1 0
+Abilityexp   0 0 0 0 0
+Abilitycur -1 -1 -1 -1 -1 -1
+Itemaffect   0
+Chakra       0
+Form         1048575
+Beast        30
+Spectype     0
+Specpower    0
+Home         3005
+Level        12
+Trust        12
+Security     9
+Paradox      0 0 0
+Played       542492
+Room         3054
+PkPdMkMd     0 0 0 0
+Alos         0
+Awin         0
+Bank         0
+Weapons      0 0 0 0 0 0 0 0 0 0 0 0 0
+Spells       15 0 0 0 57
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0
+Stance2      0 0 0 0 0 0 0 -1 -1 -1 -1 -1
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   1000 1000 1000 1000 1000 1000
+Monkstuff    0
+Monkcrap     0
+Chi       0 0
+Focus     0 0
+Monkab     0 0 0 0
+Gifts    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Tier          0
+Tks           0
+Garou1        0
+Explevel     0
+Expgained    0
+Exp          472499
+Act          17952
+Act2         1
+Wiznet 6420253
+Special      0
+Bones        99796999
+Newbits      0
+Newbits2     0
+Sohbits      0
+Extra        12
+AffectedBy   0
+AffectedBy2   0
+Invi 12
+Position     9
+Practice     1989
+SavingThrow  0
+Alignment    0
+Hitroll      0
+Damroll      0
+Armor        100
+Wimpy        0
+Deaf         64
+WpnResist     0 0 0 0 0 0 0 0 0 0 0 0 0 
+MagResist     0 0 0 0 0 0 0 0 
+Password     KoO2FX5/ie/I2~
+Bamfin       ~
+Bamfout      ~
+Lastdecap1      ~
+Lastdecap2      ~
+Retaliation     ~
+Questsrun    0
+Queststotal  0
+Title        #n~
+Bounty	    0
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+AttrPerm     11 16 13 14 16
+AttrMod      0 0 0 0 0
+Quest        0
+Wolf         0
+Rank         0
+Stage        0 0 0
+Score        0 0 0 0 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+Power        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Stats        0 0 0 0 0 0 0 0 0 0 0 0 
+FakeCon      0 0 0 0 0 0 0 0
+Condition    0 48 48
+Denied       1283456605
+StatAbility  0 0 0 0
+StatAmount   0 0 0 0
+StatDuration 0 0 0 0
+KdefectTimer   0
+Exhaustion   0
+Boards       9 General 1291630470 Ideas 1286099667 Announce 1284909504 Bugs 1292353376 Personal 1284998258 Immortal 1283262829 Builder 0 Kingdom 1282883556 Religion 1285241901 
+Skill        100 'reserved'
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'aura of takhisis'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'gate'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'malice'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'readaura'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'sleep'
+Skill        100 'faith armor'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'word of recall'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'Godbless'
+Skill        100 'backstab'
+Skill        100 'garotte'
+Skill        100 'spiderform'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'spirit kiss'
+Skill        100 'jailwater'
+Skill        100 'kick'
+Skill        100 'circle'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'general purpose'
+Skill        100 'high explosive'
+Skill        100 'guardian'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'energyflux'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'elbow'
+Skill        100 'shards'
+Skill        100 'magma'
+Skill        100 'spiket'
+Skill        100 'venomt'
+Skill        100 'headbutt'
+Skill        100 'shiroken'
+Skill        100 'moonstrike'
+Skill        100 'blinky'
+Skill        100 'inferno'
+Skill        100 'fangs'
+Skill        100 'buffet'
+Skill        100 'sweep'
+Skill        100 'backfist'
+Skill        100 'jumpkick'
+Skill        100 'spinkick'
+Skill        100 'monksweep'
+Skill        100 'thrust kick'
+Skill        100 'shinkick'
+Skill        100 'palm strike'
+Skill        100 'lightning kick'
+Skill        100 'tornado kick'
+Skill        100 'rfangs'
+Skill        100 'knee'
+Skill        100 'lightning slice'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'protection vs good'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'preserve'
+Skill        100 'track'
+Skill        100 'purple sorcery'
+Skill        100 'red sorcery'
+Skill        100 'blue sorcery'
+Skill        100 'green sorcery'
+Skill        100 'yellow sorcery'
+Skill        100 'orange sorcery'
+Skill        100 'indigo sorcery'
+Skill        100 'violet sorcery'
+Skill        100 'chaos blast'
+Skill        100 'resistance'
+Skill        100 'web'
+Skill        100 'polymorph'
+Skill        100 'find familiar'
+Skill        100 'improve'
+Skill        100 'desanct'
+Skill        100 'imp heal'
+Skill        100 'imp fireball'
+Skill        100 'imp faerie fire'
+Skill        100 'imp teleport'
+Skill        100 'spew'
+Skill        100 'infirmity'
+Skill        100 'shred'
+Skill        100 'cheapshot'
+Skill        100 'multiplearms'
+Skill        100 'razorsharp claws'
+Skill        100 'bladespin'
+Skill        100 'hooves'
+Skill        100 'lightning blast'
+Skill        100 'aura of death'
+Skill        100 'heavenly aura'
+Skill        100 'mageshield'
+Skill        100 'wrath of god'
+Skill        100 'darktendrils'
+Skill        100 'fiery aura'
+Skill        100 'chillhand'
+Skill        100 'booming voice'
+Skill        100 'quills'
+Skill        100 'venom tongue'
+Skill        100 'spiked tail'
+Skill        100 'forcebless'
+Skill        100 'venom spit'
+Skill        100 'laser'
+Skill        100 'lunar flare'
+Skill        100 'poison stinger'
+Skill        100 'hellfire'
+Skill        100 'magma burst'
+Skill        100 'ice shards'
+Skill        100 'knife spin'
+Skill        100 'wakasashi slice'
+Skill        100 'caltrop toss'
+Skill        100 'soulreaper'
+Skill        100 ''
+Skill        100 'shadow thrust'
+Skill        100 'gutcutter'
+Skill        100 'dirtthrow'
+Skill        100 'soul seeker'
+Skill        100 'greater bless'
+Skill        100 'holy aura'
+Skill        100 'drowfire'
+Skill        100 'clay ball'
+Skill        100 'group heal'
+Skill        100 'supreme attack'
+Skill        100 'thrown pie'
+Skill        100 '#C*#wSmAcK#C*#n'
+Skill        100 '#C*#wBaSh#C*#n'
+Skill        100 '#C*#wThWaCk#C*#n'
+Skill        100 'shimmering_plasma'
+Skill        100 'telekinetic burst'
+Skill        100 'burning hot mocha'
+Skill        100 'potato grenade'
+Skill        100 'breath'
+Skill        100 'disquiet'
+Skill        100 'food frenzy'
+Skill        100 'tentacle shower'
+Skill        100 'visage'
+Skill        100 '#C*#7Tattoo Magic#C*#n'
+Skill        100 'heal2'
+Skill        100 'darmor'
+Skill        100 'pure faith'
+Skill        100 'thorny brambles'
+Skill        100 'blast of steam'
+Skill        100 'rocket blast'
+Skill        100 'machinegun salve'
+Skill        100 'solar flare'
+Skill        100 'paradox'
+Skill        100 'retribution'
+Skill        100 'stench'
+Skill        100 'zomplague'
+Skill        100 'bloody shuriken'
+Skill        100 'chains'
+Skill        100 'sickles'
+Skill        100 'spiked stones'
+Skill        100 'holy energies'
+Skill        100 'katana'
+Skill        100 'kamas'
+Skill        100 'shinobi bless'
+Skill        100 'requiem'
+Alias      oload~ load obj~
+End
+
+#END
